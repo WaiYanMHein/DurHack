@@ -69,3 +69,5 @@ recommendations3 = recommend_items(user_id3)
 #print(f"Recommendations for user {user_id2}: {recommendations2.tolist()}")
 #print(f"Recommendations for user {user_id3}: {recommendations3.tolist()}")
 
+
+
