@@ -9,35 +9,33 @@ from sklearn.preprocessing import StandardScaler
     'event_duration': [60, 90, 120, 150, 180],
     'event_type': ['music', 'sports', 'music', 'sports', 'music']
 }"""
-# Load data from CSV
-df = pd.read_csv('users_small.csv')
 
-# Ensure the data is in the correct format
-df = df[['user_id', 'event_id', 'rating']]
-
-#df = pd.DataFrame(data)
-
-user_item_matrix = df.pivot(index='user_id', columns='event_id', values='rating').fillna(0)
-
-# Normalize the data (optional but recommended)
-scaler = StandardScaler()
-user_item_matrix_scaled = scaler.fit_transform(user_item_matrix)
-
-# Calculate cosine similarity between users
-user_similarity = cosine_similarity(user_item_matrix_scaled)
-#print(user_similarity)
-
-# Convert the similarity matrix to a DataFrame
-user_similarity_df = pd.DataFrame(user_similarity, index=user_item_matrix.index, columns=user_item_matrix.index)
-#print("user similarity df", user_similarity_df)
-
-def get_similar_users(user_id, num_users=2):
+def get_similar_users(csv_file,user_id, num_users=2):
     # Get the most similar users
-    
+    df = pd.read_csv(csv_file)
+
+    # Ensure the data is in the correct format
+    df = df[['user_id', 'event_id', 'rating']]
+
+    #df = pd.DataFrame(data)
+
+    user_item_matrix = df.pivot(index='user_id', columns='event_id', values='rating').fillna(0)
+
+    # Normalize the data (optional but recommended)
+    scaler = StandardScaler()
+    user_item_matrix_scaled = scaler.fit_transform(user_item_matrix)
+
+    # Calculate cosine similarity between users
+    user_similarity = cosine_similarity(user_item_matrix_scaled)
+    #print(user_similarity)
+
+    # Convert the similarity matrix to a DataFrame
+    user_similarity_df = pd.DataFrame(user_similarity, index=user_item_matrix.index, columns=user_item_matrix.index)
+    #print("user similarity df", user_similarity_df)
     similar_users = user_similarity_df[user_id].sort_values(ascending=False).index[1:num_users+1]
     return similar_users
 
-def recommend_items(user_id, num_recommendations=2):
+def recommend_items(user_item_matrix, user_id, num_recommendations=2):
     similar_users = get_similar_users(user_id)
     similar_users_ratings = user_item_matrix.loc[similar_users]
     

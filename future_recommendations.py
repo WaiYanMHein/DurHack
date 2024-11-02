@@ -66,16 +66,11 @@ def create_matrix(df, column):
     X = csr_matrix((df[column], (user_index,item_index)), shape=(numUniqueUsers, numUniqueevents))
     
     return X, user_mapper, event_mapper, user_inv_mapper, event_inv_mapper
-    
-
-
 
 def train_model(X, k, metric="cosine"):
     kNN = NearestNeighbors(n_neighbors=k+1, algorithm="brute", metric=metric)
     kNN.fit(X)
     return kNN
-
-
 
 def find_kNN(id, kNN, X, mapper, inv_mapper, k):
     """
@@ -156,7 +151,36 @@ def recommend_events(user_id):
 
     return recommend_events
 
+def user_choose_time(start_time, end_time): 
+    """
+    Prompt the user to choose a date range for event recommendations.
+    
+    Args:
+        start_time: the start datetime for the range
+        end_time: the end datetime for the range
+        
+    Returns: DataFrame of events within the specified date range
+    """
+    start_time = pd.to_datetime(start_time)
+    end_time = pd.to_datetime(end_time)
+    
+    filtered_events = df_events_future[(df_events_future["start_datetime"] >= start_time) & 
+                                       (df_events_future["start_datetime"] <= end_time)]
+    
+    return filtered_events
 
+def closest_time_events(recommended_events, num): 
+    """
+    find the n events that are closest to current date
+    Args:
+        recommended_events (_type_): _description_
+        
+    """
+    recommended_events_df = df_events_future[df_events_future['event_id'].isin(recommended_events)]
+    recommended_events_df = recommended_events_df.sort_values(by='start_datetime')
+    return recommended_events_df.head(num)
+    
+    
 
 ## Train first tower --- finding similar users
 pastX, user_mapper, event_mapper, user_inv_mapper, event_inv_mapper = create_matrix(df_ratings_past, "rating")
@@ -172,4 +196,13 @@ futureX = futureX.T ##Transpose since grouping similar events
 trained_kNN_future_data = train_model(futureX, kFuture)
 ##----------------------------
 
-
+# Example usage
+#print("Time range for events: ")
+#start_time = input("Enter the start time: ")
+#end_time = input("Enter the end time: ")
+#filtered_events = user_choose_time(start_time, end_time)
+user_id = 1  # Example user_id
+recommended_events = recommend_events(user_id)
+time_reco_events = closest_time_events(recommended_events, 5)
+print(f"Recommended events for user {user_id}: {recommended_events}")
+print(f"Recommended events for user {user_id}: {time_reco_events}")
