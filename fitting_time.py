@@ -1,41 +1,16 @@
 import random
 import pandas as pd
+from cal import Gain_data
 
 
 # ==================================================User Data==================================================
 
-# Generate dummy data
-users = [i for i in range(1, 21)]
-events = [j for j in range(1, 11)]
+# Generate from the cal.py
+users = Gain_data()
 
-
-def generate_availability():
-    # Generate random availability times between 9 and 18
-    available_hours = random.sample(range(9, 19), random.randint(8, 9))
-    return sorted(available_hours)
-
-
-def generat_rating():
-    return round(random.uniform(0, 10), 1)
-
-
-user_data = []
-
-for user in users:
-    event = random.choice(events)
-    rating = generat_rating()
-    availability = generate_availability()
-    user_data.append(
-        {
-            "user_id": user,
-            "event_id": event,
-            "rating": rating,
-            "availability": availability,
-        }
-    )
 
 # Convert to DataFrame for better visualization
-df = pd.DataFrame(user_data)
+df = pd.DataFrame(users)
 print(df)
 print("\n")
 
@@ -54,30 +29,37 @@ def fitting_time():
 
     for _, row in events_df.iterrows():
         event_id = row["event_id"]
+        event_date = pd.to_datetime(row["date"]).strftime("%Y-%m-%d")
         start_time = pd.to_datetime(row["start_time"]).hour
         end_time = pd.to_datetime(row["end_time"]).hour
         duration = list(range(start_time, end_time))
-        event_time.append({"event_id": event_id, "duration": duration})
+        event_time.append(
+            {"event_id": event_id, "duration": duration, "date": event_date}
+        )
 
     # Create a dictionary for quick lookup of event durations
     event_durations_dict = {
-        event["event_id"]: event["duration"] for event in event_time
+        event["event_id"]: {"date": event["date"], "duration": event["duration"]}
+        for event in event_time
     }
+    # print(event_durations_dict)
 
     # Create a new array to store {user_id, user_availability, event_duration}
     combined_info = []
 
-    for user in user_data:
-        event_id = user["event_id"]
+    for user in users:
+        date = user["date"]
         user_availability = user["availability"]
         matching_events = []
         for event in event_durations_dict.items():
-            if all(hour in user_availability for hour in event[1]):
+            if event[1]["date"] == date and all(
+                hour in user_availability for hour in event[1]["duration"]
+            ):
                 matching_events.append(event[0])
 
         combined_info.append(
             {
-                "user_id": user["user_id"],
+                "date": date,
                 "user_availability": user_availability,
                 "matching_events": matching_events,
             }
