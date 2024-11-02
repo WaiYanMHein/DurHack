@@ -94,6 +94,24 @@ def find_free_slots(events, date_to_check):
 
 
 def print_free_slots(date, free_slots):
+    """
+    Print the available free time slots for a given date.
+    Args:
+        date (datetime.date): The date for which to print free time slots.
+        free_slots (list of tuple): A list of tuples where each tuple contains two datetime.datetime objects 
+                                    representing the start and end times of a free slot.
+    Returns:
+        None
+    Example:
+        from datetime import datetime, timedelta
+        date = datetime(2023, 10, 1)
+        free_slots = [(datetime(2023, 10, 1, 9, 0), datetime(2023, 10, 1, 10, 0)),
+                          (datetime(2023, 10, 1, 14, 0), datetime(2023, 10, 1, 15, 30))]
+        print_free_slots(date, free_slots)
+        Free time slots on 2023-10-01:
+          09:00 - 10:00 (1h 0m)
+          14:00 - 15:30 (1h 30m)
+    """
     if not free_slots:
         print(f"No free slots available on {date.strftime('%Y-%m-%d')}.")
         return
