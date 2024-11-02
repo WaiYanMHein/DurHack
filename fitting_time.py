@@ -6,27 +6,38 @@ from cal import Gain_data
 # ==================================================User Data==================================================
 
 # Generate from the cal.py
-users = Gain_data()
+
+#users = Gain_data()
 
 
 # Convert to DataFrame for better visualization
-df = pd.DataFrame(users)
-print(df)
-print("\n")
+#df = pd.DataFrame(users)
+#print(df)
+#print("\n")
 
 
 # ==================================================Generated Events==================================================
 
-events_df = pd.read_csv("events_future-2.csv")
-print(events_df)
-print("\n")
+"""events_df = pd.read_csv("events_future-2.csv")
+print("Events", events_df)
+print("\n")"""
 
 
 # ==================================================Fitting Time==================================================
-def fitting_time():
-
+def fitting_time(csv_file, start, end):
+    users = Gain_data(start, end)
+    df = pd.DataFrame(users)
+    #print(df)
+    try: 
+        # Read the CSV file into a DataFrame
+        events_df = pd.read_csv(csv_file)
+    except FileNotFoundError:
+        # Return an error message if the file is not found
+        return ("File not found error")
+    
     event_time = []
 
+    # Iterate over each row in the events DataFrame
     for _, row in events_df.iterrows():
         event_id = row["event_id"]
         event_date = pd.to_datetime(row["date"]).strftime("%Y-%m-%d")
@@ -42,15 +53,15 @@ def fitting_time():
         event["event_id"]: {"date": event["date"], "duration": event["duration"]}
         for event in event_time
     }
-    # print(event_durations_dict)
 
-    # Create a new array to store {user_id, user_availability, event_duration}
     combined_info = []
 
+    # Iterate over each user
     for user in users:
         date = user["date"]
         user_availability = user["availability"]
         matching_events = []
+        # Check for matching events based on date and availability
         for event in event_durations_dict.items():
             if event[1]["date"] == date and all(
                 hour in user_availability for hour in event[1]["duration"]
@@ -64,9 +75,10 @@ def fitting_time():
                 "matching_events": matching_events,
             }
         )
-    # Convert to DataFrame for better visualization
+    
+    # Convert the combined information to a DataFrame for better visualization
     combined_df = pd.DataFrame(combined_info)
     return combined_df
 
 
-print(fitting_time())
+print(fitting_time("events_future-2.csv", "2024-11-02", "2024-11-06"))
