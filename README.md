@@ -13,3 +13,7 @@
   - MongoDB 
 - Implementing the AI system 
   - Python 
+## Flow
+- after user has attended events, generate similar events
+- separating past and future events for the generated events
+- check user's timetable to see if the future events can be attended by the user, eliminiate time crashed event
