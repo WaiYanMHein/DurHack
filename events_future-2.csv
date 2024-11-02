@@ -1,0 +1,6 @@
+event_id,name,type,location,start_time,end_time,date
+1,Tech Talk,Concert,New York,14:45:00,18:45:00,2026-03-21
+2,Music Concert,Conference,Los Angeles,10:15:00,12:15:00,2025-09-25
+3,Art Exhibition,Screening,Chicago,10:00:00,15:00:00,2024-08-10
+4,Music Concert,Concert,Chicago,15:15:00,16:15:00,2026-06-15
+5,Food Festival,Festival,New York,10:15:00,13:15:00,2026-02-15
