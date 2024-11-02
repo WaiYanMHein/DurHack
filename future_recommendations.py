@@ -141,7 +141,7 @@ def get_going(user_ids):
     
     Returns: list of all the events these users are going to"""
     df_going = df_going_future[df_going_future["user_id"].isin(user_ids)]
-    going_event_ids = df_going["event_ids"].unique().to_list()
+    going_event_ids = df_going["event_id"].unique().tolist()
     return going_event_ids
 
 
