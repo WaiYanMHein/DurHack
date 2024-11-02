@@ -1,6 +1,0 @@
-event_id,name,type,location,start_time,end_time,date
-1,Tech Talk,Concert,San Francisco,12:00:00,16:00:00,2023-12-13
-2,Art Exhibition,Exhibition,Los Angeles,08:15:00,10:15:00,2024-04-29
-3,Art Exhibition,Screening,San Francisco,09:00:00,14:00:00,2025-02-25
-4,Music Concert,Conference,Boston,11:15:00,14:15:00,2024-08-16
-5,Food Festival,Screening,Los Angeles,12:45:00,17:45:00,2023-02-01
