@@ -1,0 +1,6 @@
+event_id,name,type,location,start_time,end_time,date
+1,Music Concert,Festival,Chicago,12:30:00,13:30:00,2024-10-04
+2,Tech Talk,Exhibition,San Francisco,12:30:00,13:30:00,2022-12-30
+3,Music Concert,Conference,Boston,11:45:00,14:45:00,2022-01-24
+4,Food Festival,Exhibition,New York,13:30:00,16:30:00,2023-10-21
+5,Food Festival,Conference,Los Angeles,08:45:00,10:45:00,2023-07-09
