@@ -1,6 +1,0 @@
-event_id,name,type,location,start_time,end_time,date,start_datetime,end_datetime
-1,Event 1,Conference,Hall A,13:00,17:00,2024-11-13,2024-11-13 13:00:00,2024-11-13 17:00:00
-2,Event 2,Webinar,Hall A,17:00,19:00,2024-11-09,2024-11-09 17:00:00,2024-11-09 19:00:00
-3,Event 3,Seminar,Room 101,11:00,14:00,2024-11-08,2024-11-08 11:00:00,2024-11-08 14:00:00
-4,Event 4,Webinar,Online,11:00,13:00,2024-11-12,2024-11-12 11:00:00,2024-11-12 13:00:00
-5,Event 5,Meetup,Auditorium,09:00,10:00,2024-11-08,2024-11-08 09:00:00,2024-11-08 10:00:00
