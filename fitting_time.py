@@ -42,7 +42,7 @@ print("\n")
 
 # ==================================================Generated Events==================================================
 
-events_df = pd.read_csv("events_small copy.csv")
+events_df = pd.read_csv("events_future-2.csv")
 print(events_df)
 print("\n")
 
@@ -78,7 +78,7 @@ def fitting_time():
         combined_info.append(
             {
                 "user_id": user["user_id"],
-                # "user_availability": user_availability,
+                "user_availability": user_availability,
                 "matching_events": matching_events,
             }
         )
