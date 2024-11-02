@@ -121,7 +121,7 @@ def get_similar_users(user_id, k):
 
 def get_similar_events_future(event_id, k):
     """
-    Get most similar users as a dataframe
+    Get most similar users as a list of user ids
     
     Args:
         user_id: the user id of the event the user liked
@@ -133,37 +133,43 @@ def get_similar_events_future(event_id, k):
 
 
 
+def get_going(user_ids):
+
+    """ Takes a list of users and finds the events they are going to
+    Args:
+    user_ids: a list of user ids
+    
+    Returns: list of all the events these users are going to"""
+    df_going = df_going_future[df_going_future["user_id"].isin(user_ids)]
+    going_event_ids = df_going["event_ids"].unique().to_list()
+    return going_event_ids
+
+
 def recommend_events(user_id):
     """
     Take a user id and find event recommendations in the future
     
-    Returns: Event ids"""
+    Returns: Event ids for recommended events"""
 
-    similar_users = get_similar_users(user_id)
-    recommendation_ids = []
+    similar_users = get_similar_users(user_id, kPast)
+    recommend_events = get_going(similar_users)
 
-    for similar_user_id in similar_users:
-        get_similar_events_future
-
+    return recommend_events
 
 
-
-event_id_to_name = dict(zip(df_events_past["event_id"], df_events_past["name"]))
-event_name_to_id = dict(zip(df_events_past["name"], df_events_past["event_id"]))
 
 ## Train first tower --- finding similar users
 pastX, user_mapper, event_mapper, user_inv_mapper, event_inv_mapper = create_matrix(df_ratings_past, "rating")
-kPast = 10
+kPast = 5
 trained_kNN_past_data = train_model(pastX, kPast)
 
-## Train second tower --- finding similar future events
+
+## Not used------------
+## Train second tower --- finding similar future events 
 futureX, user_mapper, event_mapper, user_inv_mapper_inv_mapper, event_inv_mapper = create_matrix(df_going_future, "going")
 kFuture = 10
 futureX = futureX.T ##Transpose since grouping similar events
 trained_kNN_future_data = train_model(futureX, kFuture)
-
-
-
-
+##----------------------------
 
 
