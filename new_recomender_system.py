@@ -169,8 +169,8 @@ def hybrid_recommendations(user_id, num_recommendations=5):
     return combined_recs[['event_id', 'name', 'type', 'start_datetime']].head(num_recommendations)
 
 # Example usage
-user_id = 5  # Replace with your user ID
-recommendations = hybrid_recommendations(user_id, num_recommendations=5)
+user_id = 100  # Replace with your user ID
+recommendations = hybrid_recommendations(user_id, num_recommendations=20)
 
 if not recommendations.empty:
     print(f"\nHybrid Recommendations for user {user_id}:")
@@ -178,7 +178,6 @@ if not recommendations.empty:
 else:
     print(f"No recommendations available for user {user_id}.")
 
-#------------------------------------------------------------
-#testing
 
+#------------------------------------------------------------
 
