@@ -2,7 +2,8 @@ import requests
 from icalendar import Calendar
 from datetime import datetime, timedelta, time, date
 
-class cal: 
+
+class cal:
 
     ICS_URL = "https://mytimetable.durham.ac.uk/calendar/export/386cdf20245dc0ca4da8bec78fa89d7fdf0ad6d9.ics"
 
@@ -13,8 +14,8 @@ class cal:
     # Define working hours (e.g., 9 AM to 5 PM)
     WORKING_HOURS_START = time(9, 0)  # 9:00 AM
     WORKING_HOURS_END = time(22, 0)  # 10:00 PM
-    # the time period for which you want to find events in 
-    
+    # the time period for which you want to find events in
+
     def change_working_hours(start, end):
         # change the working hours
         cal.WORKING_HOURS_START = time(start, 0)
@@ -46,29 +47,30 @@ class cal:
                     while current_date <= dtend:
                         events.append(
                             (
-                                datetime.combine(current_date, WORKING_HOURS_START),
-                                datetime.combine(current_date, WORKING_HOURS_END),
+                                datetime.combine(current_date, cal.WORKING_HOURS_START),
+                                datetime.combine(current_date, cal.WORKING_HOURS_END),
                             )
                         )
                         current_date += timedelta(days=1)
                 else:
                     # Mixed datetime and date types
                     if isinstance(dtstart, date):
-                        dtstart = datetime.combine(dtstart, WORKING_HOURS_START)
+                        dtstart = datetime.combine(dtstart, cal.WORKING_HOURS_START)
                     if isinstance(dtend, date):
-                        dtend = datetime.combine(dtend, WORKING_HOURS_END)
+                        dtend = datetime.combine(dtend, cal.WORKING_HOURS_END)
                     events.append((dtstart, dtend))
         return events
 
-
     def find_free_slots(events, date_to_check):
         # Initialize the start and end of the working day
-        working_day_start = datetime.combine(date_to_check, WORKING_HOURS_START)
+        working_day_start = datetime.combine(date_to_check, cal.WORKING_HOURS_START)
         working_day_start = working_day_start.replace(
             tzinfo=None
         )  # Ensure datetime is naive
-        working_day_end = datetime.combine(date_to_check, WORKING_HOURS_END)
-        working_day_end = working_day_end.replace(tzinfo=None)  # Ensure datetime is naive
+        working_day_end = datetime.combine(date_to_check, cal.WORKING_HOURS_END)
+        working_day_end = working_day_end.replace(
+            tzinfo=None
+        )  # Ensure datetime is naive
 
         # Filter events for the specific date
         daily_events = []
@@ -101,7 +103,6 @@ class cal:
             free_slots.append((current_time, working_day_end))
 
         return free_slots
-
 
     def print_free_slots(date, free_slots):
         """
@@ -149,10 +150,11 @@ class cal:
         #     )
         # print()
 
-
-    def Gain_data(start,end): # example start argument: 2024-11-02, end argument: 2024-11-05
+    def Gain_data(
+        start, end
+    ):  # example start argument: 2024-11-02, end argument: 2024-11-05
         # Load all events once
-        events = load_events(ICS_URL)
+        events = cal.load_events(cal.ICS_URL)
         start_date = datetime.strptime(start, "%Y-%m-%d").date()  # Start date
         end_date = datetime.strptime(end, "%Y-%m-%d").date()  # End date
         # Initialize an empty list to store the combined data
@@ -161,8 +163,7 @@ class cal:
         # Loop over each date in the date range
         current_date = start_date
         while current_date <= end_date:
-            free_slots = find_free_slots(events, current_date)
-            
+            free_slots = cal.find_free_slots(events, current_date)
 
             for start, end in free_slots:
                 start_hour = start.hour
@@ -182,12 +183,13 @@ class cal:
                     date_entry["availability"] = sorted(set(date_entry["availability"]))
                 else:
                     # Create a new entry for the date
-                    combined_data.append({"date": date_str, "availability": hours_range})
+                    combined_data.append(
+                        {"date": date_str, "availability": hours_range}
+                    )
 
             current_date += timedelta(days=1)
 
         return combined_data
-
 
     if __name__ == "__main__":
         Gain_data()
