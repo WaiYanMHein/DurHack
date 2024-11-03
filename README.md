@@ -3,6 +3,10 @@
 ## AI recommendation system 
 - Content-based 
 - Item-to-item collaborative filtering
+
+## How?
+- import user's library using link
+- generate a list of recommended future events within a period of time
   
 ## Purpose 
 - By using Machine learning alogorithm, it generates similar future events for users to choose if they wish to attend or not
