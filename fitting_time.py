@@ -81,4 +81,4 @@ def fitting_time(csv_file, start, end):
     return combined_df
 
 
-print(fitting_time("events_future-2.csv", "2024-11-02", "2024-11-06"))
+# print(fitting_time("events_future-2.csv", "2024-11-02", "2024-11-06"))
