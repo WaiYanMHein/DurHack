@@ -252,3 +252,4 @@ target_user_id = 5
 generate_recommendations_for_user(
     target_user_id, preds_df, df_events_future, df_users_past, user_similarity_df, num_recommendations=5
 )
+#
