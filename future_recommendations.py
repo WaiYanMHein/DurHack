@@ -196,6 +196,29 @@ kPast = 5
 trained_kNN_past_data = train_model(pastX, kPast)
 
 
+def generate_recommendations(user_id):
+    """
+    Generate recommendations for a user
+
+    Args:
+        user_id: the user id of the event the user liked
+
+    Returns: list of event ids for events which are similar
+    """
+    generated_recommended_events = recommend_events(user_id)
+    time_reco_events = closest_time_events(generated_recommended_events, 50)
+    return time_reco_events
+
+
+# print(generate_recommendations(1))
+## Train first tower --- finding similar users
+# pastX, user_mapper, event_mapper, user_inv_mapper, event_inv_mapper = create_matrix(
+#     df_ratings_past, "rating"
+# )
+# kPast = 5
+# trained_kNN_past_data = train_model(pastX, kPast)
+
+
 ## Not used------------
 ## Train second tower --- finding similar future events
 futureX, user_mapper, event_mapper, user_inv_mapper_inv_mapper, event_inv_mapper = (
@@ -211,10 +234,7 @@ trained_kNN_future_data = train_model(futureX, kFuture)
 # start_time = input("Enter the start time: ")
 # end_time = input("Enter the end time: ")
 # filtered_events = user_choose_time(start_time, end_time)
-user_id = 5  # Example user_id
-generated_recommended_events = recommend_events(user_id)
-time_reco_events = closest_time_events(generated_recommended_events, 5)
-print(generated_recommended_events)
-print(time_reco_events)
+# user_id = 5  # Example user_id
+
 # print(f"Recommended events for user {user_id}: {recommended_events}")
 # print(f"Recommended events for user {user_id}: {time_reco_events}")
