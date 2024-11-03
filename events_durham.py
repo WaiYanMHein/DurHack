@@ -4,6 +4,8 @@ from datetime import datetime, timedelta
 import numpy as np
 
 # Parameters
+
+
 num_events = 1000
 start_date = datetime(2024, 6, 7)
 end_date = datetime(2024, 12, 13)
@@ -21,13 +23,13 @@ for event_id in range(1, num_events + 1):
     # Random date
     date = random.choice(event_dates)
 
-    # Random start time (mostly in the afternoon)
+# Random start time (mostly in the afternoon)
     if random.random() < 0.7:
         start_time = random.choice(time_slots[20:])  # Afternoon slots
     else:
         start_time = random.choice(time_slots)
 
-    # Random duration with mean ~1.5h, max 4h
+# Random duration with mean ~1.5h, max 4h
     duration_minutes = min(int(random.expovariate(1/90)), 240)  # Mean 90 minutes
     duration = timedelta(minutes=(duration_minutes // 15) * 15)  # Round to nearest 15 mins
 
@@ -48,11 +50,11 @@ for event_id in range(1, num_events + 1):
         'name': name,
         'type': event_type,
         'location': random.choice(locations),
-        'start_time': start_datetime.strftime('%H:%M'),
-        'end_time': end_datetime.strftime('%H:%M'),
+        'start_time': start_datetime.strftime('%H:%M:%S'),
+        'end_time': end_datetime.strftime('%H:%M:%S'),
         'date': date.strftime('%Y-%m-%d'),
-        'start_datetime': start_datetime.strftime('%Y-%m-%d %H:%M'),
-        'end_datetime': end_datetime.strftime('%Y-%m-%d %H:%M'),
+        'start_datetime': start_datetime.strftime('%Y-%m-%d %H:%M:%S'),
+        'end_datetime': end_datetime.strftime('%Y-%m-%d %H:%M:%S'),
     }
     events.append(event)
 

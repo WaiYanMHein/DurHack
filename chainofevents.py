@@ -18,6 +18,13 @@ def main(start, end, user_id):
     list = fitting_time("MergeAll.csv", start, end)
     return list
 
+def recommendations_to_csv(user_id):
+    # convert the recommendations from generate_recommendations to a csv file
+    Closest_event = generate_recommendations(user_id)
+    df_closest_event = pd.DataFrame(Closest_event)
+    df_closest_event.to_csv("MergeAll.csv", index=False)
+    return "Closest event data has been saved to closest_event.csv"
+
 
 if __name__ == "__main__":
     start = input("Enter the start time: ")
