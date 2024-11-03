@@ -20,7 +20,7 @@
   - it combines all the file to output a list of {date, matching_event}
 - #### events_durham.csv
   - it stores the future durham society events
-- #### user_going_durham.csv
+- #### ratings_past.csv
   - it stores user info, including the rating of events
 ## Procedure
 - User attended events and submit their attending history, rating to the program
