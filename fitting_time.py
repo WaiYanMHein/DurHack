@@ -1,19 +1,19 @@
 import random
 import pandas as pd
-from cal import Gain_data
+from cal import cal
 
 
 # ==================================================User Data==================================================
 
 # Generate from the cal.py
 
-#users = Gain_data()
+# users = Gain_data()
 
 
 # Convert to DataFrame for better visualization
-#df = pd.DataFrame(users)
-#print(df)
-#print("\n")
+# df = pd.DataFrame(users)
+# print(df)
+# print("\n")
 
 
 # ==================================================Generated Events==================================================
@@ -25,16 +25,16 @@ print("\n")"""
 
 # ==================================================Fitting Time==================================================
 def fitting_time(csv_file, start, end):
-    users = Gain_data(start, end)
+    users = cal.Gain_data(start, end)
     df = pd.DataFrame(users)
-    #print(df)
-    try: 
+    # print(df)
+    try:
         # Read the CSV file into a DataFrame
         events_df = pd.read_csv(csv_file)
     except FileNotFoundError:
         # Return an error message if the file is not found
-        return ("File not found error")
-    
+        return "File not found error"
+
     event_time = []
 
     # Iterate over each row in the events DataFrame
@@ -75,7 +75,7 @@ def fitting_time(csv_file, start, end):
                 "matching_events": matching_events,
             }
         )
-    
+
     # Convert the combined information to a DataFrame for better visualization
     combined_df = pd.DataFrame(combined_info)
     return combined_df
