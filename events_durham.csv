@@ -1,0 +1,1001 @@
+,event_id,name,type,location,start_time,end_time,date,start_datetime,end_datetime
+1,1,Cultural Festival #1,Exhibition,"Durham, United Kingdom",19:15,20:45,28/08/2024,28/08/2024 19:15,28/08/2024 20:45
+2,2,Music Festival #2,Networking Event,"Durham, United Kingdom",22:15,23:59,05/07/2024,05/07/2024 22:15,05/07/2024 23:59
+3,3,Art Exhibition #3,Lecture,"Durham, United Kingdom",18:30,19:30,15/08/2024,15/08/2024 18:30,15/08/2024 19:30
+4,4,Winter Gala #4,Sports Event,"Durham, United Kingdom",15:45,16:00,29/10/2024,29/10/2024 15:45,29/10/2024 16:00
+5,5,Startup Workshop #5,Sports Event,"Durham, United Kingdom",18:30,19:00,19/10/2024,19/10/2024 18:30,19/10/2024 19:00
+6,6,Tech Conference #6,Ball,"Durham, United Kingdom",13:45,17:15,13/08/2024,13/08/2024 13:45,13/08/2024 17:15
+7,7,Shakespeare Play #7,Sports Event,"Durham, United Kingdom",18:45,19:45,03/11/2024,03/11/2024 18:45,03/11/2024 19:45
+8,8,Cultural Festival #8,Exhibition,"Durham, United Kingdom",16:15,16:45,14/09/2024,14/09/2024 16:15,14/09/2024 16:45
+9,9,Networking Evening #9,Ball,"Durham, United Kingdom",17:30,18:00,27/11/2024,27/11/2024 17:30,27/11/2024 18:00
+10,10,Startup Workshop #10,Movie Screening,"Durham, United Kingdom",13:15,15:30,12/08/2024,12/08/2024 13:15,12/08/2024 15:30
+11,11,Music Festival #11,Networking Event,"Durham, United Kingdom",14:45,14:45,10/12/2024,10/12/2024 14:45,10/12/2024 14:45
+12,12,Film Night #12,Sports Event,"Durham, United Kingdom",15:15,17:15,12/11/2024,12/11/2024 15:15,12/11/2024 17:15
+13,13,Networking Evening #13,Networking Event,"Durham, United Kingdom",23:45,23:59,21/11/2024,21/11/2024 23:45,21/11/2024 23:59
+14,14,Art Exhibition #14,Concert,"Durham, United Kingdom",21:45,23:59,03/11/2024,03/11/2024 21:45,03/11/2024 23:59
+15,15,New Year Party #15,Networking Event,"Durham, United Kingdom",22:30,23:59,23/06/2024,23/06/2024 22:30,23/06/2024 23:59
+16,16,Historical Lecture #16,Conference,"Durham, United Kingdom",19:15,19:45,06/07/2024,06/07/2024 19:15,06/07/2024 19:45
+17,17,Sports Day #17,Exhibition,"Durham, United Kingdom",22:00,00:00,03/11/2024,03/11/2024 22:00,04/11/2024 00:00
+18,18,Food Fair #18,Ball,"Durham, United Kingdom",18:45,20:00,15/07/2024,15/07/2024 18:45,15/07/2024 20:00
+19,19,Art Exhibition #19,Seminar,"Durham, United Kingdom",18:15,19:45,24/10/2024,24/10/2024 18:15,24/10/2024 19:45
+20,20,Sports Day #20,Play,"Durham, United Kingdom",22:45,23:15,05/09/2024,05/09/2024 22:45,05/09/2024 23:15
+21,21,Networking Evening #21,Fair,"Durham, United Kingdom",13:30,13:30,06/07/2024,06/07/2024 13:30,06/07/2024 13:30
+22,22,Charity Run #22,Movie Screening,"Durham, United Kingdom",08:15,09:15,22/08/2024,22/08/2024 08:15,22/08/2024 09:15
+23,23,Historical Lecture #23,Seminar,"Durham, United Kingdom",20:15,20:30,11/11/2024,11/11/2024 20:15,11/11/2024 20:30
+24,24,Networking Evening #24,Party,"Durham, United Kingdom",16:30,20:30,25/06/2024,25/06/2024 16:30,25/06/2024 20:30
+25,25,Sports Day #25,Party,"Durham, United Kingdom",20:15,23:45,15/11/2024,15/11/2024 20:15,15/11/2024 23:45
+26,26,Food Fair #26,Play,"Durham, United Kingdom",22:15,22:15,02/10/2024,02/10/2024 22:15,02/10/2024 22:15
+27,27,Networking Evening #27,Charity Event,"Durham, United Kingdom",15:15,15:45,09/07/2024,09/07/2024 15:15,09/07/2024 15:45
+28,28,Networking Evening #28,Seminar,"Durham, United Kingdom",22:15,23:00,01/11/2024,01/11/2024 22:15,01/11/2024 23:00
+29,29,Networking Evening #29,Festival,"Durham, United Kingdom",16:30,18:15,18/07/2024,18/07/2024 16:30,18/07/2024 18:15
+30,30,Sports Day #30,Networking Event,"Durham, United Kingdom",23:45,23:59,12/10/2024,12/10/2024 23:45,12/10/2024 23:59
+31,31,Science Seminar #31,Concert,"Durham, United Kingdom",23:15,23:45,12/08/2024,12/08/2024 23:15,12/08/2024 23:45
+32,32,Historical Lecture #32,Sports Event,"Durham, United Kingdom",17:30,18:30,25/09/2024,25/09/2024 17:30,25/09/2024 18:30
+33,33,Charity Run #33,Ball,"Durham, United Kingdom",15:45,19:45,17/08/2024,17/08/2024 15:45,17/08/2024 19:45
+34,34,Historical Lecture #34,Lecture,"Durham, United Kingdom",11:00,11:00,28/10/2024,28/10/2024 11:00,28/10/2024 11:00
+35,35,Historical Lecture #35,Fair,"Durham, United Kingdom",17:30,21:30,19/06/2024,19/06/2024 17:30,19/06/2024 21:30
+36,36,Art Exhibition #36,Workshop,"Durham, United Kingdom",10:30,10:45,09/08/2024,09/08/2024 10:30,09/08/2024 10:45
+37,37,Art Exhibition #37,Ball,"Durham, United Kingdom",09:00,13:00,27/07/2024,27/07/2024 09:00,27/07/2024 13:00
+38,38,Networking Evening #38,Concert,"Durham, United Kingdom",18:00,18:45,23/08/2024,23/08/2024 18:00,23/08/2024 18:45
+39,39,Food Fair #39,Seminar,"Durham, United Kingdom",12:30,16:00,17/09/2024,17/09/2024 12:30,17/09/2024 16:00
+40,40,Winter Gala #40,Concert,"Durham, United Kingdom",18:00,19:00,21/07/2024,21/07/2024 18:00,21/07/2024 19:00
+41,41,Historical Lecture #41,Charity Event,"Durham, United Kingdom",16:30,16:45,15/11/2024,15/11/2024 16:30,15/11/2024 16:45
+42,42,Networking Evening #42,Play,"Durham, United Kingdom",13:30,14:45,23/06/2024,23/06/2024 13:30,23/06/2024 14:45
+43,43,Food Fair #43,Festival,"Durham, United Kingdom",19:30,21:15,28/11/2024,28/11/2024 19:30,28/11/2024 21:15
+44,44,New Year Party #44,Exhibition,"Durham, United Kingdom",23:00,23:30,30/11/2024,30/11/2024 23:00,30/11/2024 23:30
+45,45,Art Exhibition #45,Ball,"Durham, United Kingdom",23:00,23:15,14/11/2024,14/11/2024 23:00,14/11/2024 23:15
+46,46,Charity Run #46,Festival,"Durham, United Kingdom",18:15,18:15,13/08/2024,13/08/2024 18:15,13/08/2024 18:15
+47,47,Science Seminar #47,Exhibition,"Durham, United Kingdom",21:00,22:45,19/09/2024,19/09/2024 21:00,19/09/2024 22:45
+48,48,Cultural Festival #48,Exhibition,"Durham, United Kingdom",16:45,18:45,24/06/2024,24/06/2024 16:45,24/06/2024 18:45
+49,49,Networking Evening #49,Charity Event,"Durham, United Kingdom",23:45,23:45,09/11/2024,09/11/2024 23:45,09/11/2024 23:45
+50,50,Historical Lecture #50,Networking Event,"Durham, United Kingdom",13:45,14:30,08/07/2024,08/07/2024 13:45,08/07/2024 14:30
+51,51,Music Festival #51,Workshop,"Durham, United Kingdom",16:45,18:15,15/08/2024,15/08/2024 16:45,15/08/2024 18:15
+52,52,Music Festival #52,Conference,"Durham, United Kingdom",20:00,22:15,15/06/2024,15/06/2024 20:00,15/06/2024 22:15
+53,53,Cultural Festival #53,Exhibition,"Durham, United Kingdom",16:45,17:45,12/06/2024,12/06/2024 16:45,12/06/2024 17:45
+54,54,Cultural Festival #54,Movie Screening,"Durham, United Kingdom",15:30,15:45,22/06/2024,22/06/2024 15:30,22/06/2024 15:45
+55,55,New Year Party #55,Conference,"Durham, United Kingdom",14:00,14:45,06/09/2024,06/09/2024 14:00,06/09/2024 14:45
+56,56,Winter Gala #56,Movie Screening,"Durham, United Kingdom",13:15,13:15,29/10/2024,29/10/2024 13:15,29/10/2024 13:15
+57,57,Charity Run #57,Fair,"Durham, United Kingdom",18:15,18:15,05/12/2024,05/12/2024 18:15,05/12/2024 18:15
+58,58,Film Night #58,Lecture,"Durham, United Kingdom",20:30,21:45,16/11/2024,16/11/2024 20:30,16/11/2024 21:45
+59,59,Music Festival #59,Conference,"Durham, United Kingdom",20:30,21:15,09/11/2024,09/11/2024 20:30,09/11/2024 21:15
+60,60,Sports Day #60,Fair,"Durham, United Kingdom",22:30,23:59,26/09/2024,26/09/2024 22:30,26/09/2024 23:59
+61,61,Art Exhibition #61,Fair,"Durham, United Kingdom",12:30,16:15,25/09/2024,25/09/2024 12:30,25/09/2024 16:15
+62,62,Art Exhibition #62,Fair,"Durham, United Kingdom",16:30,16:45,16/07/2024,16/07/2024 16:30,16/07/2024 16:45
+63,63,Sports Day #63,Lecture,"Durham, United Kingdom",09:30,10:15,13/07/2024,13/07/2024 09:30,13/07/2024 10:15
+64,64,Startup Workshop #64,Play,"Durham, United Kingdom",15:45,16:00,07/09/2024,07/09/2024 15:45,07/09/2024 16:00
+65,65,Shakespeare Play #65,Seminar,"Durham, United Kingdom",15:45,17:15,23/06/2024,23/06/2024 15:45,23/06/2024 17:15
+66,66,Startup Workshop #66,Networking Event,"Durham, United Kingdom",17:00,18:30,02/09/2024,02/09/2024 17:00,02/09/2024 18:30
+67,67,Tech Conference #67,Ball,"Durham, United Kingdom",21:45,23:59,18/11/2024,18/11/2024 21:45,18/11/2024 23:59
+68,68,Art Exhibition #68,Workshop,"Durham, United Kingdom",17:45,19:45,11/09/2024,11/09/2024 17:45,11/09/2024 19:45
+69,69,Charity Run #69,Seminar,"Durham, United Kingdom",14:00,14:15,22/08/2024,22/08/2024 14:00,22/08/2024 14:15
+70,70,Music Festival #70,Seminar,"Durham, United Kingdom",14:45,15:15,22/06/2024,22/06/2024 14:45,22/06/2024 15:15
+71,71,Sports Day #71,Seminar,"Durham, United Kingdom",18:00,18:15,16/06/2024,16/06/2024 18:00,16/06/2024 18:15
+72,72,Historical Lecture #72,Movie Screening,"Durham, United Kingdom",23:15,23:59,25/10/2024,25/10/2024 23:15,25/10/2024 23:59
+73,73,Film Night #73,Party,"Durham, United Kingdom",21:45,21:45,15/08/2024,15/08/2024 21:45,15/08/2024 21:45
+74,74,Winter Gala #74,Play,"Durham, United Kingdom",20:30,21:45,27/09/2024,27/09/2024 20:30,27/09/2024 21:45
+75,75,Sports Day #75,Party,"Durham, United Kingdom",13:00,17:00,11/10/2024,11/10/2024 13:00,11/10/2024 17:00
+76,76,Historical Lecture #76,Workshop,"Durham, United Kingdom",15:30,16:00,29/09/2024,29/09/2024 15:30,29/09/2024 16:00
+77,77,Winter Gala #77,Charity Event,"Durham, United Kingdom",16:45,18:00,09/08/2024,09/08/2024 16:45,09/08/2024 18:00
+78,78,Tech Conference #78,Ball,"Durham, United Kingdom",16:45,18:15,18/09/2024,18/09/2024 16:45,18/09/2024 18:15
+79,79,Tech Conference #79,Seminar,"Durham, United Kingdom",21:45,23:00,06/10/2024,06/10/2024 21:45,06/10/2024 23:00
+80,80,Cultural Festival #80,Networking Event,"Durham, United Kingdom",23:45,23:59,08/07/2024,08/07/2024 23:45,08/07/2024 23:59
+81,81,Cultural Festival #81,Movie Screening,"Durham, United Kingdom",20:45,21:00,03/09/2024,03/09/2024 20:45,03/09/2024 21:00
+82,82,Cultural Festival #82,Workshop,"Durham, United Kingdom",16:00,17:15,15/11/2024,15/11/2024 16:00,15/11/2024 17:15
+83,83,Food Fair #83,Seminar,"Durham, United Kingdom",17:30,21:30,30/11/2024,30/11/2024 17:30,30/11/2024 21:30
+84,84,Sports Day #84,Seminar,"Durham, United Kingdom",16:15,17:45,18/08/2024,18/08/2024 16:15,18/08/2024 17:45
+85,85,Tech Conference #85,Exhibition,"Durham, United Kingdom",17:00,17:00,28/08/2024,28/08/2024 17:00,28/08/2024 17:00
+86,86,Film Night #86,Fair,"Durham, United Kingdom",09:45,11:30,10/08/2024,10/08/2024 09:45,10/08/2024 11:30
+87,87,Startup Workshop #87,Fair,"Durham, United Kingdom",08:15,10:30,11/06/2024,11/06/2024 08:15,11/06/2024 10:30
+88,88,Charity Run #88,Festival,"Durham, United Kingdom",12:30,16:30,14/08/2024,14/08/2024 12:30,14/08/2024 16:30
+89,89,Film Night #89,Seminar,"Durham, United Kingdom",15:00,15:00,20/08/2024,20/08/2024 15:00,20/08/2024 15:00
+90,90,Tech Conference #90,Party,"Durham, United Kingdom",23:00,23:59,06/11/2024,06/11/2024 23:00,06/11/2024 23:59
+91,91,Shakespeare Play #91,Party,"Durham, United Kingdom",18:30,19:30,01/09/2024,01/09/2024 18:30,01/09/2024 19:30
+92,92,Art Exhibition #92,Movie Screening,"Durham, United Kingdom",23:30,23:59,30/10/2024,30/10/2024 23:30,30/10/2024 23:59
+93,93,Film Night #93,Fair,"Durham, United Kingdom",16:15,17:00,30/06/2024,30/06/2024 16:15,30/06/2024 17:00
+94,94,Winter Gala #94,Movie Screening,"Durham, United Kingdom",22:15,23:15,22/07/2024,22/07/2024 22:15,22/07/2024 23:15
+95,95,Charity Run #95,Play,"Durham, United Kingdom",16:45,17:00,26/10/2024,26/10/2024 16:45,26/10/2024 17:00
+96,96,Food Fair #96,Sports Event,"Durham, United Kingdom",14:15,14:30,04/07/2024,04/07/2024 14:15,04/07/2024 14:30
+97,97,Art Exhibition #97,Lecture,"Durham, United Kingdom",16:45,17:15,28/11/2024,28/11/2024 16:45,28/11/2024 17:15
+98,98,Historical Lecture #98,Movie Screening,"Durham, United Kingdom",22:30,23:59,13/06/2024,13/06/2024 22:30,13/06/2024 23:59
+99,99,New Year Party #99,Seminar,"Durham, United Kingdom",14:00,15:00,31/07/2024,31/07/2024 14:00,31/07/2024 15:00
+100,100,Art Exhibition #100,Ball,"Durham, United Kingdom",16:15,16:45,12/07/2024,12/07/2024 16:15,12/07/2024 16:45
+101,101,Winter Gala #101,Concert,"Durham, United Kingdom",14:30,18:30,04/11/2024,04/11/2024 14:30,04/11/2024 18:30
+102,102,Art Exhibition #102,Party,"Durham, United Kingdom",18:00,18:00,30/08/2024,30/08/2024 18:00,30/08/2024 18:00
+103,103,Cultural Festival #103,Lecture,"Durham, United Kingdom",08:00,08:45,28/08/2024,28/08/2024 08:00,28/08/2024 08:45
+104,104,Food Fair #104,Festival,"Durham, United Kingdom",19:00,20:00,22/07/2024,22/07/2024 19:00,22/07/2024 20:00
+105,105,Sports Day #105,Play,"Durham, United Kingdom",22:30,23:00,29/10/2024,29/10/2024 22:30,29/10/2024 23:00
+106,106,Charity Run #106,Movie Screening,"Durham, United Kingdom",09:15,09:45,17/07/2024,17/07/2024 09:15,17/07/2024 09:45
+107,107,Film Night #107,Festival,"Durham, United Kingdom",20:45,22:45,19/06/2024,19/06/2024 20:45,19/06/2024 22:45
+108,108,Film Night #108,Workshop,"Durham, United Kingdom",21:45,23:59,12/07/2024,12/07/2024 21:45,12/07/2024 23:59
+109,109,Shakespeare Play #109,Lecture,"Durham, United Kingdom",19:15,19:45,24/07/2024,24/07/2024 19:15,24/07/2024 19:45
+110,110,Art Exhibition #110,Networking Event,"Durham, United Kingdom",17:00,17:30,16/07/2024,16/07/2024 17:00,16/07/2024 17:30
+111,111,Shakespeare Play #111,Networking Event,"Durham, United Kingdom",18:15,20:45,20/08/2024,20/08/2024 18:15,20/08/2024 20:45
+112,112,Startup Workshop #112,Concert,"Durham, United Kingdom",18:00,18:30,13/12/2024,13/12/2024 18:00,13/12/2024 18:30
+113,113,Tech Conference #113,Concert,"Durham, United Kingdom",21:00,23:45,13/12/2024,13/12/2024 21:00,13/12/2024 23:45
+114,114,Historical Lecture #114,Festival,"Durham, United Kingdom",22:15,23:59,26/10/2024,26/10/2024 22:15,26/10/2024 23:59
+115,115,Sports Day #115,Sports Event,"Durham, United Kingdom",21:00,21:00,30/06/2024,30/06/2024 21:00,30/06/2024 21:00
+116,116,Film Night #116,Workshop,"Durham, United Kingdom",13:00,15:00,21/10/2024,21/10/2024 13:00,21/10/2024 15:00
+117,117,Film Night #117,Play,"Durham, United Kingdom",21:45,23:59,25/10/2024,25/10/2024 21:45,25/10/2024 23:59
+118,118,Startup Workshop #118,Fair,"Durham, United Kingdom",12:45,14:45,19/09/2024,19/09/2024 12:45,19/09/2024 14:45
+119,119,Tech Conference #119,Festival,"Durham, United Kingdom",14:00,15:00,24/08/2024,24/08/2024 14:00,24/08/2024 15:00
+120,120,Film Night #120,Conference,"Durham, United Kingdom",15:45,17:30,20/09/2024,20/09/2024 15:45,20/09/2024 17:30
+121,121,Startup Workshop #121,Conference,"Durham, United Kingdom",22:30,00:00,21/07/2024,21/07/2024 22:30,22/07/2024 00:00
+122,122,Cultural Festival #122,Festival,"Durham, United Kingdom",21:00,22:00,01/11/2024,01/11/2024 21:00,01/11/2024 22:00
+123,123,Music Festival #123,Lecture,"Durham, United Kingdom",16:00,16:15,23/09/2024,23/09/2024 16:00,23/09/2024 16:15
+124,124,New Year Party #124,Fair,"Durham, United Kingdom",18:30,18:30,18/10/2024,18/10/2024 18:30,18/10/2024 18:30
+125,125,Food Fair #125,Charity Event,"Durham, United Kingdom",10:30,13:30,26/07/2024,26/07/2024 10:30,26/07/2024 13:30
+126,126,Sports Day #126,Conference,"Durham, United Kingdom",15:45,16:15,23/07/2024,23/07/2024 15:45,23/07/2024 16:15
+127,127,Sports Day #127,Exhibition,"Durham, United Kingdom",19:45,22:00,13/12/2024,13/12/2024 19:45,13/12/2024 22:00
+128,128,Networking Evening #128,Charity Event,"Durham, United Kingdom",13:15,17:15,07/10/2024,07/10/2024 13:15,07/10/2024 17:15
+129,129,Charity Run #129,Workshop,"Durham, United Kingdom",16:30,19:45,25/10/2024,25/10/2024 16:30,25/10/2024 19:45
+130,130,Music Festival #130,Festival,"Durham, United Kingdom",14:15,18:15,05/07/2024,05/07/2024 14:15,05/07/2024 18:15
+131,131,Historical Lecture #131,Networking Event,"Durham, United Kingdom",19:00,22:45,19/06/2024,19/06/2024 19:00,19/06/2024 22:45
+132,132,Science Seminar #132,Concert,"Durham, United Kingdom",11:00,11:15,20/06/2024,20/06/2024 11:00,20/06/2024 11:15
+133,133,Science Seminar #133,Lecture,"Durham, United Kingdom",22:00,22:15,07/11/2024,07/11/2024 22:00,07/11/2024 22:15
+134,134,Cultural Festival #134,Exhibition,"Durham, United Kingdom",17:45,18:15,07/12/2024,07/12/2024 17:45,07/12/2024 18:15
+135,135,Art Exhibition #135,Party,"Durham, United Kingdom",16:30,18:15,13/08/2024,13/08/2024 16:30,13/08/2024 18:15
+136,136,Art Exhibition #136,Ball,"Durham, United Kingdom",21:15,22:45,08/12/2024,08/12/2024 21:15,08/12/2024 22:45
+137,137,Tech Conference #137,Fair,"Durham, United Kingdom",19:00,23:00,22/09/2024,22/09/2024 19:00,22/09/2024 23:00
+138,138,Sports Day #138,Ball,"Durham, United Kingdom",19:00,21:15,17/11/2024,17/11/2024 19:00,17/11/2024 21:15
+139,139,Shakespeare Play #139,Seminar,"Durham, United Kingdom",21:30,22:15,15/07/2024,15/07/2024 21:30,15/07/2024 22:15
+140,140,Science Seminar #140,Sports Event,"Durham, United Kingdom",16:15,16:15,30/08/2024,30/08/2024 16:15,30/08/2024 16:15
+141,141,Film Night #141,Conference,"Durham, United Kingdom",11:00,13:15,19/08/2024,19/08/2024 11:00,19/08/2024 13:15
+142,142,Shakespeare Play #142,Seminar,"Durham, United Kingdom",18:30,20:00,16/10/2024,16/10/2024 18:30,16/10/2024 20:00
+143,143,Art Exhibition #143,Conference,"Durham, United Kingdom",13:00,14:15,28/09/2024,28/09/2024 13:00,28/09/2024 14:15
+144,144,Shakespeare Play #144,Concert,"Durham, United Kingdom",10:15,11:30,09/09/2024,09/09/2024 10:15,09/09/2024 11:30
+145,145,Startup Workshop #145,Festival,"Durham, United Kingdom",17:30,17:45,12/12/2024,12/12/2024 17:30,12/12/2024 17:45
+146,146,Music Festival #146,Concert,"Durham, United Kingdom",13:15,16:45,23/07/2024,23/07/2024 13:15,23/07/2024 16:45
+147,147,Tech Conference #147,Fair,"Durham, United Kingdom",17:00,18:15,01/12/2024,01/12/2024 17:00,01/12/2024 18:15
+148,148,Shakespeare Play #148,Movie Screening,"Durham, United Kingdom",22:00,22:45,11/06/2024,11/06/2024 22:00,11/06/2024 22:45
+149,149,Cultural Festival #149,Seminar,"Durham, United Kingdom",16:45,20:15,14/08/2024,14/08/2024 16:45,14/08/2024 20:15
+150,150,Tech Conference #150,Festival,"Durham, United Kingdom",19:30,21:00,02/12/2024,02/12/2024 19:30,02/12/2024 21:00
+151,151,Startup Workshop #151,Concert,"Durham, United Kingdom",20:15,20:30,06/07/2024,06/07/2024 20:15,06/07/2024 20:30
+152,152,Winter Gala #152,Seminar,"Durham, United Kingdom",13:30,15:30,01/09/2024,01/09/2024 13:30,01/09/2024 15:30
+153,153,Film Night #153,Ball,"Durham, United Kingdom",21:00,23:59,15/07/2024,15/07/2024 21:00,15/07/2024 23:59
+154,154,New Year Party #154,Ball,"Durham, United Kingdom",09:15,10:00,14/08/2024,14/08/2024 09:15,14/08/2024 10:00
+155,155,Historical Lecture #155,Ball,"Durham, United Kingdom",18:15,18:15,16/11/2024,16/11/2024 18:15,16/11/2024 18:15
+156,156,Sports Day #156,Party,"Durham, United Kingdom",17:00,17:15,01/11/2024,01/11/2024 17:00,01/11/2024 17:15
+157,157,Music Festival #157,Ball,"Durham, United Kingdom",12:45,14:30,20/11/2024,20/11/2024 12:45,20/11/2024 14:30
+158,158,Music Festival #158,Networking Event,"Durham, United Kingdom",12:30,16:00,24/10/2024,24/10/2024 12:30,24/10/2024 16:00
+159,159,Charity Run #159,Conference,"Durham, United Kingdom",18:45,20:45,31/10/2024,31/10/2024 18:45,31/10/2024 20:45
+160,160,Food Fair #160,Seminar,"Durham, United Kingdom",20:00,21:45,30/11/2024,30/11/2024 20:00,30/11/2024 21:45
+161,161,Winter Gala #161,Conference,"Durham, United Kingdom",10:30,12:45,07/10/2024,07/10/2024 10:30,07/10/2024 12:45
+162,162,Food Fair #162,Play,"Durham, United Kingdom",17:00,17:30,19/08/2024,19/08/2024 17:00,19/08/2024 17:30
+163,163,Food Fair #163,Movie Screening,"Durham, United Kingdom",22:00,22:15,09/09/2024,09/09/2024 22:00,09/09/2024 22:15
+164,164,New Year Party #164,Workshop,"Durham, United Kingdom",20:15,20:45,07/12/2024,07/12/2024 20:15,07/12/2024 20:45
+165,165,Art Exhibition #165,Festival,"Durham, United Kingdom",17:30,17:30,10/06/2024,10/06/2024 17:30,10/06/2024 17:30
+166,166,Music Festival #166,Fair,"Durham, United Kingdom",21:30,21:45,30/08/2024,30/08/2024 21:30,30/08/2024 21:45
+167,167,Sports Day #167,Networking Event,"Durham, United Kingdom",17:45,20:00,12/10/2024,12/10/2024 17:45,12/10/2024 20:00
+168,168,Charity Run #168,Lecture,"Durham, United Kingdom",18:30,19:30,12/06/2024,12/06/2024 18:30,12/06/2024 19:30
+169,169,Tech Conference #169,Concert,"Durham, United Kingdom",20:30,20:45,09/09/2024,09/09/2024 20:30,09/09/2024 20:45
+170,170,Networking Evening #170,Seminar,"Durham, United Kingdom",14:15,14:15,10/11/2024,10/11/2024 14:15,10/11/2024 14:15
+171,171,Networking Evening #171,Charity Event,"Durham, United Kingdom",16:00,16:15,13/09/2024,13/09/2024 16:00,13/09/2024 16:15
+172,172,Historical Lecture #172,Play,"Durham, United Kingdom",15:15,16:00,25/08/2024,25/08/2024 15:15,25/08/2024 16:00
+173,173,Tech Conference #173,Exhibition,"Durham, United Kingdom",17:30,17:45,10/12/2024,10/12/2024 17:30,10/12/2024 17:45
+174,174,Charity Run #174,Charity Event,"Durham, United Kingdom",18:15,21:45,22/09/2024,22/09/2024 18:15,22/09/2024 21:45
+175,175,Networking Evening #175,Ball,"Durham, United Kingdom",18:00,18:45,07/08/2024,07/08/2024 18:00,07/08/2024 18:45
+176,176,Science Seminar #176,Lecture,"Durham, United Kingdom",21:45,23:15,11/09/2024,11/09/2024 21:45,11/09/2024 23:15
+177,177,Art Exhibition #177,Ball,"Durham, United Kingdom",14:00,15:00,24/06/2024,24/06/2024 14:00,24/06/2024 15:00
+178,178,Historical Lecture #178,Lecture,"Durham, United Kingdom",17:30,17:30,06/07/2024,06/07/2024 17:30,06/07/2024 17:30
+179,179,Shakespeare Play #179,Charity Event,"Durham, United Kingdom",14:30,15:15,15/10/2024,15/10/2024 14:30,15/10/2024 15:15
+180,180,Sports Day #180,Concert,"Durham, United Kingdom",15:30,16:00,09/07/2024,09/07/2024 15:30,09/07/2024 16:00
+181,181,Shakespeare Play #181,Charity Event,"Durham, United Kingdom",13:45,13:45,04/09/2024,04/09/2024 13:45,04/09/2024 13:45
+182,182,Cultural Festival #182,Movie Screening,"Durham, United Kingdom",18:15,18:45,02/10/2024,02/10/2024 18:15,02/10/2024 18:45
+183,183,Shakespeare Play #183,Fair,"Durham, United Kingdom",16:45,17:30,22/06/2024,22/06/2024 16:45,22/06/2024 17:30
+184,184,Art Exhibition #184,Play,"Durham, United Kingdom",18:00,19:30,07/10/2024,07/10/2024 18:00,07/10/2024 19:30
+185,185,Networking Evening #185,Charity Event,"Durham, United Kingdom",21:00,21:30,07/12/2024,07/12/2024 21:00,07/12/2024 21:30
+186,186,Networking Evening #186,Lecture,"Durham, United Kingdom",14:45,15:30,04/12/2024,04/12/2024 14:45,04/12/2024 15:30
+187,187,Film Night #187,Lecture,"Durham, United Kingdom",22:15,22:15,15/11/2024,15/11/2024 22:15,15/11/2024 22:15
+188,188,Charity Run #188,Party,"Durham, United Kingdom",10:15,10:15,25/11/2024,25/11/2024 10:15,25/11/2024 10:15
+189,189,Art Exhibition #189,Exhibition,"Durham, United Kingdom",22:45,22:45,18/07/2024,18/07/2024 22:45,18/07/2024 22:45
+190,190,Film Night #190,Party,"Durham, United Kingdom",12:30,12:45,17/11/2024,17/11/2024 12:30,17/11/2024 12:45
+191,191,Charity Run #191,Fair,"Durham, United Kingdom",21:30,22:15,01/11/2024,01/11/2024 21:30,01/11/2024 22:15
+192,192,New Year Party #192,Sports Event,"Durham, United Kingdom",16:30,17:30,24/06/2024,24/06/2024 16:30,24/06/2024 17:30
+193,193,Startup Workshop #193,Charity Event,"Durham, United Kingdom",23:00,23:15,09/11/2024,09/11/2024 23:00,09/11/2024 23:15
+194,194,Film Night #194,Play,"Durham, United Kingdom",14:00,14:15,18/10/2024,18/10/2024 14:00,18/10/2024 14:15
+195,195,Shakespeare Play #195,Conference,"Durham, United Kingdom",15:00,16:45,12/08/2024,12/08/2024 15:00,12/08/2024 16:45
+196,196,Tech Conference #196,Movie Screening,"Durham, United Kingdom",10:15,12:30,29/10/2024,29/10/2024 10:15,29/10/2024 12:30
+197,197,Film Night #197,Conference,"Durham, United Kingdom",14:00,14:00,02/07/2024,02/07/2024 14:00,02/07/2024 14:00
+198,198,Cultural Festival #198,Festival,"Durham, United Kingdom",23:00,23:59,14/08/2024,14/08/2024 23:00,14/08/2024 23:59
+199,199,Music Festival #199,Seminar,"Durham, United Kingdom",14:00,14:15,09/09/2024,09/09/2024 14:00,09/09/2024 14:15
+200,200,Historical Lecture #200,Seminar,"Durham, United Kingdom",22:15,22:45,12/07/2024,12/07/2024 22:15,12/07/2024 22:45
+201,201,Startup Workshop #201,Workshop,"Durham, United Kingdom",22:15,23:59,29/07/2024,29/07/2024 22:15,29/07/2024 23:59
+202,202,Art Exhibition #202,Charity Event,"Durham, United Kingdom",20:00,20:45,12/09/2024,12/09/2024 20:00,12/09/2024 20:45
+203,203,New Year Party #203,Play,"Durham, United Kingdom",19:45,23:45,08/08/2024,08/08/2024 19:45,08/08/2024 23:45
+204,204,Winter Gala #204,Fair,"Durham, United Kingdom",22:00,22:30,19/10/2024,19/10/2024 22:00,19/10/2024 22:30
+205,205,Cultural Festival #205,Party,"Durham, United Kingdom",14:45,18:45,16/09/2024,16/09/2024 14:45,16/09/2024 18:45
+206,206,Science Seminar #206,Charity Event,"Durham, United Kingdom",13:00,13:45,05/09/2024,05/09/2024 13:00,05/09/2024 13:45
+207,207,Sports Day #207,Festival,"Durham, United Kingdom",17:15,17:30,19/10/2024,19/10/2024 17:15,19/10/2024 17:30
+208,208,Art Exhibition #208,Sports Event,"Durham, United Kingdom",20:15,20:15,13/10/2024,13/10/2024 20:15,13/10/2024 20:15
+209,209,Music Festival #209,Fair,"Durham, United Kingdom",23:45,23:59,30/10/2024,30/10/2024 23:45,30/10/2024 23:59
+210,210,Startup Workshop #210,Movie Screening,"Durham, United Kingdom",10:15,11:30,24/07/2024,24/07/2024 10:15,24/07/2024 11:30
+211,211,Sports Day #211,Party,"Durham, United Kingdom",20:15,23:15,07/12/2024,07/12/2024 20:15,07/12/2024 23:15
+212,212,Food Fair #212,Conference,"Durham, United Kingdom",17:30,18:00,30/06/2024,30/06/2024 17:30,30/06/2024 18:00
+213,213,Art Exhibition #213,Festival,"Durham, United Kingdom",14:45,15:15,18/07/2024,18/07/2024 14:45,18/07/2024 15:15
+214,214,New Year Party #214,Fair,"Durham, United Kingdom",19:15,20:00,21/08/2024,21/08/2024 19:15,21/08/2024 20:00
+215,215,Film Night #215,Play,"Durham, United Kingdom",16:30,19:30,05/08/2024,05/08/2024 16:30,05/08/2024 19:30
+216,216,Art Exhibition #216,Exhibition,"Durham, United Kingdom",23:30,23:59,02/09/2024,02/09/2024 23:30,02/09/2024 23:59
+217,217,Winter Gala #217,Charity Event,"Durham, United Kingdom",19:30,20:45,30/09/2024,30/09/2024 19:30,30/09/2024 20:45
+218,218,Charity Run #218,Play,"Durham, United Kingdom",14:45,16:45,10/11/2024,10/11/2024 14:45,10/11/2024 16:45
+219,219,Sports Day #219,Conference,"Durham, United Kingdom",16:15,17:15,18/11/2024,18/11/2024 16:15,18/11/2024 17:15
+220,220,Sports Day #220,Festival,"Durham, United Kingdom",22:30,00:00,01/08/2024,01/08/2024 22:30,02/08/2024 00:00
+221,221,Food Fair #221,Sports Event,"Durham, United Kingdom",20:30,22:00,28/09/2024,28/09/2024 20:30,28/09/2024 22:00
+222,222,Art Exhibition #222,Exhibition,"Durham, United Kingdom",22:15,23:59,12/08/2024,12/08/2024 22:15,12/08/2024 23:59
+223,223,Tech Conference #223,Concert,"Durham, United Kingdom",21:00,22:00,06/11/2024,06/11/2024 21:00,06/11/2024 22:00
+224,224,Science Seminar #224,Ball,"Durham, United Kingdom",15:15,16:45,03/11/2024,03/11/2024 15:15,03/11/2024 16:45
+225,225,Cultural Festival #225,Exhibition,"Durham, United Kingdom",14:45,15:45,24/06/2024,24/06/2024 14:45,24/06/2024 15:45
+226,226,Historical Lecture #226,Workshop,"Durham, United Kingdom",13:15,16:15,03/07/2024,03/07/2024 13:15,03/07/2024 16:15
+227,227,Film Night #227,Ball,"Durham, United Kingdom",10:30,11:15,29/06/2024,29/06/2024 10:30,29/06/2024 11:15
+228,228,Music Festival #228,Seminar,"Durham, United Kingdom",17:30,18:00,01/08/2024,01/08/2024 17:30,01/08/2024 18:00
+229,229,New Year Party #229,Exhibition,"Durham, United Kingdom",15:30,16:15,12/07/2024,12/07/2024 15:30,12/07/2024 16:15
+230,230,Networking Evening #230,Charity Event,"Durham, United Kingdom",18:45,19:30,19/07/2024,19/07/2024 18:45,19/07/2024 19:30
+231,231,Tech Conference #231,Movie Screening,"Durham, United Kingdom",23:00,00:00,18/11/2024,18/11/2024 23:00,19/11/2024 00:00
+232,232,Cultural Festival #232,Concert,"Durham, United Kingdom",19:15,20:30,21/09/2024,21/09/2024 19:15,21/09/2024 20:30
+233,233,Charity Run #233,Exhibition,"Durham, United Kingdom",14:30,18:30,20/07/2024,20/07/2024 14:30,20/07/2024 18:30
+234,234,Startup Workshop #234,Networking Event,"Durham, United Kingdom",15:15,16:15,28/10/2024,28/10/2024 15:15,28/10/2024 16:15
+235,235,Shakespeare Play #235,Concert,"Durham, United Kingdom",23:30,23:30,10/09/2024,10/09/2024 23:30,10/09/2024 23:30
+236,236,Music Festival #236,Charity Event,"Durham, United Kingdom",13:30,17:30,25/08/2024,25/08/2024 13:30,25/08/2024 17:30
+237,237,Sports Day #237,Festival,"Durham, United Kingdom",23:45,23:59,16/06/2024,16/06/2024 23:45,16/06/2024 23:59
+238,238,Food Fair #238,Movie Screening,"Durham, United Kingdom",14:15,14:45,15/11/2024,15/11/2024 14:15,15/11/2024 14:45
+239,239,Shakespeare Play #239,Party,"Durham, United Kingdom",16:15,19:45,23/08/2024,23/08/2024 16:15,23/08/2024 19:45
+240,240,Film Night #240,Seminar,"Durham, United Kingdom",11:15,11:30,13/09/2024,13/09/2024 11:15,13/09/2024 11:30
+241,241,Tech Conference #241,Charity Event,"Durham, United Kingdom",15:30,17:45,06/08/2024,06/08/2024 15:30,06/08/2024 17:45
+242,242,Networking Evening #242,Party,"Durham, United Kingdom",21:00,23:00,21/11/2024,21/11/2024 21:00,21/11/2024 23:00
+243,243,Shakespeare Play #243,Networking Event,"Durham, United Kingdom",16:00,20:00,24/07/2024,24/07/2024 16:00,24/07/2024 20:00
+244,244,Cultural Festival #244,Workshop,"Durham, United Kingdom",14:15,18:15,30/10/2024,30/10/2024 14:15,30/10/2024 18:15
+245,245,Film Night #245,Lecture,"Durham, United Kingdom",15:30,16:45,11/06/2024,11/06/2024 15:30,11/06/2024 16:45
+246,246,Startup Workshop #246,Party,"Durham, United Kingdom",15:30,16:30,10/11/2024,10/11/2024 15:30,10/11/2024 16:30
+247,247,Music Festival #247,Fair,"Durham, United Kingdom",10:00,11:15,03/08/2024,03/08/2024 10:00,03/08/2024 11:15
+248,248,Charity Run #248,Fair,"Durham, United Kingdom",18:15,20:15,18/06/2024,18/06/2024 18:15,18/06/2024 20:15
+249,249,Music Festival #249,Workshop,"Durham, United Kingdom",21:00,23:15,22/06/2024,22/06/2024 21:00,22/06/2024 23:15
+250,250,Cultural Festival #250,Lecture,"Durham, United Kingdom",12:45,15:45,20/07/2024,20/07/2024 12:45,20/07/2024 15:45
+251,251,New Year Party #251,Charity Event,"Durham, United Kingdom",12:00,12:00,07/08/2024,07/08/2024 12:00,07/08/2024 12:00
+252,252,Winter Gala #252,Play,"Durham, United Kingdom",21:30,23:59,30/10/2024,30/10/2024 21:30,30/10/2024 23:59
+253,253,Sports Day #253,Movie Screening,"Durham, United Kingdom",16:45,18:15,05/12/2024,05/12/2024 16:45,05/12/2024 18:15
+254,254,Science Seminar #254,Sports Event,"Durham, United Kingdom",19:15,21:30,15/06/2024,15/06/2024 19:15,15/06/2024 21:30
+255,255,Startup Workshop #255,Ball,"Durham, United Kingdom",12:30,13:00,13/12/2024,13/12/2024 12:30,13/12/2024 13:00
+256,256,Startup Workshop #256,Festival,"Durham, United Kingdom",16:00,16:00,05/09/2024,05/09/2024 16:00,05/09/2024 16:00
+257,257,Winter Gala #257,Lecture,"Durham, United Kingdom",19:30,23:15,09/12/2024,09/12/2024 19:30,09/12/2024 23:15
+258,258,Startup Workshop #258,Lecture,"Durham, United Kingdom",12:30,13:30,30/09/2024,30/09/2024 12:30,30/09/2024 13:30
+259,259,Cultural Festival #259,Festival,"Durham, United Kingdom",16:45,16:45,22/09/2024,22/09/2024 16:45,22/09/2024 16:45
+260,260,Cultural Festival #260,Concert,"Durham, United Kingdom",23:00,23:59,08/08/2024,08/08/2024 23:00,08/08/2024 23:59
+261,261,Sports Day #261,Concert,"Durham, United Kingdom",18:00,20:30,01/07/2024,01/07/2024 18:00,01/07/2024 20:30
+262,262,Winter Gala #262,Fair,"Durham, United Kingdom",18:15,18:15,18/10/2024,18/10/2024 18:15,18/10/2024 18:15
+263,263,Charity Run #263,Networking Event,"Durham, United Kingdom",15:45,17:30,11/12/2024,11/12/2024 15:45,11/12/2024 17:30
+264,264,Cultural Festival #264,Concert,"Durham, United Kingdom",18:45,19:45,14/11/2024,14/11/2024 18:45,14/11/2024 19:45
+265,265,Shakespeare Play #265,Charity Event,"Durham, United Kingdom",21:45,23:15,18/10/2024,18/10/2024 21:45,18/10/2024 23:15
+266,266,New Year Party #266,Seminar,"Durham, United Kingdom",13:00,14:30,09/07/2024,09/07/2024 13:00,09/07/2024 14:30
+267,267,Food Fair #267,Concert,"Durham, United Kingdom",12:15,12:45,16/10/2024,16/10/2024 12:15,16/10/2024 12:45
+268,268,Art Exhibition #268,Conference,"Durham, United Kingdom",11:45,12:00,04/10/2024,04/10/2024 11:45,04/10/2024 12:00
+269,269,Film Night #269,Seminar,"Durham, United Kingdom",21:15,21:15,16/11/2024,16/11/2024 21:15,16/11/2024 21:15
+270,270,Networking Evening #270,Play,"Durham, United Kingdom",20:30,23:15,08/11/2024,08/11/2024 20:30,08/11/2024 23:15
+271,271,Cultural Festival #271,Lecture,"Durham, United Kingdom",16:15,17:45,24/07/2024,24/07/2024 16:15,24/07/2024 17:45
+272,272,Music Festival #272,Workshop,"Durham, United Kingdom",13:30,14:15,02/10/2024,02/10/2024 13:30,02/10/2024 14:15
+273,273,New Year Party #273,Lecture,"Durham, United Kingdom",22:00,22:30,12/06/2024,12/06/2024 22:00,12/06/2024 22:30
+274,274,Winter Gala #274,Exhibition,"Durham, United Kingdom",22:15,23:45,21/07/2024,21/07/2024 22:15,21/07/2024 23:45
+275,275,Shakespeare Play #275,Concert,"Durham, United Kingdom",23:00,23:59,09/07/2024,09/07/2024 23:00,09/07/2024 23:59
+276,276,Winter Gala #276,Charity Event,"Durham, United Kingdom",13:15,14:15,26/11/2024,26/11/2024 13:15,26/11/2024 14:15
+277,277,Science Seminar #277,Fair,"Durham, United Kingdom",22:15,22:15,17/08/2024,17/08/2024 22:15,17/08/2024 22:15
+278,278,Winter Gala #278,Festival,"Durham, United Kingdom",16:00,16:45,01/09/2024,01/09/2024 16:00,01/09/2024 16:45
+279,279,Tech Conference #279,Concert,"Durham, United Kingdom",08:00,09:00,25/06/2024,25/06/2024 08:00,25/06/2024 09:00
+280,280,Art Exhibition #280,Workshop,"Durham, United Kingdom",23:30,23:59,08/09/2024,08/09/2024 23:30,08/09/2024 23:59
+281,281,Art Exhibition #281,Seminar,"Durham, United Kingdom",23:30,23:59,27/11/2024,27/11/2024 23:30,27/11/2024 23:59
+282,282,Networking Evening #282,Lecture,"Durham, United Kingdom",13:00,14:00,04/08/2024,04/08/2024 13:00,04/08/2024 14:00
+283,283,New Year Party #283,Seminar,"Durham, United Kingdom",08:15,08:15,09/06/2024,09/06/2024 08:15,09/06/2024 08:15
+284,284,Shakespeare Play #284,Conference,"Durham, United Kingdom",23:00,23:59,20/11/2024,20/11/2024 23:00,20/11/2024 23:59
+285,285,Art Exhibition #285,Movie Screening,"Durham, United Kingdom",19:00,19:30,08/06/2024,08/06/2024 19:00,08/06/2024 19:30
+286,286,Sports Day #286,Charity Event,"Durham, United Kingdom",18:00,19:45,24/06/2024,24/06/2024 18:00,24/06/2024 19:45
+287,287,Networking Evening #287,Sports Event,"Durham, United Kingdom",16:30,20:30,21/08/2024,21/08/2024 16:30,21/08/2024 20:30
+288,288,Charity Run #288,Ball,"Durham, United Kingdom",16:00,16:00,26/09/2024,26/09/2024 16:00,26/09/2024 16:00
+289,289,Networking Evening #289,Sports Event,"Durham, United Kingdom",23:45,23:59,25/08/2024,25/08/2024 23:45,25/08/2024 23:59
+290,290,Winter Gala #290,Fair,"Durham, United Kingdom",15:15,15:30,31/10/2024,31/10/2024 15:15,31/10/2024 15:30
+291,291,Science Seminar #291,Fair,"Durham, United Kingdom",18:15,18:30,07/08/2024,07/08/2024 18:15,07/08/2024 18:30
+292,292,Art Exhibition #292,Conference,"Durham, United Kingdom",22:45,23:45,08/10/2024,08/10/2024 22:45,08/10/2024 23:45
+293,293,Food Fair #293,Lecture,"Durham, United Kingdom",21:45,23:59,24/08/2024,24/08/2024 21:45,24/08/2024 23:59
+294,294,Startup Workshop #294,Concert,"Durham, United Kingdom",20:15,20:15,18/08/2024,18/08/2024 20:15,18/08/2024 20:15
+295,295,Cultural Festival #295,Ball,"Durham, United Kingdom",18:45,18:45,18/09/2024,18/09/2024 18:45,18/09/2024 18:45
+296,296,Historical Lecture #296,Festival,"Durham, United Kingdom",22:45,23:45,15/09/2024,15/09/2024 22:45,15/09/2024 23:45
+297,297,Tech Conference #297,Charity Event,"Durham, United Kingdom",14:30,15:15,01/10/2024,01/10/2024 14:30,01/10/2024 15:15
+298,298,Networking Evening #298,Ball,"Durham, United Kingdom",17:45,17:45,26/08/2024,26/08/2024 17:45,26/08/2024 17:45
+299,299,Film Night #299,Conference,"Durham, United Kingdom",19:45,21:30,10/11/2024,10/11/2024 19:45,10/11/2024 21:30
+300,300,Winter Gala #300,Concert,"Durham, United Kingdom",16:15,17:45,30/08/2024,30/08/2024 16:15,30/08/2024 17:45
+301,301,Tech Conference #301,Workshop,"Durham, United Kingdom",12:15,13:00,18/08/2024,18/08/2024 12:15,18/08/2024 13:00
+302,302,Film Night #302,Party,"Durham, United Kingdom",14:45,14:45,14/07/2024,14/07/2024 14:45,14/07/2024 14:45
+303,303,Shakespeare Play #303,Exhibition,"Durham, United Kingdom",13:15,16:00,08/06/2024,08/06/2024 13:15,08/06/2024 16:00
+304,304,Sports Day #304,Charity Event,"Durham, United Kingdom",22:00,23:00,24/07/2024,24/07/2024 22:00,24/07/2024 23:00
+305,305,Cultural Festival #305,Concert,"Durham, United Kingdom",18:45,22:30,23/11/2024,23/11/2024 18:45,23/11/2024 22:30
+306,306,Science Seminar #306,Lecture,"Durham, United Kingdom",17:45,18:30,30/08/2024,30/08/2024 17:45,30/08/2024 18:30
+307,307,Historical Lecture #307,Networking Event,"Durham, United Kingdom",15:45,17:15,01/07/2024,01/07/2024 15:45,01/07/2024 17:15
+308,308,Startup Workshop #308,Seminar,"Durham, United Kingdom",19:30,20:00,30/10/2024,30/10/2024 19:30,30/10/2024 20:00
+309,309,Startup Workshop #309,Networking Event,"Durham, United Kingdom",21:15,21:15,12/10/2024,12/10/2024 21:15,12/10/2024 21:15
+310,310,Food Fair #310,Play,"Durham, United Kingdom",20:00,21:00,18/08/2024,18/08/2024 20:00,18/08/2024 21:00
+311,311,Film Night #311,Networking Event,"Durham, United Kingdom",13:15,13:15,22/09/2024,22/09/2024 13:15,22/09/2024 13:15
+312,312,Music Festival #312,Fair,"Durham, United Kingdom",14:30,15:45,04/08/2024,04/08/2024 14:30,04/08/2024 15:45
+313,313,Sports Day #313,Concert,"Durham, United Kingdom",18:45,18:45,31/07/2024,31/07/2024 18:45,31/07/2024 18:45
+314,314,Shakespeare Play #314,Workshop,"Durham, United Kingdom",22:15,23:15,01/10/2024,01/10/2024 22:15,01/10/2024 23:15
+315,315,Cultural Festival #315,Charity Event,"Durham, United Kingdom",16:30,18:15,01/10/2024,01/10/2024 16:30,01/10/2024 18:15
+316,316,Science Seminar #316,Ball,"Durham, United Kingdom",16:00,17:00,29/10/2024,29/10/2024 16:00,29/10/2024 17:00
+317,317,Winter Gala #317,Party,"Durham, United Kingdom",14:45,15:30,28/07/2024,28/07/2024 14:45,28/07/2024 15:30
+318,318,Food Fair #318,Concert,"Durham, United Kingdom",14:15,17:15,13/09/2024,13/09/2024 14:15,13/09/2024 17:15
+319,319,Art Exhibition #319,Workshop,"Durham, United Kingdom",19:15,19:30,08/12/2024,08/12/2024 19:15,08/12/2024 19:30
+320,320,Film Night #320,Conference,"Durham, United Kingdom",23:00,23:59,15/09/2024,15/09/2024 23:00,15/09/2024 23:59
+321,321,Startup Workshop #321,Conference,"Durham, United Kingdom",11:45,12:45,16/07/2024,16/07/2024 11:45,16/07/2024 12:45
+322,322,Tech Conference #322,Party,"Durham, United Kingdom",12:15,13:30,08/08/2024,08/08/2024 12:15,08/08/2024 13:30
+323,323,Food Fair #323,Play,"Durham, United Kingdom",23:00,23:59,09/12/2024,09/12/2024 23:00,09/12/2024 23:59
+324,324,Startup Workshop #324,Charity Event,"Durham, United Kingdom",17:00,17:30,24/09/2024,24/09/2024 17:00,24/09/2024 17:30
+325,325,Tech Conference #325,Concert,"Durham, United Kingdom",15:30,18:00,21/11/2024,21/11/2024 15:30,21/11/2024 18:00
+326,326,Food Fair #326,Workshop,"Durham, United Kingdom",19:45,20:30,31/10/2024,31/10/2024 19:45,31/10/2024 20:30
+327,327,Networking Evening #327,Charity Event,"Durham, United Kingdom",19:00,19:00,14/08/2024,14/08/2024 19:00,14/08/2024 19:00
+328,328,Charity Run #328,Ball,"Durham, United Kingdom",17:45,18:45,19/07/2024,19/07/2024 17:45,19/07/2024 18:45
+329,329,Music Festival #329,Charity Event,"Durham, United Kingdom",20:45,21:00,26/11/2024,26/11/2024 20:45,26/11/2024 21:00
+330,330,Film Night #330,Ball,"Durham, United Kingdom",19:45,22:15,15/06/2024,15/06/2024 19:45,15/06/2024 22:15
+331,331,Cultural Festival #331,Play,"Durham, United Kingdom",21:45,22:00,25/09/2024,25/09/2024 21:45,25/09/2024 22:00
+332,332,Shakespeare Play #332,Play,"Durham, United Kingdom",21:45,22:15,26/08/2024,26/08/2024 21:45,26/08/2024 22:15
+333,333,Tech Conference #333,Ball,"Durham, United Kingdom",17:00,17:00,07/09/2024,07/09/2024 17:00,07/09/2024 17:00
+334,334,New Year Party #334,Concert,"Durham, United Kingdom",21:00,23:00,16/09/2024,16/09/2024 21:00,16/09/2024 23:00
+335,335,Historical Lecture #335,Fair,"Durham, United Kingdom",19:00,19:15,16/10/2024,16/10/2024 19:00,16/10/2024 19:15
+336,336,Tech Conference #336,Movie Screening,"Durham, United Kingdom",17:45,18:00,02/09/2024,02/09/2024 17:45,02/09/2024 18:00
+337,337,Shakespeare Play #337,Lecture,"Durham, United Kingdom",22:00,22:30,04/09/2024,04/09/2024 22:00,04/09/2024 22:30
+338,338,New Year Party #338,Ball,"Durham, United Kingdom",12:15,12:30,20/09/2024,20/09/2024 12:15,20/09/2024 12:30
+339,339,New Year Party #339,Conference,"Durham, United Kingdom",22:00,23:59,02/12/2024,02/12/2024 22:00,02/12/2024 23:59
+340,340,Film Night #340,Fair,"Durham, United Kingdom",14:15,15:15,01/08/2024,01/08/2024 14:15,01/08/2024 15:15
+341,341,Food Fair #341,Seminar,"Durham, United Kingdom",17:15,20:00,27/08/2024,27/08/2024 17:15,27/08/2024 20:00
+342,342,Art Exhibition #342,Ball,"Durham, United Kingdom",16:30,17:00,22/08/2024,22/08/2024 16:30,22/08/2024 17:00
+343,343,Music Festival #343,Sports Event,"Durham, United Kingdom",22:30,23:59,15/07/2024,15/07/2024 22:30,15/07/2024 23:59
+344,344,Tech Conference #344,Seminar,"Durham, United Kingdom",16:30,16:30,21/08/2024,21/08/2024 16:30,21/08/2024 16:30
+345,345,New Year Party #345,Exhibition,"Durham, United Kingdom",21:30,22:15,12/08/2024,12/08/2024 21:30,12/08/2024 22:15
+346,346,Startup Workshop #346,Play,"Durham, United Kingdom",22:30,23:15,05/10/2024,05/10/2024 22:30,05/10/2024 23:15
+347,347,Startup Workshop #347,Networking Event,"Durham, United Kingdom",22:15,22:15,13/10/2024,13/10/2024 22:15,13/10/2024 22:15
+348,348,Shakespeare Play #348,Workshop,"Durham, United Kingdom",18:00,18:00,22/10/2024,22/10/2024 18:00,22/10/2024 18:00
+349,349,Tech Conference #349,Concert,"Durham, United Kingdom",16:30,17:45,16/11/2024,16/11/2024 16:30,16/11/2024 17:45
+350,350,Startup Workshop #350,Fair,"Durham, United Kingdom",23:45,23:59,09/07/2024,09/07/2024 23:45,09/07/2024 23:59
+351,351,Tech Conference #351,Exhibition,"Durham, United Kingdom",11:00,11:15,26/10/2024,26/10/2024 11:00,26/10/2024 11:15
+352,352,Music Festival #352,Concert,"Durham, United Kingdom",17:15,17:30,19/09/2024,19/09/2024 17:15,19/09/2024 17:30
+353,353,Music Festival #353,Play,"Durham, United Kingdom",10:15,12:45,06/11/2024,06/11/2024 10:15,06/11/2024 12:45
+354,354,Sports Day #354,Ball,"Durham, United Kingdom",20:45,21:45,11/11/2024,11/11/2024 20:45,11/11/2024 21:45
+355,355,Winter Gala #355,Seminar,"Durham, United Kingdom",12:00,12:45,13/07/2024,13/07/2024 12:00,13/07/2024 12:45
+356,356,Food Fair #356,Ball,"Durham, United Kingdom",23:15,00:00,27/09/2024,27/09/2024 23:15,28/09/2024 00:00
+357,357,Science Seminar #357,Movie Screening,"Durham, United Kingdom",12:30,13:30,16/06/2024,16/06/2024 12:30,16/06/2024 13:30
+358,358,Winter Gala #358,Networking Event,"Durham, United Kingdom",16:45,18:15,15/11/2024,15/11/2024 16:45,15/11/2024 18:15
+359,359,Historical Lecture #359,Conference,"Durham, United Kingdom",23:30,23:45,26/06/2024,26/06/2024 23:30,26/06/2024 23:45
+360,360,Startup Workshop #360,Exhibition,"Durham, United Kingdom",19:00,19:00,03/07/2024,03/07/2024 19:00,03/07/2024 19:00
+361,361,Winter Gala #361,Fair,"Durham, United Kingdom",19:15,19:15,17/11/2024,17/11/2024 19:15,17/11/2024 19:15
+362,362,Food Fair #362,Workshop,"Durham, United Kingdom",23:30,00:00,15/06/2024,15/06/2024 23:30,16/06/2024 00:00
+363,363,Sports Day #363,Conference,"Durham, United Kingdom",14:45,15:00,19/07/2024,19/07/2024 14:45,19/07/2024 15:00
+364,364,Shakespeare Play #364,Seminar,"Durham, United Kingdom",16:15,19:30,07/11/2024,07/11/2024 16:15,07/11/2024 19:30
+365,365,Science Seminar #365,Ball,"Durham, United Kingdom",14:00,14:30,26/11/2024,26/11/2024 14:00,26/11/2024 14:30
+366,366,Sports Day #366,Lecture,"Durham, United Kingdom",21:00,23:00,03/07/2024,03/07/2024 21:00,03/07/2024 23:00
+367,367,Shakespeare Play #367,Concert,"Durham, United Kingdom",13:30,15:30,19/08/2024,19/08/2024 13:30,19/08/2024 15:30
+368,368,Food Fair #368,Ball,"Durham, United Kingdom",19:00,21:15,19/06/2024,19/06/2024 19:00,19/06/2024 21:15
+369,369,Science Seminar #369,Conference,"Durham, United Kingdom",13:45,15:30,05/10/2024,05/10/2024 13:45,05/10/2024 15:30
+370,370,Film Night #370,Lecture,"Durham, United Kingdom",23:30,23:30,05/09/2024,05/09/2024 23:30,05/09/2024 23:30
+371,371,New Year Party #371,Movie Screening,"Durham, United Kingdom",19:30,20:00,05/10/2024,05/10/2024 19:30,05/10/2024 20:00
+372,372,New Year Party #372,Workshop,"Durham, United Kingdom",19:30,20:15,22/09/2024,22/09/2024 19:30,22/09/2024 20:15
+373,373,New Year Party #373,Seminar,"Durham, United Kingdom",18:30,20:00,29/10/2024,29/10/2024 18:30,29/10/2024 20:00
+374,374,New Year Party #374,Lecture,"Durham, United Kingdom",15:45,16:15,10/09/2024,10/09/2024 15:45,10/09/2024 16:15
+375,375,Music Festival #375,Play,"Durham, United Kingdom",13:00,14:30,13/08/2024,13/08/2024 13:00,13/08/2024 14:30
+376,376,Music Festival #376,Charity Event,"Durham, United Kingdom",22:15,22:15,26/09/2024,26/09/2024 22:15,26/09/2024 22:15
+377,377,Tech Conference #377,Networking Event,"Durham, United Kingdom",22:00,23:45,18/11/2024,18/11/2024 22:00,18/11/2024 23:45
+378,378,Shakespeare Play #378,Sports Event,"Durham, United Kingdom",19:15,19:30,10/10/2024,10/10/2024 19:15,10/10/2024 19:30
+379,379,Film Night #379,Exhibition,"Durham, United Kingdom",16:15,16:45,15/09/2024,15/09/2024 16:15,15/09/2024 16:45
+380,380,Winter Gala #380,Exhibition,"Durham, United Kingdom",16:00,17:00,05/09/2024,05/09/2024 16:00,05/09/2024 17:00
+381,381,Film Night #381,Sports Event,"Durham, United Kingdom",22:00,22:45,24/06/2024,24/06/2024 22:00,24/06/2024 22:45
+382,382,Winter Gala #382,Festival,"Durham, United Kingdom",20:45,20:45,15/10/2024,15/10/2024 20:45,15/10/2024 20:45
+383,383,Historical Lecture #383,Workshop,"Durham, United Kingdom",18:30,18:45,20/11/2024,20/11/2024 18:30,20/11/2024 18:45
+384,384,Sports Day #384,Play,"Durham, United Kingdom",19:30,21:00,01/09/2024,01/09/2024 19:30,01/09/2024 21:00
+385,385,Film Night #385,Conference,"Durham, United Kingdom",23:15,23:59,17/08/2024,17/08/2024 23:15,17/08/2024 23:59
+386,386,Networking Evening #386,Festival,"Durham, United Kingdom",15:45,19:15,26/10/2024,26/10/2024 15:45,26/10/2024 19:15
+387,387,Science Seminar #387,Charity Event,"Durham, United Kingdom",21:00,23:59,12/06/2024,12/06/2024 21:00,12/06/2024 23:59
+388,388,Networking Evening #388,Sports Event,"Durham, United Kingdom",22:15,22:30,27/10/2024,27/10/2024 22:15,27/10/2024 22:30
+389,389,Historical Lecture #389,Ball,"Durham, United Kingdom",13:30,14:30,04/08/2024,04/08/2024 13:30,04/08/2024 14:30
+390,390,Art Exhibition #390,Fair,"Durham, United Kingdom",17:45,17:45,01/12/2024,01/12/2024 17:45,01/12/2024 17:45
+391,391,Historical Lecture #391,Seminar,"Durham, United Kingdom",21:45,22:45,12/11/2024,12/11/2024 21:45,12/11/2024 22:45
+392,392,Startup Workshop #392,Ball,"Durham, United Kingdom",19:45,20:45,09/07/2024,09/07/2024 19:45,09/07/2024 20:45
+393,393,Film Night #393,Networking Event,"Durham, United Kingdom",16:30,18:30,13/10/2024,13/10/2024 16:30,13/10/2024 18:30
+394,394,Networking Evening #394,Exhibition,"Durham, United Kingdom",18:00,18:45,20/07/2024,20/07/2024 18:00,20/07/2024 18:45
+395,395,Shakespeare Play #395,Sports Event,"Durham, United Kingdom",20:15,21:15,18/06/2024,18/06/2024 20:15,18/06/2024 21:15
+396,396,Charity Run #396,Festival,"Durham, United Kingdom",17:00,20:00,07/09/2024,07/09/2024 17:00,07/09/2024 20:00
+397,397,Cultural Festival #397,Networking Event,"Durham, United Kingdom",17:30,19:00,26/08/2024,26/08/2024 17:30,26/08/2024 19:00
+398,398,Sports Day #398,Concert,"Durham, United Kingdom",20:00,22:15,16/06/2024,16/06/2024 20:00,16/06/2024 22:15
+399,399,Sports Day #399,Conference,"Durham, United Kingdom",23:15,23:59,11/09/2024,11/09/2024 23:15,11/09/2024 23:59
+400,400,Shakespeare Play #400,Charity Event,"Durham, United Kingdom",15:00,16:00,13/08/2024,13/08/2024 15:00,13/08/2024 16:00
+401,401,Networking Evening #401,Festival,"Durham, United Kingdom",15:45,16:00,28/11/2024,28/11/2024 15:45,28/11/2024 16:00
+402,402,Film Night #402,Concert,"Durham, United Kingdom",22:00,22:30,13/10/2024,13/10/2024 22:00,13/10/2024 22:30
+403,403,Science Seminar #403,Ball,"Durham, United Kingdom",22:00,23:59,21/06/2024,21/06/2024 22:00,21/06/2024 23:59
+404,404,Sports Day #404,Movie Screening,"Durham, United Kingdom",20:30,22:15,24/07/2024,24/07/2024 20:30,24/07/2024 22:15
+405,405,Food Fair #405,Fair,"Durham, United Kingdom",21:15,23:59,11/09/2024,11/09/2024 21:15,11/09/2024 23:59
+406,406,Charity Run #406,Charity Event,"Durham, United Kingdom",13:30,17:30,01/12/2024,01/12/2024 13:30,01/12/2024 17:30
+407,407,Tech Conference #407,Networking Event,"Durham, United Kingdom",16:45,17:00,16/11/2024,16/11/2024 16:45,16/11/2024 17:00
+408,408,Shakespeare Play #408,Ball,"Durham, United Kingdom",10:00,10:15,13/11/2024,13/11/2024 10:00,13/11/2024 10:15
+409,409,Charity Run #409,Networking Event,"Durham, United Kingdom",23:15,23:59,18/10/2024,18/10/2024 23:15,18/10/2024 23:59
+410,410,Shakespeare Play #410,Workshop,"Durham, United Kingdom",13:45,15:45,13/06/2024,13/06/2024 13:45,13/06/2024 15:45
+411,411,Sports Day #411,Play,"Durham, United Kingdom",16:00,18:15,18/06/2024,18/06/2024 16:00,18/06/2024 18:15
+412,412,Film Night #412,Conference,"Durham, United Kingdom",17:15,19:45,04/10/2024,04/10/2024 17:15,04/10/2024 19:45
+413,413,Science Seminar #413,Workshop,"Durham, United Kingdom",19:30,20:15,22/11/2024,22/11/2024 19:30,22/11/2024 20:15
+414,414,Tech Conference #414,Conference,"Durham, United Kingdom",13:15,15:00,05/11/2024,05/11/2024 13:15,05/11/2024 15:00
+415,415,Film Night #415,Play,"Durham, United Kingdom",18:15,20:45,07/08/2024,07/08/2024 18:15,07/08/2024 20:45
+416,416,Tech Conference #416,Play,"Durham, United Kingdom",20:30,21:15,05/07/2024,05/07/2024 20:30,05/07/2024 21:15
+417,417,Winter Gala #417,Movie Screening,"Durham, United Kingdom",17:00,17:45,22/06/2024,22/06/2024 17:00,22/06/2024 17:45
+418,418,Film Night #418,Seminar,"Durham, United Kingdom",17:45,20:00,02/11/2024,02/11/2024 17:45,02/11/2024 20:00
+419,419,Charity Run #419,Fair,"Durham, United Kingdom",18:30,19:45,07/11/2024,07/11/2024 18:30,07/11/2024 19:45
+420,420,Networking Evening #420,Lecture,"Durham, United Kingdom",08:15,10:15,18/11/2024,18/11/2024 08:15,18/11/2024 10:15
+421,421,Music Festival #421,Networking Event,"Durham, United Kingdom",17:00,17:15,08/11/2024,08/11/2024 17:00,08/11/2024 17:15
+422,422,Sports Day #422,Lecture,"Durham, United Kingdom",16:45,20:45,19/06/2024,19/06/2024 16:45,19/06/2024 20:45
+423,423,Tech Conference #423,Movie Screening,"Durham, United Kingdom",19:15,19:45,26/08/2024,26/08/2024 19:15,26/08/2024 19:45
+424,424,Art Exhibition #424,Networking Event,"Durham, United Kingdom",14:45,14:45,08/08/2024,08/08/2024 14:45,08/08/2024 14:45
+425,425,Film Night #425,Party,"Durham, United Kingdom",18:15,20:15,13/10/2024,13/10/2024 18:15,13/10/2024 20:15
+426,426,Food Fair #426,Play,"Durham, United Kingdom",20:30,22:00,31/08/2024,31/08/2024 20:30,31/08/2024 22:00
+427,427,Science Seminar #427,Party,"Durham, United Kingdom",22:00,23:59,18/09/2024,18/09/2024 22:00,18/09/2024 23:59
+428,428,Winter Gala #428,Seminar,"Durham, United Kingdom",13:15,13:45,27/09/2024,27/09/2024 13:15,27/09/2024 13:45
+429,429,New Year Party #429,Concert,"Durham, United Kingdom",21:45,22:30,24/11/2024,24/11/2024 21:45,24/11/2024 22:30
+430,430,Historical Lecture #430,Party,"Durham, United Kingdom",18:00,18:15,26/09/2024,26/09/2024 18:00,26/09/2024 18:15
+431,431,Food Fair #431,Exhibition,"Durham, United Kingdom",22:15,23:45,02/11/2024,02/11/2024 22:15,02/11/2024 23:45
+432,432,Startup Workshop #432,Sports Event,"Durham, United Kingdom",22:00,23:45,05/07/2024,05/07/2024 22:00,05/07/2024 23:45
+433,433,Winter Gala #433,Networking Event,"Durham, United Kingdom",16:45,18:30,11/08/2024,11/08/2024 16:45,11/08/2024 18:30
+434,434,Sports Day #434,Sports Event,"Durham, United Kingdom",23:30,23:59,19/09/2024,19/09/2024 23:30,19/09/2024 23:59
+435,435,Sports Day #435,Party,"Durham, United Kingdom",14:00,14:00,22/11/2024,22/11/2024 14:00,22/11/2024 14:00
+436,436,Winter Gala #436,Lecture,"Durham, United Kingdom",16:45,20:15,28/07/2024,28/07/2024 16:45,28/07/2024 20:15
+437,437,Tech Conference #437,Concert,"Durham, United Kingdom",13:15,13:15,20/07/2024,20/07/2024 13:15,20/07/2024 13:15
+438,438,Winter Gala #438,Lecture,"Durham, United Kingdom",22:15,22:15,20/11/2024,20/11/2024 22:15,20/11/2024 22:15
+439,439,Music Festival #439,Festival,"Durham, United Kingdom",22:15,22:15,20/11/2024,20/11/2024 22:15,20/11/2024 22:15
+440,440,Shakespeare Play #440,Sports Event,"Durham, United Kingdom",18:30,19:00,04/10/2024,04/10/2024 18:30,04/10/2024 19:00
+441,441,Networking Evening #441,Charity Event,"Durham, United Kingdom",17:15,17:15,21/08/2024,21/08/2024 17:15,21/08/2024 17:15
+442,442,Networking Evening #442,Networking Event,"Durham, United Kingdom",14:15,14:15,15/06/2024,15/06/2024 14:15,15/06/2024 14:15
+443,443,Startup Workshop #443,Play,"Durham, United Kingdom",23:30,23:59,17/11/2024,17/11/2024 23:30,17/11/2024 23:59
+444,444,Networking Evening #444,Ball,"Durham, United Kingdom",09:45,12:30,05/10/2024,05/10/2024 09:45,05/10/2024 12:30
+445,445,Science Seminar #445,Conference,"Durham, United Kingdom",14:45,18:30,18/10/2024,18/10/2024 14:45,18/10/2024 18:30
+446,446,Film Night #446,Ball,"Durham, United Kingdom",18:15,19:00,22/07/2024,22/07/2024 18:15,22/07/2024 19:00
+447,447,New Year Party #447,Seminar,"Durham, United Kingdom",13:15,15:30,10/06/2024,10/06/2024 13:15,10/06/2024 15:30
+448,448,Startup Workshop #448,Networking Event,"Durham, United Kingdom",17:15,18:30,22/08/2024,22/08/2024 17:15,22/08/2024 18:30
+449,449,Charity Run #449,Conference,"Durham, United Kingdom",19:30,20:30,22/08/2024,22/08/2024 19:30,22/08/2024 20:30
+450,450,Art Exhibition #450,Sports Event,"Durham, United Kingdom",13:15,13:30,01/09/2024,01/09/2024 13:15,01/09/2024 13:30
+451,451,Tech Conference #451,Concert,"Durham, United Kingdom",21:45,23:59,06/10/2024,06/10/2024 21:45,06/10/2024 23:59
+452,452,Shakespeare Play #452,Party,"Durham, United Kingdom",23:00,23:59,15/09/2024,15/09/2024 23:00,15/09/2024 23:59
+453,453,Tech Conference #453,Workshop,"Durham, United Kingdom",17:30,17:30,21/08/2024,21/08/2024 17:30,21/08/2024 17:30
+454,454,Tech Conference #454,Seminar,"Durham, United Kingdom",20:45,21:00,03/07/2024,03/07/2024 20:45,03/07/2024 21:00
+455,455,Art Exhibition #455,Seminar,"Durham, United Kingdom",23:30,23:59,12/10/2024,12/10/2024 23:30,12/10/2024 23:59
+456,456,Networking Evening #456,Exhibition,"Durham, United Kingdom",18:45,18:45,23/07/2024,23/07/2024 18:45,23/07/2024 18:45
+457,457,Tech Conference #457,Fair,"Durham, United Kingdom",13:30,16:15,16/10/2024,16/10/2024 13:30,16/10/2024 16:15
+458,458,Cultural Festival #458,Charity Event,"Durham, United Kingdom",09:30,09:45,09/07/2024,09/07/2024 09:30,09/07/2024 09:45
+459,459,Shakespeare Play #459,Play,"Durham, United Kingdom",08:00,08:00,25/09/2024,25/09/2024 08:00,25/09/2024 08:00
+460,460,Cultural Festival #460,Party,"Durham, United Kingdom",15:00,18:15,22/10/2024,22/10/2024 15:00,22/10/2024 18:15
+461,461,Film Night #461,Lecture,"Durham, United Kingdom",20:45,21:15,01/11/2024,01/11/2024 20:45,01/11/2024 21:15
+462,462,Charity Run #462,Play,"Durham, United Kingdom",19:00,20:15,13/12/2024,13/12/2024 19:00,13/12/2024 20:15
+463,463,Networking Evening #463,Sports Event,"Durham, United Kingdom",17:15,17:15,19/10/2024,19/10/2024 17:15,19/10/2024 17:15
+464,464,Startup Workshop #464,Fair,"Durham, United Kingdom",23:45,23:59,08/07/2024,08/07/2024 23:45,08/07/2024 23:59
+465,465,Startup Workshop #465,Party,"Durham, United Kingdom",21:30,21:45,01/11/2024,01/11/2024 21:30,01/11/2024 21:45
+466,466,Tech Conference #466,Movie Screening,"Durham, United Kingdom",16:45,17:00,12/07/2024,12/07/2024 16:45,12/07/2024 17:00
+467,467,Startup Workshop #467,Play,"Durham, United Kingdom",18:45,22:30,09/06/2024,09/06/2024 18:45,09/06/2024 22:30
+468,468,Cultural Festival #468,Conference,"Durham, United Kingdom",16:30,16:30,06/09/2024,06/09/2024 16:30,06/09/2024 16:30
+469,469,Networking Evening #469,Sports Event,"Durham, United Kingdom",22:30,23:59,19/10/2024,19/10/2024 22:30,19/10/2024 23:59
+470,470,Networking Evening #470,Exhibition,"Durham, United Kingdom",15:30,19:30,08/12/2024,08/12/2024 15:30,08/12/2024 19:30
+471,471,Charity Run #471,Fair,"Durham, United Kingdom",14:00,14:15,19/06/2024,19/06/2024 14:00,19/06/2024 14:15
+472,472,Science Seminar #472,Seminar,"Durham, United Kingdom",13:45,15:00,25/08/2024,25/08/2024 13:45,25/08/2024 15:00
+473,473,Science Seminar #473,Festival,"Durham, United Kingdom",20:00,21:30,16/08/2024,16/08/2024 20:00,16/08/2024 21:30
+474,474,New Year Party #474,Networking Event,"Durham, United Kingdom",19:15,21:30,19/10/2024,19/10/2024 19:15,19/10/2024 21:30
+475,475,Tech Conference #475,Lecture,"Durham, United Kingdom",11:00,13:30,03/09/2024,03/09/2024 11:00,03/09/2024 13:30
+476,476,Tech Conference #476,Play,"Durham, United Kingdom",15:15,15:45,15/08/2024,15/08/2024 15:15,15/08/2024 15:45
+477,477,Networking Evening #477,Exhibition,"Durham, United Kingdom",20:45,22:30,10/12/2024,10/12/2024 20:45,10/12/2024 22:30
+478,478,Science Seminar #478,Conference,"Durham, United Kingdom",21:00,21:00,17/08/2024,17/08/2024 21:00,17/08/2024 21:00
+479,479,Networking Evening #479,Movie Screening,"Durham, United Kingdom",18:00,20:30,12/06/2024,12/06/2024 18:00,12/06/2024 20:30
+480,480,Shakespeare Play #480,Concert,"Durham, United Kingdom",22:45,23:59,02/10/2024,02/10/2024 22:45,02/10/2024 23:59
+481,481,Winter Gala #481,Conference,"Durham, United Kingdom",14:45,18:00,07/10/2024,07/10/2024 14:45,07/10/2024 18:00
+482,482,Networking Evening #482,Ball,"Durham, United Kingdom",15:45,17:15,29/09/2024,29/09/2024 15:45,29/09/2024 17:15
+483,483,Winter Gala #483,Sports Event,"Durham, United Kingdom",20:00,20:45,06/11/2024,06/11/2024 20:00,06/11/2024 20:45
+484,484,Film Night #484,Movie Screening,"Durham, United Kingdom",12:30,16:30,17/10/2024,17/10/2024 12:30,17/10/2024 16:30
+485,485,Charity Run #485,Movie Screening,"Durham, United Kingdom",15:00,15:15,26/07/2024,26/07/2024 15:00,26/07/2024 15:15
+486,486,Science Seminar #486,Ball,"Durham, United Kingdom",19:30,21:30,09/11/2024,09/11/2024 19:30,09/11/2024 21:30
+487,487,Music Festival #487,Workshop,"Durham, United Kingdom",20:00,20:15,24/09/2024,24/09/2024 20:00,24/09/2024 20:15
+488,488,Cultural Festival #488,Movie Screening,"Durham, United Kingdom",17:00,18:00,10/12/2024,10/12/2024 17:00,10/12/2024 18:00
+489,489,New Year Party #489,Seminar,"Durham, United Kingdom",13:45,15:30,12/12/2024,12/12/2024 13:45,12/12/2024 15:30
+490,490,Startup Workshop #490,Lecture,"Durham, United Kingdom",20:00,20:45,05/09/2024,05/09/2024 20:00,05/09/2024 20:45
+491,491,Winter Gala #491,Exhibition,"Durham, United Kingdom",18:45,19:30,26/07/2024,26/07/2024 18:45,26/07/2024 19:30
+492,492,Shakespeare Play #492,Networking Event,"Durham, United Kingdom",09:15,12:30,21/07/2024,21/07/2024 09:15,21/07/2024 12:30
+493,493,New Year Party #493,Concert,"Durham, United Kingdom",17:45,19:30,25/07/2024,25/07/2024 17:45,25/07/2024 19:30
+494,494,Historical Lecture #494,Play,"Durham, United Kingdom",21:00,21:45,09/08/2024,09/08/2024 21:00,09/08/2024 21:45
+495,495,Cultural Festival #495,Movie Screening,"Durham, United Kingdom",17:15,18:30,13/09/2024,13/09/2024 17:15,13/09/2024 18:30
+496,496,Music Festival #496,Exhibition,"Durham, United Kingdom",15:00,15:15,02/11/2024,02/11/2024 15:00,02/11/2024 15:15
+497,497,Charity Run #497,Ball,"Durham, United Kingdom",17:00,17:45,09/08/2024,09/08/2024 17:00,09/08/2024 17:45
+498,498,Networking Evening #498,Play,"Durham, United Kingdom",21:15,23:59,21/06/2024,21/06/2024 21:15,21/06/2024 23:59
+499,499,Cultural Festival #499,Play,"Durham, United Kingdom",18:00,20:00,02/10/2024,02/10/2024 18:00,02/10/2024 20:00
+500,500,Tech Conference #500,Exhibition,"Durham, United Kingdom",13:00,13:15,07/07/2024,07/07/2024 13:00,07/07/2024 13:15
+501,501,New Year Party #501,Workshop,"Durham, United Kingdom",17:15,18:30,23/09/2024,23/09/2024 17:15,23/09/2024 18:30
+502,502,New Year Party #502,Festival,"Durham, United Kingdom",18:30,19:00,28/09/2024,28/09/2024 18:30,28/09/2024 19:00
+503,503,Film Night #503,Concert,"Durham, United Kingdom",13:45,13:45,29/10/2024,29/10/2024 13:45,29/10/2024 13:45
+504,504,Historical Lecture #504,Party,"Durham, United Kingdom",13:15,14:15,19/08/2024,19/08/2024 13:15,19/08/2024 14:15
+505,505,Charity Run #505,Sports Event,"Durham, United Kingdom",20:15,21:15,06/12/2024,06/12/2024 20:15,06/12/2024 21:15
+506,506,Startup Workshop #506,Workshop,"Durham, United Kingdom",21:45,23:45,06/07/2024,06/07/2024 21:45,06/07/2024 23:45
+507,507,Networking Evening #507,Movie Screening,"Durham, United Kingdom",16:15,18:00,21/09/2024,21/09/2024 16:15,21/09/2024 18:00
+508,508,Science Seminar #508,Charity Event,"Durham, United Kingdom",15:15,16:30,24/08/2024,24/08/2024 15:15,24/08/2024 16:30
+509,509,Film Night #509,Ball,"Durham, United Kingdom",19:30,21:30,01/08/2024,01/08/2024 19:30,01/08/2024 21:30
+510,510,Cultural Festival #510,Play,"Durham, United Kingdom",19:00,20:30,26/11/2024,26/11/2024 19:00,26/11/2024 20:30
+511,511,Cultural Festival #511,Festival,"Durham, United Kingdom",17:00,17:00,07/09/2024,07/09/2024 17:00,07/09/2024 17:00
+512,512,Shakespeare Play #512,Ball,"Durham, United Kingdom",13:00,13:00,28/08/2024,28/08/2024 13:00,28/08/2024 13:00
+513,513,Winter Gala #513,Workshop,"Durham, United Kingdom",17:15,20:30,13/07/2024,13/07/2024 17:15,13/07/2024 20:30
+514,514,Film Night #514,Fair,"Durham, United Kingdom",22:45,23:59,24/11/2024,24/11/2024 22:45,24/11/2024 23:59
+515,515,New Year Party #515,Concert,"Durham, United Kingdom",18:00,19:45,19/09/2024,19/09/2024 18:00,19/09/2024 19:45
+516,516,Networking Evening #516,Sports Event,"Durham, United Kingdom",18:00,18:45,13/06/2024,13/06/2024 18:00,13/06/2024 18:45
+517,517,Sports Day #517,Lecture,"Durham, United Kingdom",23:45,23:59,20/07/2024,20/07/2024 23:45,20/07/2024 23:59
+518,518,Sports Day #518,Play,"Durham, United Kingdom",19:30,22:00,21/06/2024,21/06/2024 19:30,21/06/2024 22:00
+519,519,Music Festival #519,Festival,"Durham, United Kingdom",16:30,16:45,09/06/2024,09/06/2024 16:30,09/06/2024 16:45
+520,520,Winter Gala #520,Movie Screening,"Durham, United Kingdom",12:15,12:30,23/07/2024,23/07/2024 12:15,23/07/2024 12:30
+521,521,Startup Workshop #521,Concert,"Durham, United Kingdom",15:30,15:45,05/12/2024,05/12/2024 15:30,05/12/2024 15:45
+522,522,Music Festival #522,Sports Event,"Durham, United Kingdom",23:00,23:15,26/11/2024,26/11/2024 23:00,26/11/2024 23:15
+523,523,Food Fair #523,Workshop,"Durham, United Kingdom",22:00,23:59,28/11/2024,28/11/2024 22:00,28/11/2024 23:59
+524,524,Art Exhibition #524,Festival,"Durham, United Kingdom",20:00,20:15,13/10/2024,13/10/2024 20:00,13/10/2024 20:15
+525,525,Food Fair #525,Networking Event,"Durham, United Kingdom",11:00,11:30,09/12/2024,09/12/2024 11:00,09/12/2024 11:30
+526,526,Historical Lecture #526,Sports Event,"Durham, United Kingdom",14:00,14:00,14/07/2024,14/07/2024 14:00,14/07/2024 14:00
+527,527,Science Seminar #527,Ball,"Durham, United Kingdom",14:45,16:15,08/08/2024,08/08/2024 14:45,08/08/2024 16:15
+528,528,Tech Conference #528,Workshop,"Durham, United Kingdom",16:45,17:45,15/06/2024,15/06/2024 16:45,15/06/2024 17:45
+529,529,Sports Day #529,Exhibition,"Durham, United Kingdom",21:00,23:45,21/06/2024,21/06/2024 21:00,21/06/2024 23:45
+530,530,Film Night #530,Networking Event,"Durham, United Kingdom",11:15,14:00,04/12/2024,04/12/2024 11:15,04/12/2024 14:00
+531,531,Art Exhibition #531,Sports Event,"Durham, United Kingdom",22:45,00:00,19/10/2024,19/10/2024 22:45,20/10/2024 00:00
+532,532,Art Exhibition #532,Networking Event,"Durham, United Kingdom",23:30,23:59,12/07/2024,12/07/2024 23:30,12/07/2024 23:59
+533,533,Film Night #533,Lecture,"Durham, United Kingdom",14:30,15:30,12/07/2024,12/07/2024 14:30,12/07/2024 15:30
+534,534,Art Exhibition #534,Play,"Durham, United Kingdom",20:00,21:45,21/07/2024,21/07/2024 20:00,21/07/2024 21:45
+535,535,Sports Day #535,Workshop,"Durham, United Kingdom",18:00,18:00,27/11/2024,27/11/2024 18:00,27/11/2024 18:00
+536,536,Music Festival #536,Movie Screening,"Durham, United Kingdom",19:45,23:45,07/12/2024,07/12/2024 19:45,07/12/2024 23:45
+537,537,Charity Run #537,Ball,"Durham, United Kingdom",16:45,16:45,13/07/2024,13/07/2024 16:45,13/07/2024 16:45
+538,538,Art Exhibition #538,Play,"Durham, United Kingdom",18:30,19:45,08/08/2024,08/08/2024 18:30,08/08/2024 19:45
+539,539,New Year Party #539,Lecture,"Durham, United Kingdom",14:30,15:30,12/08/2024,12/08/2024 14:30,12/08/2024 15:30
+540,540,Music Festival #540,Conference,"Durham, United Kingdom",15:30,16:00,22/07/2024,22/07/2024 15:30,22/07/2024 16:00
+541,541,Tech Conference #541,Workshop,"Durham, United Kingdom",09:15,10:15,21/08/2024,21/08/2024 09:15,21/08/2024 10:15
+542,542,Science Seminar #542,Party,"Durham, United Kingdom",15:00,17:45,06/11/2024,06/11/2024 15:00,06/11/2024 17:45
+543,543,Winter Gala #543,Networking Event,"Durham, United Kingdom",11:30,13:00,10/11/2024,10/11/2024 11:30,10/11/2024 13:00
+544,544,Tech Conference #544,Sports Event,"Durham, United Kingdom",23:30,23:30,11/10/2024,11/10/2024 23:30,11/10/2024 23:30
+545,545,Historical Lecture #545,Play,"Durham, United Kingdom",22:15,23:59,30/06/2024,30/06/2024 22:15,30/06/2024 23:59
+546,546,Sports Day #546,Lecture,"Durham, United Kingdom",15:15,16:00,22/10/2024,22/10/2024 15:15,22/10/2024 16:00
+547,547,Music Festival #547,Ball,"Durham, United Kingdom",21:15,23:59,09/09/2024,09/09/2024 21:15,09/09/2024 23:59
+548,548,Historical Lecture #548,Party,"Durham, United Kingdom",14:45,18:45,17/06/2024,17/06/2024 14:45,17/06/2024 18:45
+549,549,Food Fair #549,Charity Event,"Durham, United Kingdom",21:30,00:00,24/08/2024,24/08/2024 21:30,25/08/2024 00:00
+550,550,Food Fair #550,Charity Event,"Durham, United Kingdom",16:15,17:30,02/07/2024,02/07/2024 16:15,02/07/2024 17:30
+551,551,Tech Conference #551,Lecture,"Durham, United Kingdom",21:45,23:30,22/08/2024,22/08/2024 21:45,22/08/2024 23:30
+552,552,Sports Day #552,Conference,"Durham, United Kingdom",23:00,23:59,24/09/2024,24/09/2024 23:00,24/09/2024 23:59
+553,553,Film Night #553,Exhibition,"Durham, United Kingdom",20:00,00:00,03/12/2024,03/12/2024 20:00,04/12/2024 00:00
+554,554,New Year Party #554,Movie Screening,"Durham, United Kingdom",19:00,20:15,01/08/2024,01/08/2024 19:00,01/08/2024 20:15
+555,555,Sports Day #555,Charity Event,"Durham, United Kingdom",14:45,15:30,13/06/2024,13/06/2024 14:45,13/06/2024 15:30
+556,556,Science Seminar #556,Festival,"Durham, United Kingdom",10:30,10:30,03/10/2024,03/10/2024 10:30,03/10/2024 10:30
+557,557,Cultural Festival #557,Movie Screening,"Durham, United Kingdom",22:00,23:59,05/12/2024,05/12/2024 22:00,05/12/2024 23:59
+558,558,Cultural Festival #558,Party,"Durham, United Kingdom",12:30,12:30,02/12/2024,02/12/2024 12:30,02/12/2024 12:30
+559,559,Film Night #559,Party,"Durham, United Kingdom",23:45,23:45,21/06/2024,21/06/2024 23:45,21/06/2024 23:45
+560,560,Music Festival #560,Exhibition,"Durham, United Kingdom",21:00,22:30,14/09/2024,14/09/2024 21:00,14/09/2024 22:30
+561,561,Food Fair #561,Networking Event,"Durham, United Kingdom",15:45,15:45,10/10/2024,10/10/2024 15:45,10/10/2024 15:45
+562,562,Startup Workshop #562,Sports Event,"Durham, United Kingdom",11:45,12:45,23/10/2024,23/10/2024 11:45,23/10/2024 12:45
+563,563,Art Exhibition #563,Movie Screening,"Durham, United Kingdom",13:00,15:15,29/07/2024,29/07/2024 13:00,29/07/2024 15:15
+564,564,Sports Day #564,Networking Event,"Durham, United Kingdom",21:45,22:00,01/09/2024,01/09/2024 21:45,01/09/2024 22:00
+565,565,Shakespeare Play #565,Lecture,"Durham, United Kingdom",17:30,18:00,27/06/2024,27/06/2024 17:30,27/06/2024 18:00
+566,566,Art Exhibition #566,Concert,"Durham, United Kingdom",21:30,23:59,28/07/2024,28/07/2024 21:30,28/07/2024 23:59
+567,567,Cultural Festival #567,Movie Screening,"Durham, United Kingdom",21:15,21:15,25/08/2024,25/08/2024 21:15,25/08/2024 21:15
+568,568,Sports Day #568,Conference,"Durham, United Kingdom",14:15,14:15,28/10/2024,28/10/2024 14:15,28/10/2024 14:15
+569,569,Tech Conference #569,Movie Screening,"Durham, United Kingdom",15:15,15:30,10/12/2024,10/12/2024 15:15,10/12/2024 15:30
+570,570,Startup Workshop #570,Lecture,"Durham, United Kingdom",18:15,22:15,15/09/2024,15/09/2024 18:15,15/09/2024 22:15
+571,571,Sports Day #571,Lecture,"Durham, United Kingdom",20:45,21:30,20/10/2024,20/10/2024 20:45,20/10/2024 21:30
+572,572,Winter Gala #572,Fair,"Durham, United Kingdom",19:00,22:30,24/10/2024,24/10/2024 19:00,24/10/2024 22:30
+573,573,Networking Evening #573,Sports Event,"Durham, United Kingdom",19:30,19:30,11/10/2024,11/10/2024 19:30,11/10/2024 19:30
+574,574,Networking Evening #574,Party,"Durham, United Kingdom",13:15,13:45,05/12/2024,05/12/2024 13:15,05/12/2024 13:45
+575,575,Startup Workshop #575,Networking Event,"Durham, United Kingdom",17:30,20:45,03/09/2024,03/09/2024 17:30,03/09/2024 20:45
+576,576,Networking Evening #576,Charity Event,"Durham, United Kingdom",23:45,23:59,07/09/2024,07/09/2024 23:45,07/09/2024 23:59
+577,577,Music Festival #577,Ball,"Durham, United Kingdom",13:30,14:00,27/06/2024,27/06/2024 13:30,27/06/2024 14:00
+578,578,Historical Lecture #578,Party,"Durham, United Kingdom",13:30,14:30,03/07/2024,03/07/2024 13:30,03/07/2024 14:30
+579,579,Film Night #579,Seminar,"Durham, United Kingdom",15:30,16:30,15/10/2024,15/10/2024 15:30,15/10/2024 16:30
+580,580,Food Fair #580,Concert,"Durham, United Kingdom",19:30,19:45,09/12/2024,09/12/2024 19:30,09/12/2024 19:45
+581,581,Sports Day #581,Exhibition,"Durham, United Kingdom",13:45,14:15,12/07/2024,12/07/2024 13:45,12/07/2024 14:15
+582,582,Charity Run #582,Movie Screening,"Durham, United Kingdom",18:15,19:00,11/08/2024,11/08/2024 18:15,11/08/2024 19:00
+583,583,Shakespeare Play #583,Movie Screening,"Durham, United Kingdom",16:15,16:15,10/07/2024,10/07/2024 16:15,10/07/2024 16:15
+584,584,Tech Conference #584,Workshop,"Durham, United Kingdom",10:30,13:00,23/10/2024,23/10/2024 10:30,23/10/2024 13:00
+585,585,Music Festival #585,Play,"Durham, United Kingdom",17:45,20:30,12/10/2024,12/10/2024 17:45,12/10/2024 20:30
+586,586,Science Seminar #586,Charity Event,"Durham, United Kingdom",14:15,14:30,28/07/2024,28/07/2024 14:15,28/07/2024 14:30
+587,587,Charity Run #587,Ball,"Durham, United Kingdom",10:30,11:00,26/08/2024,26/08/2024 10:30,26/08/2024 11:00
+588,588,Startup Workshop #588,Play,"Durham, United Kingdom",22:45,23:15,30/06/2024,30/06/2024 22:45,30/06/2024 23:15
+589,589,Historical Lecture #589,Festival,"Durham, United Kingdom",13:45,14:15,07/09/2024,07/09/2024 13:45,07/09/2024 14:15
+590,590,Film Night #590,Play,"Durham, United Kingdom",17:00,17:00,29/06/2024,29/06/2024 17:00,29/06/2024 17:00
+591,591,Winter Gala #591,Seminar,"Durham, United Kingdom",21:15,21:45,06/12/2024,06/12/2024 21:15,06/12/2024 21:45
+592,592,Charity Run #592,Sports Event,"Durham, United Kingdom",20:30,21:45,18/10/2024,18/10/2024 20:30,18/10/2024 21:45
+593,593,Cultural Festival #593,Fair,"Durham, United Kingdom",16:15,17:00,10/10/2024,10/10/2024 16:15,10/10/2024 17:00
+594,594,Food Fair #594,Workshop,"Durham, United Kingdom",18:30,19:15,13/11/2024,13/11/2024 18:30,13/11/2024 19:15
+595,595,Winter Gala #595,Conference,"Durham, United Kingdom",18:30,21:45,18/10/2024,18/10/2024 18:30,18/10/2024 21:45
+596,596,Food Fair #596,Conference,"Durham, United Kingdom",11:30,12:30,19/09/2024,19/09/2024 11:30,19/09/2024 12:30
+597,597,Startup Workshop #597,Ball,"Durham, United Kingdom",20:00,20:45,07/06/2024,07/06/2024 20:00,07/06/2024 20:45
+598,598,Tech Conference #598,Seminar,"Durham, United Kingdom",13:45,14:30,28/07/2024,28/07/2024 13:45,28/07/2024 14:30
+599,599,Film Night #599,Lecture,"Durham, United Kingdom",21:30,21:45,15/09/2024,15/09/2024 21:30,15/09/2024 21:45
+600,600,Cultural Festival #600,Sports Event,"Durham, United Kingdom",21:30,00:00,20/08/2024,20/08/2024 21:30,21/08/2024 00:00
+601,601,Cultural Festival #601,Ball,"Durham, United Kingdom",16:15,16:45,10/09/2024,10/09/2024 16:15,10/09/2024 16:45
+602,602,Shakespeare Play #602,Ball,"Durham, United Kingdom",10:00,12:15,16/07/2024,16/07/2024 10:00,16/07/2024 12:15
+603,603,Science Seminar #603,Networking Event,"Durham, United Kingdom",17:30,19:45,27/06/2024,27/06/2024 17:30,27/06/2024 19:45
+604,604,Sports Day #604,Play,"Durham, United Kingdom",14:15,17:00,27/09/2024,27/09/2024 14:15,27/09/2024 17:00
+605,605,Art Exhibition #605,Ball,"Durham, United Kingdom",22:45,23:59,23/10/2024,23/10/2024 22:45,23/10/2024 23:59
+606,606,Historical Lecture #606,Ball,"Durham, United Kingdom",14:45,18:45,13/12/2024,13/12/2024 14:45,13/12/2024 18:45
+607,607,Food Fair #607,Charity Event,"Durham, United Kingdom",12:30,14:00,15/09/2024,15/09/2024 12:30,15/09/2024 14:00
+608,608,Art Exhibition #608,Movie Screening,"Durham, United Kingdom",18:00,21:15,20/10/2024,20/10/2024 18:00,20/10/2024 21:15
+609,609,Winter Gala #609,Lecture,"Durham, United Kingdom",16:30,18:15,11/08/2024,11/08/2024 16:30,11/08/2024 18:15
+610,610,Startup Workshop #610,Seminar,"Durham, United Kingdom",13:30,17:30,24/08/2024,24/08/2024 13:30,24/08/2024 17:30
+611,611,Historical Lecture #611,Conference,"Durham, United Kingdom",23:15,23:45,29/06/2024,29/06/2024 23:15,29/06/2024 23:45
+612,612,Tech Conference #612,Ball,"Durham, United Kingdom",18:15,20:30,20/11/2024,20/11/2024 18:15,20/11/2024 20:30
+613,613,Science Seminar #613,Movie Screening,"Durham, United Kingdom",16:00,19:45,11/12/2024,11/12/2024 16:00,11/12/2024 19:45
+614,614,Winter Gala #614,Fair,"Durham, United Kingdom",23:00,23:00,10/11/2024,10/11/2024 23:00,10/11/2024 23:00
+615,615,Shakespeare Play #615,Movie Screening,"Durham, United Kingdom",20:30,23:45,22/08/2024,22/08/2024 20:30,22/08/2024 23:45
+616,616,Charity Run #616,Movie Screening,"Durham, United Kingdom",23:30,23:59,10/06/2024,10/06/2024 23:30,10/06/2024 23:59
+617,617,Winter Gala #617,Fair,"Durham, United Kingdom",13:00,14:45,31/10/2024,31/10/2024 13:00,31/10/2024 14:45
+618,618,Startup Workshop #618,Concert,"Durham, United Kingdom",22:30,23:15,19/07/2024,19/07/2024 22:30,19/07/2024 23:15
+619,619,Science Seminar #619,Charity Event,"Durham, United Kingdom",18:30,18:45,11/10/2024,11/10/2024 18:30,11/10/2024 18:45
+620,620,Food Fair #620,Ball,"Durham, United Kingdom",22:30,23:59,26/11/2024,26/11/2024 22:30,26/11/2024 23:59
+621,621,Cultural Festival #621,Exhibition,"Durham, United Kingdom",17:30,17:45,05/11/2024,05/11/2024 17:30,05/11/2024 17:45
+622,622,Winter Gala #622,Movie Screening,"Durham, United Kingdom",17:45,20:30,11/11/2024,11/11/2024 17:45,11/11/2024 20:30
+623,623,Film Night #623,Ball,"Durham, United Kingdom",23:45,23:59,19/10/2024,19/10/2024 23:45,19/10/2024 23:59
+624,624,Food Fair #624,Concert,"Durham, United Kingdom",14:15,14:15,22/11/2024,22/11/2024 14:15,22/11/2024 14:15
+625,625,Film Night #625,Concert,"Durham, United Kingdom",15:15,15:45,11/12/2024,11/12/2024 15:15,11/12/2024 15:45
+626,626,Charity Run #626,Movie Screening,"Durham, United Kingdom",20:45,21:00,06/07/2024,06/07/2024 20:45,06/07/2024 21:00
+627,627,Startup Workshop #627,Seminar,"Durham, United Kingdom",18:30,18:30,13/11/2024,13/11/2024 18:30,13/11/2024 18:30
+628,628,Film Night #628,Concert,"Durham, United Kingdom",16:15,16:15,06/12/2024,06/12/2024 16:15,06/12/2024 16:15
+629,629,Cultural Festival #629,Festival,"Durham, United Kingdom",16:15,17:00,25/10/2024,25/10/2024 16:15,25/10/2024 17:00
+630,630,Art Exhibition #630,Lecture,"Durham, United Kingdom",13:00,13:45,15/06/2024,15/06/2024 13:00,15/06/2024 13:45
+631,631,Charity Run #631,Festival,"Durham, United Kingdom",13:00,13:00,18/09/2024,18/09/2024 13:00,18/09/2024 13:00
+632,632,Science Seminar #632,Party,"Durham, United Kingdom",20:15,20:15,24/10/2024,24/10/2024 20:15,24/10/2024 20:15
+633,633,Charity Run #633,Concert,"Durham, United Kingdom",16:30,16:30,05/08/2024,05/08/2024 16:30,05/08/2024 16:30
+634,634,Science Seminar #634,Sports Event,"Durham, United Kingdom",21:30,23:59,28/11/2024,28/11/2024 21:30,28/11/2024 23:59
+635,635,Film Night #635,Festival,"Durham, United Kingdom",16:45,18:30,20/07/2024,20/07/2024 16:45,20/07/2024 18:30
+636,636,Shakespeare Play #636,Workshop,"Durham, United Kingdom",09:45,10:45,19/09/2024,19/09/2024 09:45,19/09/2024 10:45
+637,637,Art Exhibition #637,Charity Event,"Durham, United Kingdom",16:45,17:15,08/09/2024,08/09/2024 16:45,08/09/2024 17:15
+638,638,Music Festival #638,Movie Screening,"Durham, United Kingdom",18:30,21:15,29/09/2024,29/09/2024 18:30,29/09/2024 21:15
+639,639,Startup Workshop #639,Exhibition,"Durham, United Kingdom",17:45,19:00,19/11/2024,19/11/2024 17:45,19/11/2024 19:00
+640,640,Cultural Festival #640,Networking Event,"Durham, United Kingdom",10:45,14:45,21/10/2024,21/10/2024 10:45,21/10/2024 14:45
+641,641,Art Exhibition #641,Festival,"Durham, United Kingdom",14:45,16:30,13/12/2024,13/12/2024 14:45,13/12/2024 16:30
+642,642,Startup Workshop #642,Conference,"Durham, United Kingdom",17:00,17:00,24/11/2024,24/11/2024 17:00,24/11/2024 17:00
+643,643,Art Exhibition #643,Party,"Durham, United Kingdom",17:45,20:30,24/11/2024,24/11/2024 17:45,24/11/2024 20:30
+644,644,Art Exhibition #644,Networking Event,"Durham, United Kingdom",16:30,16:30,06/07/2024,06/07/2024 16:30,06/07/2024 16:30
+645,645,Networking Evening #645,Ball,"Durham, United Kingdom",15:30,19:30,14/06/2024,14/06/2024 15:30,14/06/2024 19:30
+646,646,Shakespeare Play #646,Play,"Durham, United Kingdom",13:30,14:00,10/12/2024,10/12/2024 13:30,10/12/2024 14:00
+647,647,Tech Conference #647,Party,"Durham, United Kingdom",22:45,23:59,14/10/2024,14/10/2024 22:45,14/10/2024 23:59
+648,648,Tech Conference #648,Conference,"Durham, United Kingdom",16:15,17:45,14/07/2024,14/07/2024 16:15,14/07/2024 17:45
+649,649,Charity Run #649,Lecture,"Durham, United Kingdom",17:15,18:00,30/11/2024,30/11/2024 17:15,30/11/2024 18:00
+650,650,Tech Conference #650,Play,"Durham, United Kingdom",16:00,16:45,14/06/2024,14/06/2024 16:00,14/06/2024 16:45
+651,651,Tech Conference #651,Networking Event,"Durham, United Kingdom",18:30,19:45,14/11/2024,14/11/2024 18:30,14/11/2024 19:45
+652,652,Science Seminar #652,Conference,"Durham, United Kingdom",23:15,23:59,31/10/2024,31/10/2024 23:15,31/10/2024 23:59
+653,653,Film Night #653,Party,"Durham, United Kingdom",23:15,23:59,21/10/2024,21/10/2024 23:15,21/10/2024 23:59
+654,654,Winter Gala #654,Movie Screening,"Durham, United Kingdom",22:30,23:59,30/08/2024,30/08/2024 22:30,30/08/2024 23:59
+655,655,Shakespeare Play #655,Conference,"Durham, United Kingdom",23:00,23:59,18/08/2024,18/08/2024 23:00,18/08/2024 23:59
+656,656,Winter Gala #656,Concert,"Durham, United Kingdom",13:30,14:00,09/10/2024,09/10/2024 13:30,09/10/2024 14:00
+657,657,Charity Run #657,Ball,"Durham, United Kingdom",16:30,18:15,20/11/2024,20/11/2024 16:30,20/11/2024 18:15
+658,658,Science Seminar #658,Festival,"Durham, United Kingdom",13:00,13:15,23/06/2024,23/06/2024 13:00,23/06/2024 13:15
+659,659,Sports Day #659,Fair,"Durham, United Kingdom",15:00,17:30,23/11/2024,23/11/2024 15:00,23/11/2024 17:30
+660,660,Historical Lecture #660,Charity Event,"Durham, United Kingdom",17:15,20:15,29/08/2024,29/08/2024 17:15,29/08/2024 20:15
+661,661,New Year Party #661,Ball,"Durham, United Kingdom",16:45,17:15,29/10/2024,29/10/2024 16:45,29/10/2024 17:15
+662,662,Tech Conference #662,Seminar,"Durham, United Kingdom",13:30,16:45,05/07/2024,05/07/2024 13:30,05/07/2024 16:45
+663,663,Shakespeare Play #663,Concert,"Durham, United Kingdom",18:45,19:30,25/07/2024,25/07/2024 18:45,25/07/2024 19:30
+664,664,Networking Evening #664,Party,"Durham, United Kingdom",23:45,23:59,12/06/2024,12/06/2024 23:45,12/06/2024 23:59
+665,665,New Year Party #665,Lecture,"Durham, United Kingdom",15:30,16:00,10/07/2024,10/07/2024 15:30,10/07/2024 16:00
+666,666,Shakespeare Play #666,Sports Event,"Durham, United Kingdom",20:30,22:00,23/06/2024,23/06/2024 20:30,23/06/2024 22:00
+667,667,Film Night #667,Lecture,"Durham, United Kingdom",09:45,10:45,15/06/2024,15/06/2024 09:45,15/06/2024 10:45
+668,668,Music Festival #668,Sports Event,"Durham, United Kingdom",23:30,23:59,25/10/2024,25/10/2024 23:30,25/10/2024 23:59
+669,669,New Year Party #669,Ball,"Durham, United Kingdom",14:30,15:30,22/08/2024,22/08/2024 14:30,22/08/2024 15:30
+670,670,Startup Workshop #670,Concert,"Durham, United Kingdom",17:00,19:30,19/11/2024,19/11/2024 17:00,19/11/2024 19:30
+671,671,Science Seminar #671,Concert,"Durham, United Kingdom",22:45,23:30,24/11/2024,24/11/2024 22:45,24/11/2024 23:30
+672,672,Cultural Festival #672,Ball,"Durham, United Kingdom",23:30,23:59,26/07/2024,26/07/2024 23:30,26/07/2024 23:59
+673,673,Sports Day #673,Fair,"Durham, United Kingdom",15:30,16:15,21/11/2024,21/11/2024 15:30,21/11/2024 16:15
+674,674,Historical Lecture #674,Movie Screening,"Durham, United Kingdom",19:30,20:45,11/10/2024,11/10/2024 19:30,11/10/2024 20:45
+675,675,Art Exhibition #675,Exhibition,"Durham, United Kingdom",16:30,17:30,10/09/2024,10/09/2024 16:30,10/09/2024 17:30
+676,676,Startup Workshop #676,Party,"Durham, United Kingdom",19:45,20:00,01/08/2024,01/08/2024 19:45,01/08/2024 20:00
+677,677,Science Seminar #677,Concert,"Durham, United Kingdom",15:30,15:30,07/12/2024,07/12/2024 15:30,07/12/2024 15:30
+678,678,Tech Conference #678,Charity Event,"Durham, United Kingdom",11:00,11:00,02/12/2024,02/12/2024 11:00,02/12/2024 11:00
+679,679,Charity Run #679,Charity Event,"Durham, United Kingdom",18:15,22:15,21/08/2024,21/08/2024 18:15,21/08/2024 22:15
+680,680,Winter Gala #680,Movie Screening,"Durham, United Kingdom",09:00,11:00,29/09/2024,29/09/2024 09:00,29/09/2024 11:00
+681,681,Charity Run #681,Conference,"Durham, United Kingdom",18:00,20:45,19/10/2024,19/10/2024 18:00,19/10/2024 20:45
+682,682,Shakespeare Play #682,Fair,"Durham, United Kingdom",20:15,20:15,08/10/2024,08/10/2024 20:15,08/10/2024 20:15
+683,683,Shakespeare Play #683,Sports Event,"Durham, United Kingdom",12:45,16:45,28/08/2024,28/08/2024 12:45,28/08/2024 16:45
+684,684,Sports Day #684,Lecture,"Durham, United Kingdom",17:45,19:15,08/12/2024,08/12/2024 17:45,08/12/2024 19:15
+685,685,Sports Day #685,Seminar,"Durham, United Kingdom",14:30,15:00,08/12/2024,08/12/2024 14:30,08/12/2024 15:00
+686,686,Cultural Festival #686,Ball,"Durham, United Kingdom",13:15,17:15,21/07/2024,21/07/2024 13:15,21/07/2024 17:15
+687,687,New Year Party #687,Concert,"Durham, United Kingdom",15:00,15:30,19/10/2024,19/10/2024 15:00,19/10/2024 15:30
+688,688,Charity Run #688,Movie Screening,"Durham, United Kingdom",20:15,21:00,11/12/2024,11/12/2024 20:15,11/12/2024 21:00
+689,689,Networking Evening #689,Lecture,"Durham, United Kingdom",13:15,14:15,08/11/2024,08/11/2024 13:15,08/11/2024 14:15
+690,690,Historical Lecture #690,Charity Event,"Durham, United Kingdom",13:15,16:45,23/11/2024,23/11/2024 13:15,23/11/2024 16:45
+691,691,Tech Conference #691,Lecture,"Durham, United Kingdom",13:00,16:30,24/06/2024,24/06/2024 13:00,24/06/2024 16:30
+692,692,Film Night #692,Movie Screening,"Durham, United Kingdom",17:30,20:45,22/11/2024,22/11/2024 17:30,22/11/2024 20:45
+693,693,New Year Party #693,Party,"Durham, United Kingdom",17:30,17:45,08/08/2024,08/08/2024 17:30,08/08/2024 17:45
+694,694,Art Exhibition #694,Networking Event,"Durham, United Kingdom",23:45,23:59,24/11/2024,24/11/2024 23:45,24/11/2024 23:59
+695,695,Science Seminar #695,Play,"Durham, United Kingdom",08:00,11:30,05/08/2024,05/08/2024 08:00,05/08/2024 11:30
+696,696,Charity Run #696,Concert,"Durham, United Kingdom",19:00,20:30,22/11/2024,22/11/2024 19:00,22/11/2024 20:30
+697,697,New Year Party #697,Workshop,"Durham, United Kingdom",18:45,19:00,02/11/2024,02/11/2024 18:45,02/11/2024 19:00
+698,698,Film Night #698,Seminar,"Durham, United Kingdom",18:15,18:45,06/11/2024,06/11/2024 18:15,06/11/2024 18:45
+699,699,Tech Conference #699,Fair,"Durham, United Kingdom",20:45,22:15,01/09/2024,01/09/2024 20:45,01/09/2024 22:15
+700,700,Cultural Festival #700,Ball,"Durham, United Kingdom",15:45,17:15,30/10/2024,30/10/2024 15:45,30/10/2024 17:15
+701,701,Science Seminar #701,Movie Screening,"Durham, United Kingdom",17:30,18:45,08/07/2024,08/07/2024 17:30,08/07/2024 18:45
+702,702,Music Festival #702,Conference,"Durham, United Kingdom",22:00,23:45,10/07/2024,10/07/2024 22:00,10/07/2024 23:45
+703,703,Shakespeare Play #703,Sports Event,"Durham, United Kingdom",13:30,17:30,03/09/2024,03/09/2024 13:30,03/09/2024 17:30
+704,704,New Year Party #704,Play,"Durham, United Kingdom",09:45,11:00,15/09/2024,15/09/2024 09:45,15/09/2024 11:00
+705,705,Startup Workshop #705,Workshop,"Durham, United Kingdom",13:15,14:00,03/10/2024,03/10/2024 13:15,03/10/2024 14:00
+706,706,Sports Day #706,Movie Screening,"Durham, United Kingdom",21:45,23:59,20/07/2024,20/07/2024 21:45,20/07/2024 23:59
+707,707,Tech Conference #707,Networking Event,"Durham, United Kingdom",08:15,09:45,02/07/2024,02/07/2024 08:15,02/07/2024 09:45
+708,708,Winter Gala #708,Concert,"Durham, United Kingdom",13:00,15:45,06/08/2024,06/08/2024 13:00,06/08/2024 15:45
+709,709,Startup Workshop #709,Play,"Durham, United Kingdom",22:00,22:00,20/06/2024,20/06/2024 22:00,20/06/2024 22:00
+710,710,Historical Lecture #710,Party,"Durham, United Kingdom",17:30,17:45,30/10/2024,30/10/2024 17:30,30/10/2024 17:45
+711,711,Cultural Festival #711,Exhibition,"Durham, United Kingdom",13:00,15:00,13/11/2024,13/11/2024 13:00,13/11/2024 15:00
+712,712,Music Festival #712,Movie Screening,"Durham, United Kingdom",14:30,16:00,14/09/2024,14/09/2024 14:30,14/09/2024 16:00
+713,713,Science Seminar #713,Play,"Durham, United Kingdom",15:00,15:00,26/09/2024,26/09/2024 15:00,26/09/2024 15:00
+714,714,Science Seminar #714,Charity Event,"Durham, United Kingdom",14:30,15:15,05/11/2024,05/11/2024 14:30,05/11/2024 15:15
+715,715,Sports Day #715,Movie Screening,"Durham, United Kingdom",19:30,19:45,11/06/2024,11/06/2024 19:30,11/06/2024 19:45
+716,716,Sports Day #716,Conference,"Durham, United Kingdom",22:30,23:59,13/08/2024,13/08/2024 22:30,13/08/2024 23:59
+717,717,Historical Lecture #717,Conference,"Durham, United Kingdom",23:30,23:59,20/10/2024,20/10/2024 23:30,20/10/2024 23:59
+718,718,Shakespeare Play #718,Seminar,"Durham, United Kingdom",13:15,14:45,16/10/2024,16/10/2024 13:15,16/10/2024 14:45
+719,719,Art Exhibition #719,Movie Screening,"Durham, United Kingdom",17:15,17:30,01/10/2024,01/10/2024 17:15,01/10/2024 17:30
+720,720,Food Fair #720,Exhibition,"Durham, United Kingdom",14:30,16:00,14/09/2024,14/09/2024 14:30,14/09/2024 16:00
+721,721,Charity Run #721,Fair,"Durham, United Kingdom",19:00,20:15,18/09/2024,18/09/2024 19:00,18/09/2024 20:15
+722,722,Film Night #722,Charity Event,"Durham, United Kingdom",17:30,18:00,27/07/2024,27/07/2024 17:30,27/07/2024 18:00
+723,723,Shakespeare Play #723,Ball,"Durham, United Kingdom",20:45,20:45,06/07/2024,06/07/2024 20:45,06/07/2024 20:45
+724,724,Science Seminar #724,Festival,"Durham, United Kingdom",21:45,23:00,08/11/2024,08/11/2024 21:45,08/11/2024 23:00
+725,725,Food Fair #725,Sports Event,"Durham, United Kingdom",21:15,21:45,14/07/2024,14/07/2024 21:15,14/07/2024 21:45
+726,726,Science Seminar #726,Festival,"Durham, United Kingdom",19:00,21:00,26/07/2024,26/07/2024 19:00,26/07/2024 21:00
+727,727,Art Exhibition #727,Party,"Durham, United Kingdom",14:15,15:15,06/07/2024,06/07/2024 14:15,06/07/2024 15:15
+728,728,Winter Gala #728,Party,"Durham, United Kingdom",17:15,19:30,26/10/2024,26/10/2024 17:15,26/10/2024 19:30
+729,729,Music Festival #729,Networking Event,"Durham, United Kingdom",22:30,00:00,20/07/2024,20/07/2024 22:30,21/07/2024 00:00
+730,730,Art Exhibition #730,Fair,"Durham, United Kingdom",22:30,23:00,08/08/2024,08/08/2024 22:30,08/08/2024 23:00
+731,731,Art Exhibition #731,Movie Screening,"Durham, United Kingdom",20:45,22:15,04/08/2024,04/08/2024 20:45,04/08/2024 22:15
+732,732,Startup Workshop #732,Fair,"Durham, United Kingdom",19:45,19:45,07/07/2024,07/07/2024 19:45,07/07/2024 19:45
+733,733,Sports Day #733,Party,"Durham, United Kingdom",14:30,16:45,22/08/2024,22/08/2024 14:30,22/08/2024 16:45
+734,734,Film Night #734,Festival,"Durham, United Kingdom",21:45,22:00,25/08/2024,25/08/2024 21:45,25/08/2024 22:00
+735,735,Winter Gala #735,Festival,"Durham, United Kingdom",18:15,20:45,15/08/2024,15/08/2024 18:15,15/08/2024 20:45
+736,736,Shakespeare Play #736,Seminar,"Durham, United Kingdom",17:45,17:45,22/08/2024,22/08/2024 17:45,22/08/2024 17:45
+737,737,Sports Day #737,Charity Event,"Durham, United Kingdom",16:00,16:15,01/10/2024,01/10/2024 16:00,01/10/2024 16:15
+738,738,Art Exhibition #738,Seminar,"Durham, United Kingdom",13:15,13:30,21/11/2024,21/11/2024 13:15,21/11/2024 13:30
+739,739,Shakespeare Play #739,Exhibition,"Durham, United Kingdom",19:30,22:30,01/07/2024,01/07/2024 19:30,01/07/2024 22:30
+740,740,Art Exhibition #740,Play,"Durham, United Kingdom",22:45,23:15,24/07/2024,24/07/2024 22:45,24/07/2024 23:15
+741,741,Film Night #741,Play,"Durham, United Kingdom",19:00,21:00,13/12/2024,13/12/2024 19:00,13/12/2024 21:00
+742,742,Cultural Festival #742,Fair,"Durham, United Kingdom",22:45,23:00,07/10/2024,07/10/2024 22:45,07/10/2024 23:00
+743,743,Charity Run #743,Charity Event,"Durham, United Kingdom",21:30,22:00,12/09/2024,12/09/2024 21:30,12/09/2024 22:00
+744,744,Winter Gala #744,Ball,"Durham, United Kingdom",18:45,18:45,24/10/2024,24/10/2024 18:45,24/10/2024 18:45
+745,745,Film Night #745,Charity Event,"Durham, United Kingdom",14:30,16:15,26/10/2024,26/10/2024 14:30,26/10/2024 16:15
+746,746,Art Exhibition #746,Movie Screening,"Durham, United Kingdom",08:00,08:00,24/10/2024,24/10/2024 08:00,24/10/2024 08:00
+747,747,Startup Workshop #747,Party,"Durham, United Kingdom",15:30,17:00,31/08/2024,31/08/2024 15:30,31/08/2024 17:00
+748,748,Startup Workshop #748,Concert,"Durham, United Kingdom",08:30,12:00,12/09/2024,12/09/2024 08:30,12/09/2024 12:00
+749,749,Music Festival #749,Party,"Durham, United Kingdom",15:00,16:00,17/09/2024,17/09/2024 15:00,17/09/2024 16:00
+750,750,Science Seminar #750,Exhibition,"Durham, United Kingdom",13:00,13:00,30/10/2024,30/10/2024 13:00,30/10/2024 13:00
+751,751,Winter Gala #751,Ball,"Durham, United Kingdom",21:00,21:15,10/10/2024,10/10/2024 21:00,10/10/2024 21:15
+752,752,Food Fair #752,Play,"Durham, United Kingdom",17:00,18:30,18/09/2024,18/09/2024 17:00,18/09/2024 18:30
+753,753,New Year Party #753,Networking Event,"Durham, United Kingdom",17:00,18:15,02/08/2024,02/08/2024 17:00,02/08/2024 18:15
+754,754,Music Festival #754,Workshop,"Durham, United Kingdom",10:30,10:45,07/06/2024,07/06/2024 10:30,07/06/2024 10:45
+755,755,Networking Evening #755,Lecture,"Durham, United Kingdom",18:00,18:00,07/06/2024,07/06/2024 18:00,07/06/2024 18:00
+756,756,New Year Party #756,Concert,"Durham, United Kingdom",15:45,16:00,09/10/2024,09/10/2024 15:45,09/10/2024 16:00
+757,757,Winter Gala #757,Exhibition,"Durham, United Kingdom",09:00,10:15,27/08/2024,27/08/2024 09:00,27/08/2024 10:15
+758,758,Music Festival #758,Play,"Durham, United Kingdom",21:00,21:15,03/09/2024,03/09/2024 21:00,03/09/2024 21:15
+759,759,Startup Workshop #759,Exhibition,"Durham, United Kingdom",19:30,20:30,09/06/2024,09/06/2024 19:30,09/06/2024 20:30
+760,760,Music Festival #760,Festival,"Durham, United Kingdom",21:45,22:15,10/06/2024,10/06/2024 21:45,10/06/2024 22:15
+761,761,Shakespeare Play #761,Sports Event,"Durham, United Kingdom",13:30,13:30,17/11/2024,17/11/2024 13:30,17/11/2024 13:30
+762,762,Winter Gala #762,Sports Event,"Durham, United Kingdom",23:45,23:59,13/11/2024,13/11/2024 23:45,13/11/2024 23:59
+763,763,Film Night #763,Conference,"Durham, United Kingdom",18:45,19:15,26/10/2024,26/10/2024 18:45,26/10/2024 19:15
+764,764,Food Fair #764,Sports Event,"Durham, United Kingdom",14:00,14:15,24/06/2024,24/06/2024 14:00,24/06/2024 14:15
+765,765,Science Seminar #765,Ball,"Durham, United Kingdom",22:00,22:15,12/09/2024,12/09/2024 22:00,12/09/2024 22:15
+766,766,Art Exhibition #766,Festival,"Durham, United Kingdom",22:30,23:45,09/08/2024,09/08/2024 22:30,09/08/2024 23:45
+767,767,Charity Run #767,Charity Event,"Durham, United Kingdom",21:45,23:15,27/08/2024,27/08/2024 21:45,27/08/2024 23:15
+768,768,Food Fair #768,Movie Screening,"Durham, United Kingdom",22:45,23:59,04/12/2024,04/12/2024 22:45,04/12/2024 23:59
+769,769,Music Festival #769,Charity Event,"Durham, United Kingdom",17:30,17:30,27/08/2024,27/08/2024 17:30,27/08/2024 17:30
+770,770,Cultural Festival #770,Festival,"Durham, United Kingdom",17:15,17:30,03/12/2024,03/12/2024 17:15,03/12/2024 17:30
+771,771,Cultural Festival #771,Conference,"Durham, United Kingdom",18:30,19:45,17/11/2024,17/11/2024 18:30,17/11/2024 19:45
+772,772,Winter Gala #772,Seminar,"Durham, United Kingdom",17:30,19:30,30/09/2024,30/09/2024 17:30,30/09/2024 19:30
+773,773,Sports Day #773,Play,"Durham, United Kingdom",20:15,23:00,19/06/2024,19/06/2024 20:15,19/06/2024 23:00
+774,774,Music Festival #774,Party,"Durham, United Kingdom",16:45,18:30,08/12/2024,08/12/2024 16:45,08/12/2024 18:30
+775,775,Sports Day #775,Workshop,"Durham, United Kingdom",14:30,15:15,02/11/2024,02/11/2024 14:30,02/11/2024 15:15
+776,776,Networking Evening #776,Party,"Durham, United Kingdom",15:30,15:30,10/10/2024,10/10/2024 15:30,10/10/2024 15:30
+777,777,Music Festival #777,Festival,"Durham, United Kingdom",23:45,23:59,09/09/2024,09/09/2024 23:45,09/09/2024 23:59
+778,778,Food Fair #778,Festival,"Durham, United Kingdom",22:00,23:59,19/08/2024,19/08/2024 22:00,19/08/2024 23:59
+779,779,Winter Gala #779,Networking Event,"Durham, United Kingdom",19:15,20:00,08/11/2024,08/11/2024 19:15,08/11/2024 20:00
+780,780,Startup Workshop #780,Movie Screening,"Durham, United Kingdom",23:30,23:59,22/09/2024,22/09/2024 23:30,22/09/2024 23:59
+781,781,Historical Lecture #781,Workshop,"Durham, United Kingdom",13:00,13:15,07/09/2024,07/09/2024 13:00,07/09/2024 13:15
+782,782,Film Night #782,Seminar,"Durham, United Kingdom",13:15,13:30,26/06/2024,26/06/2024 13:15,26/06/2024 13:30
+783,783,Winter Gala #783,Workshop,"Durham, United Kingdom",14:30,18:00,21/11/2024,21/11/2024 14:30,21/11/2024 18:00
+784,784,Startup Workshop #784,Party,"Durham, United Kingdom",21:15,22:15,07/11/2024,07/11/2024 21:15,07/11/2024 22:15
+785,785,Shakespeare Play #785,Festival,"Durham, United Kingdom",20:30,00:00,27/08/2024,27/08/2024 20:30,28/08/2024 00:00
+786,786,Winter Gala #786,Networking Event,"Durham, United Kingdom",17:15,17:30,13/10/2024,13/10/2024 17:15,13/10/2024 17:30
+787,787,Science Seminar #787,Exhibition,"Durham, United Kingdom",13:30,13:30,10/11/2024,10/11/2024 13:30,10/11/2024 13:30
+788,788,Historical Lecture #788,Charity Event,"Durham, United Kingdom",13:30,14:45,29/07/2024,29/07/2024 13:30,29/07/2024 14:45
+789,789,Music Festival #789,Exhibition,"Durham, United Kingdom",22:15,23:15,11/12/2024,11/12/2024 22:15,11/12/2024 23:15
+790,790,Sports Day #790,Ball,"Durham, United Kingdom",13:00,13:15,05/09/2024,05/09/2024 13:00,05/09/2024 13:15
+791,791,Historical Lecture #791,Lecture,"Durham, United Kingdom",23:00,23:45,30/07/2024,30/07/2024 23:00,30/07/2024 23:45
+792,792,Film Night #792,Lecture,"Durham, United Kingdom",21:00,23:15,03/11/2024,03/11/2024 21:00,03/11/2024 23:15
+793,793,Sports Day #793,Movie Screening,"Durham, United Kingdom",17:45,18:00,10/09/2024,10/09/2024 17:45,10/09/2024 18:00
+794,794,Cultural Festival #794,Fair,"Durham, United Kingdom",19:45,19:45,12/09/2024,12/09/2024 19:45,12/09/2024 19:45
+795,795,Food Fair #795,Exhibition,"Durham, United Kingdom",19:30,20:15,20/10/2024,20/10/2024 19:30,20/10/2024 20:15
+796,796,Science Seminar #796,Festival,"Durham, United Kingdom",16:45,17:30,19/07/2024,19/07/2024 16:45,19/07/2024 17:30
+797,797,Food Fair #797,Conference,"Durham, United Kingdom",20:30,23:30,06/12/2024,06/12/2024 20:30,06/12/2024 23:30
+798,798,Historical Lecture #798,Movie Screening,"Durham, United Kingdom",09:15,10:15,22/09/2024,22/09/2024 09:15,22/09/2024 10:15
+799,799,Film Night #799,Movie Screening,"Durham, United Kingdom",22:30,23:59,07/12/2024,07/12/2024 22:30,07/12/2024 23:59
+800,800,New Year Party #800,Conference,"Durham, United Kingdom",20:15,20:15,06/12/2024,06/12/2024 20:15,06/12/2024 20:15
+801,801,Cultural Festival #801,Sports Event,"Durham, United Kingdom",17:45,19:30,01/12/2024,01/12/2024 17:45,01/12/2024 19:30
+802,802,Historical Lecture #802,Exhibition,"Durham, United Kingdom",17:15,20:30,09/06/2024,09/06/2024 17:15,09/06/2024 20:30
+803,803,Historical Lecture #803,Exhibition,"Durham, United Kingdom",20:30,20:45,15/11/2024,15/11/2024 20:30,15/11/2024 20:45
+804,804,Music Festival #804,Play,"Durham, United Kingdom",14:00,17:30,25/09/2024,25/09/2024 14:00,25/09/2024 17:30
+805,805,Art Exhibition #805,Party,"Durham, United Kingdom",11:30,13:45,11/07/2024,11/07/2024 11:30,11/07/2024 13:45
+806,806,Art Exhibition #806,Seminar,"Durham, United Kingdom",23:30,23:59,05/12/2024,05/12/2024 23:30,05/12/2024 23:59
+807,807,Winter Gala #807,Charity Event,"Durham, United Kingdom",21:00,22:00,26/11/2024,26/11/2024 21:00,26/11/2024 22:00
+808,808,Sports Day #808,Lecture,"Durham, United Kingdom",16:15,20:15,25/10/2024,25/10/2024 16:15,25/10/2024 20:15
+809,809,Food Fair #809,Concert,"Durham, United Kingdom",17:15,21:15,25/11/2024,25/11/2024 17:15,25/11/2024 21:15
+810,810,Tech Conference #810,Party,"Durham, United Kingdom",21:45,23:59,07/09/2024,07/09/2024 21:45,07/09/2024 23:59
+811,811,Historical Lecture #811,Seminar,"Durham, United Kingdom",14:15,14:15,08/09/2024,08/09/2024 14:15,08/09/2024 14:15
+812,812,New Year Party #812,Networking Event,"Durham, United Kingdom",18:45,22:30,09/12/2024,09/12/2024 18:45,09/12/2024 22:30
+813,813,Art Exhibition #813,Fair,"Durham, United Kingdom",19:00,20:15,09/11/2024,09/11/2024 19:00,09/11/2024 20:15
+814,814,Cultural Festival #814,Charity Event,"Durham, United Kingdom",20:00,20:30,11/10/2024,11/10/2024 20:00,11/10/2024 20:30
+815,815,Cultural Festival #815,Workshop,"Durham, United Kingdom",23:00,00:00,30/06/2024,30/06/2024 23:00,01/07/2024 00:00
+816,816,Historical Lecture #816,Festival,"Durham, United Kingdom",21:30,22:00,11/06/2024,11/06/2024 21:30,11/06/2024 22:00
+817,817,New Year Party #817,Charity Event,"Durham, United Kingdom",15:00,18:00,27/11/2024,27/11/2024 15:00,27/11/2024 18:00
+818,818,Art Exhibition #818,Movie Screening,"Durham, United Kingdom",21:00,23:59,12/06/2024,12/06/2024 21:00,12/06/2024 23:59
+819,819,Tech Conference #819,Networking Event,"Durham, United Kingdom",13:45,13:45,28/09/2024,28/09/2024 13:45,28/09/2024 13:45
+820,820,Networking Evening #820,Workshop,"Durham, United Kingdom",23:45,23:45,24/10/2024,24/10/2024 23:45,24/10/2024 23:45
+821,821,Cultural Festival #821,Play,"Durham, United Kingdom",18:15,18:15,04/12/2024,04/12/2024 18:15,04/12/2024 18:15
+822,822,Shakespeare Play #822,Fair,"Durham, United Kingdom",19:15,23:15,25/09/2024,25/09/2024 19:15,25/09/2024 23:15
+823,823,Sports Day #823,Sports Event,"Durham, United Kingdom",18:00,22:00,30/11/2024,30/11/2024 18:00,30/11/2024 22:00
+824,824,Shakespeare Play #824,Ball,"Durham, United Kingdom",18:00,18:30,09/09/2024,09/09/2024 18:00,09/09/2024 18:30
+825,825,Shakespeare Play #825,Movie Screening,"Durham, United Kingdom",21:00,21:15,23/11/2024,23/11/2024 21:00,23/11/2024 21:15
+826,826,Cultural Festival #826,Seminar,"Durham, United Kingdom",15:00,19:00,10/10/2024,10/10/2024 15:00,10/10/2024 19:00
+827,827,New Year Party #827,Sports Event,"Durham, United Kingdom",16:45,18:15,22/10/2024,22/10/2024 16:45,22/10/2024 18:15
+828,828,Tech Conference #828,Play,"Durham, United Kingdom",15:00,19:00,24/09/2024,24/09/2024 15:00,24/09/2024 19:00
+829,829,Charity Run #829,Play,"Durham, United Kingdom",23:15,23:59,20/06/2024,20/06/2024 23:15,20/06/2024 23:59
+830,830,Networking Evening #830,Lecture,"Durham, United Kingdom",23:45,23:45,15/11/2024,15/11/2024 23:45,15/11/2024 23:45
+831,831,Tech Conference #831,Seminar,"Durham, United Kingdom",19:30,19:30,15/08/2024,15/08/2024 19:30,15/08/2024 19:30
+832,832,Tech Conference #832,Networking Event,"Durham, United Kingdom",20:15,21:30,04/07/2024,04/07/2024 20:15,04/07/2024 21:30
+833,833,Sports Day #833,Networking Event,"Durham, United Kingdom",12:15,12:45,10/06/2024,10/06/2024 12:15,10/06/2024 12:45
+834,834,Music Festival #834,Lecture,"Durham, United Kingdom",17:45,18:45,13/09/2024,13/09/2024 17:45,13/09/2024 18:45
+835,835,Tech Conference #835,Exhibition,"Durham, United Kingdom",13:15,14:45,20/06/2024,20/06/2024 13:15,20/06/2024 14:45
+836,836,Film Night #836,Ball,"Durham, United Kingdom",20:30,20:45,08/06/2024,08/06/2024 20:30,08/06/2024 20:45
+837,837,Startup Workshop #837,Workshop,"Durham, United Kingdom",19:45,19:45,23/10/2024,23/10/2024 19:45,23/10/2024 19:45
+838,838,Cultural Festival #838,Lecture,"Durham, United Kingdom",15:30,19:30,05/12/2024,05/12/2024 15:30,05/12/2024 19:30
+839,839,Winter Gala #839,Movie Screening,"Durham, United Kingdom",09:15,10:15,08/12/2024,08/12/2024 09:15,08/12/2024 10:15
+840,840,Music Festival #840,Festival,"Durham, United Kingdom",23:45,23:59,07/12/2024,07/12/2024 23:45,07/12/2024 23:59
+841,841,Art Exhibition #841,Play,"Durham, United Kingdom",17:30,17:45,30/09/2024,30/09/2024 17:30,30/09/2024 17:45
+842,842,Networking Evening #842,Play,"Durham, United Kingdom",11:15,15:15,15/07/2024,15/07/2024 11:15,15/07/2024 15:15
+843,843,New Year Party #843,Movie Screening,"Durham, United Kingdom",20:30,23:59,11/12/2024,11/12/2024 20:30,11/12/2024 23:59
+844,844,Art Exhibition #844,Party,"Durham, United Kingdom",18:15,20:45,07/08/2024,07/08/2024 18:15,07/08/2024 20:45
+845,845,Tech Conference #845,Sports Event,"Durham, United Kingdom",22:15,23:59,27/07/2024,27/07/2024 22:15,27/07/2024 23:59
+846,846,Startup Workshop #846,Festival,"Durham, United Kingdom",22:30,23:59,13/11/2024,13/11/2024 22:30,13/11/2024 23:59
+847,847,Art Exhibition #847,Seminar,"Durham, United Kingdom",14:00,15:00,23/11/2024,23/11/2024 14:00,23/11/2024 15:00
+848,848,Sports Day #848,Movie Screening,"Durham, United Kingdom",19:15,21:00,26/10/2024,26/10/2024 19:15,26/10/2024 21:00
+849,849,Winter Gala #849,Ball,"Durham, United Kingdom",17:15,17:15,30/06/2024,30/06/2024 17:15,30/06/2024 17:15
+850,850,Winter Gala #850,Concert,"Durham, United Kingdom",16:15,16:15,20/10/2024,20/10/2024 16:15,20/10/2024 16:15
+851,851,Historical Lecture #851,Workshop,"Durham, United Kingdom",23:45,23:45,06/10/2024,06/10/2024 23:45,06/10/2024 23:45
+852,852,Startup Workshop #852,Seminar,"Durham, United Kingdom",16:45,17:00,03/12/2024,03/12/2024 16:45,03/12/2024 17:00
+853,853,Winter Gala #853,Conference,"Durham, United Kingdom",23:00,23:15,02/11/2024,02/11/2024 23:00,02/11/2024 23:15
+854,854,Shakespeare Play #854,Charity Event,"Durham, United Kingdom",23:45,23:59,20/08/2024,20/08/2024 23:45,20/08/2024 23:59
+855,855,Winter Gala #855,Fair,"Durham, United Kingdom",16:15,17:15,05/12/2024,05/12/2024 16:15,05/12/2024 17:15
+856,856,Shakespeare Play #856,Networking Event,"Durham, United Kingdom",13:45,15:15,04/11/2024,04/11/2024 13:45,04/11/2024 15:15
+857,857,Art Exhibition #857,Ball,"Durham, United Kingdom",23:00,23:00,01/09/2024,01/09/2024 23:00,01/09/2024 23:00
+858,858,Film Night #858,Ball,"Durham, United Kingdom",14:30,15:45,26/06/2024,26/06/2024 14:30,26/06/2024 15:45
+859,859,Shakespeare Play #859,Ball,"Durham, United Kingdom",21:45,22:00,30/06/2024,30/06/2024 21:45,30/06/2024 22:00
+860,860,Winter Gala #860,Fair,"Durham, United Kingdom",22:15,23:59,27/08/2024,27/08/2024 22:15,27/08/2024 23:59
+861,861,Charity Run #861,Concert,"Durham, United Kingdom",15:15,15:30,29/10/2024,29/10/2024 15:15,29/10/2024 15:30
+862,862,Food Fair #862,Seminar,"Durham, United Kingdom",22:30,00:00,13/09/2024,13/09/2024 22:30,14/09/2024 00:00
+863,863,Tech Conference #863,Networking Event,"Durham, United Kingdom",13:45,14:00,18/06/2024,18/06/2024 13:45,18/06/2024 14:00
+864,864,Film Night #864,Workshop,"Durham, United Kingdom",17:30,17:30,14/08/2024,14/08/2024 17:30,14/08/2024 17:30
+865,865,Food Fair #865,Sports Event,"Durham, United Kingdom",22:45,00:00,18/10/2024,18/10/2024 22:45,19/10/2024 00:00
+866,866,Historical Lecture #866,Play,"Durham, United Kingdom",14:30,16:00,24/11/2024,24/11/2024 14:30,24/11/2024 16:00
+867,867,Food Fair #867,Workshop,"Durham, United Kingdom",14:00,16:30,23/06/2024,23/06/2024 14:00,23/06/2024 16:30
+868,868,Sports Day #868,Exhibition,"Durham, United Kingdom",23:15,00:00,27/08/2024,27/08/2024 23:15,28/08/2024 00:00
+869,869,Shakespeare Play #869,Festival,"Durham, United Kingdom",20:15,20:45,07/09/2024,07/09/2024 20:15,07/09/2024 20:45
+870,870,Startup Workshop #870,Fair,"Durham, United Kingdom",19:15,22:15,17/11/2024,17/11/2024 19:15,17/11/2024 22:15
+871,871,Music Festival #871,Party,"Durham, United Kingdom",21:15,23:59,19/09/2024,19/09/2024 21:15,19/09/2024 23:59
+872,872,New Year Party #872,Conference,"Durham, United Kingdom",13:30,14:30,26/07/2024,26/07/2024 13:30,26/07/2024 14:30
+873,873,Startup Workshop #873,Fair,"Durham, United Kingdom",16:15,19:15,27/08/2024,27/08/2024 16:15,27/08/2024 19:15
+874,874,Science Seminar #874,Festival,"Durham, United Kingdom",20:15,21:45,21/09/2024,21/09/2024 20:15,21/09/2024 21:45
+875,875,Tech Conference #875,Party,"Durham, United Kingdom",19:30,21:00,03/08/2024,03/08/2024 19:30,03/08/2024 21:00
+876,876,New Year Party #876,Conference,"Durham, United Kingdom",20:15,21:30,21/09/2024,21/09/2024 20:15,21/09/2024 21:30
+877,877,Science Seminar #877,Festival,"Durham, United Kingdom",22:15,23:45,15/06/2024,15/06/2024 22:15,15/06/2024 23:45
+878,878,Music Festival #878,Charity Event,"Durham, United Kingdom",09:15,09:30,02/08/2024,02/08/2024 09:15,02/08/2024 09:30
+879,879,Art Exhibition #879,Conference,"Durham, United Kingdom",17:45,19:00,16/07/2024,16/07/2024 17:45,16/07/2024 19:00
+880,880,New Year Party #880,Networking Event,"Durham, United Kingdom",08:15,11:15,12/09/2024,12/09/2024 08:15,12/09/2024 11:15
+881,881,Art Exhibition #881,Festival,"Durham, United Kingdom",23:30,23:59,16/08/2024,16/08/2024 23:30,16/08/2024 23:59
+882,882,Film Night #882,Play,"Durham, United Kingdom",13:00,13:15,22/07/2024,22/07/2024 13:00,22/07/2024 13:15
+883,883,Networking Evening #883,Conference,"Durham, United Kingdom",15:00,16:45,09/10/2024,09/10/2024 15:00,09/10/2024 16:45
+884,884,Film Night #884,Movie Screening,"Durham, United Kingdom",22:30,23:15,03/11/2024,03/11/2024 22:30,03/11/2024 23:15
+885,885,New Year Party #885,Workshop,"Durham, United Kingdom",20:00,22:15,14/07/2024,14/07/2024 20:00,14/07/2024 22:15
+886,886,Networking Evening #886,Exhibition,"Durham, United Kingdom",13:15,15:45,18/09/2024,18/09/2024 13:15,18/09/2024 15:45
+887,887,Cultural Festival #887,Conference,"Durham, United Kingdom",15:45,15:45,06/09/2024,06/09/2024 15:45,06/09/2024 15:45
+888,888,Science Seminar #888,Ball,"Durham, United Kingdom",22:15,23:00,02/07/2024,02/07/2024 22:15,02/07/2024 23:00
+889,889,New Year Party #889,Conference,"Durham, United Kingdom",21:30,23:00,14/09/2024,14/09/2024 21:30,14/09/2024 23:00
+890,890,Science Seminar #890,Party,"Durham, United Kingdom",15:00,17:45,29/07/2024,29/07/2024 15:00,29/07/2024 17:45
+891,891,Shakespeare Play #891,Workshop,"Durham, United Kingdom",21:30,23:45,11/11/2024,11/11/2024 21:30,11/11/2024 23:45
+892,892,Winter Gala #892,Conference,"Durham, United Kingdom",13:30,14:30,16/11/2024,16/11/2024 13:30,16/11/2024 14:30
+893,893,Music Festival #893,Seminar,"Durham, United Kingdom",16:00,17:00,01/09/2024,01/09/2024 16:00,01/09/2024 17:00
+894,894,Historical Lecture #894,Fair,"Durham, United Kingdom",23:00,23:59,03/12/2024,03/12/2024 23:00,03/12/2024 23:59
+895,895,Film Night #895,Fair,"Durham, United Kingdom",22:30,23:30,12/06/2024,12/06/2024 22:30,12/06/2024 23:30
+896,896,Music Festival #896,Party,"Durham, United Kingdom",14:00,14:30,15/10/2024,15/10/2024 14:00,15/10/2024 14:30
+897,897,Startup Workshop #897,Exhibition,"Durham, United Kingdom",23:00,23:59,17/11/2024,17/11/2024 23:00,17/11/2024 23:59
+898,898,Sports Day #898,Seminar,"Durham, United Kingdom",10:30,12:30,20/09/2024,20/09/2024 10:30,20/09/2024 12:30
+899,899,Shakespeare Play #899,Movie Screening,"Durham, United Kingdom",21:00,22:45,15/09/2024,15/09/2024 21:00,15/09/2024 22:45
+900,900,Food Fair #900,Play,"Durham, United Kingdom",14:30,14:30,13/06/2024,13/06/2024 14:30,13/06/2024 14:30
+901,901,Art Exhibition #901,Charity Event,"Durham, United Kingdom",13:30,13:30,19/06/2024,19/06/2024 13:30,19/06/2024 13:30
+902,902,New Year Party #902,Sports Event,"Durham, United Kingdom",17:30,17:30,04/09/2024,04/09/2024 17:30,04/09/2024 17:30
+903,903,Film Night #903,Exhibition,"Durham, United Kingdom",20:30,21:00,01/10/2024,01/10/2024 20:30,01/10/2024 21:00
+904,904,Winter Gala #904,Conference,"Durham, United Kingdom",17:30,18:45,22/09/2024,22/09/2024 17:30,22/09/2024 18:45
+905,905,Music Festival #905,Fair,"Durham, United Kingdom",21:30,23:59,22/07/2024,22/07/2024 21:30,22/07/2024 23:59
+906,906,New Year Party #906,Party,"Durham, United Kingdom",14:30,15:00,19/11/2024,19/11/2024 14:30,19/11/2024 15:00
+907,907,Tech Conference #907,Festival,"Durham, United Kingdom",18:45,20:00,07/06/2024,07/06/2024 18:45,07/06/2024 20:00
+908,908,Art Exhibition #908,Networking Event,"Durham, United Kingdom",18:45,19:15,20/07/2024,20/07/2024 18:45,20/07/2024 19:15
+909,909,Art Exhibition #909,Movie Screening,"Durham, United Kingdom",22:45,00:00,08/12/2024,08/12/2024 22:45,09/12/2024 00:00
+910,910,Film Night #910,Ball,"Durham, United Kingdom",21:15,22:45,14/09/2024,14/09/2024 21:15,14/09/2024 22:45
+911,911,New Year Party #911,Party,"Durham, United Kingdom",16:00,18:00,08/09/2024,08/09/2024 16:00,08/09/2024 18:00
+912,912,Food Fair #912,Networking Event,"Durham, United Kingdom",22:45,23:30,12/10/2024,12/10/2024 22:45,12/10/2024 23:30
+913,913,Shakespeare Play #913,Workshop,"Durham, United Kingdom",18:00,18:15,23/10/2024,23/10/2024 18:00,23/10/2024 18:15
+914,914,Music Festival #914,Workshop,"Durham, United Kingdom",20:15,20:30,06/10/2024,06/10/2024 20:15,06/10/2024 20:30
+915,915,Charity Run #915,Movie Screening,"Durham, United Kingdom",18:30,18:45,10/11/2024,10/11/2024 18:30,10/11/2024 18:45
+916,916,Science Seminar #916,Festival,"Durham, United Kingdom",19:00,19:45,02/09/2024,02/09/2024 19:00,02/09/2024 19:45
+917,917,Historical Lecture #917,Fair,"Durham, United Kingdom",17:30,18:00,20/09/2024,20/09/2024 17:30,20/09/2024 18:00
+918,918,Shakespeare Play #918,Lecture,"Durham, United Kingdom",15:30,15:30,06/11/2024,06/11/2024 15:30,06/11/2024 15:30
+919,919,Charity Run #919,Workshop,"Durham, United Kingdom",13:45,14:45,01/09/2024,01/09/2024 13:45,01/09/2024 14:45
+920,920,Science Seminar #920,Concert,"Durham, United Kingdom",14:15,15:00,21/08/2024,21/08/2024 14:15,21/08/2024 15:00
+921,921,Music Festival #921,Networking Event,"Durham, United Kingdom",17:15,17:15,14/07/2024,14/07/2024 17:15,14/07/2024 17:15
+922,922,Food Fair #922,Exhibition,"Durham, United Kingdom",21:30,21:30,01/07/2024,01/07/2024 21:30,01/07/2024 21:30
+923,923,Tech Conference #923,Conference,"Durham, United Kingdom",08:00,08:45,23/09/2024,23/09/2024 08:00,23/09/2024 08:45
+924,924,Startup Workshop #924,Networking Event,"Durham, United Kingdom",22:45,23:45,19/07/2024,19/07/2024 22:45,19/07/2024 23:45
+925,925,Music Festival #925,Networking Event,"Durham, United Kingdom",18:00,20:45,27/10/2024,27/10/2024 18:00,27/10/2024 20:45
+926,926,Tech Conference #926,Play,"Durham, United Kingdom",21:30,21:30,17/10/2024,17/10/2024 21:30,17/10/2024 21:30
+927,927,Shakespeare Play #927,Movie Screening,"Durham, United Kingdom",13:00,13:00,04/12/2024,04/12/2024 13:00,04/12/2024 13:00
+928,928,Music Festival #928,Lecture,"Durham, United Kingdom",16:15,16:15,17/07/2024,17/07/2024 16:15,17/07/2024 16:15
+929,929,Science Seminar #929,Play,"Durham, United Kingdom",15:15,19:15,02/11/2024,02/11/2024 15:15,02/11/2024 19:15
+930,930,Sports Day #930,Charity Event,"Durham, United Kingdom",10:15,10:30,30/07/2024,30/07/2024 10:15,30/07/2024 10:30
+931,931,Film Night #931,Networking Event,"Durham, United Kingdom",21:30,22:15,25/11/2024,25/11/2024 21:30,25/11/2024 22:15
+932,932,Music Festival #932,Concert,"Durham, United Kingdom",16:30,19:30,10/10/2024,10/10/2024 16:30,10/10/2024 19:30
+933,933,Science Seminar #933,Ball,"Durham, United Kingdom",21:00,22:00,09/07/2024,09/07/2024 21:00,09/07/2024 22:00
+934,934,Film Night #934,Seminar,"Durham, United Kingdom",19:15,19:30,11/10/2024,11/10/2024 19:15,11/10/2024 19:30
+935,935,Networking Evening #935,Party,"Durham, United Kingdom",15:30,18:30,28/07/2024,28/07/2024 15:30,28/07/2024 18:30
+936,936,Tech Conference #936,Conference,"Durham, United Kingdom",17:30,19:45,22/09/2024,22/09/2024 17:30,22/09/2024 19:45
+937,937,Shakespeare Play #937,Play,"Durham, United Kingdom",23:30,23:59,10/10/2024,10/10/2024 23:30,10/10/2024 23:59
+938,938,Cultural Festival #938,Movie Screening,"Durham, United Kingdom",19:30,20:00,04/07/2024,04/07/2024 19:30,04/07/2024 20:00
+939,939,Tech Conference #939,Sports Event,"Durham, United Kingdom",13:45,14:45,13/07/2024,13/07/2024 13:45,13/07/2024 14:45
+940,940,Historical Lecture #940,Concert,"Durham, United Kingdom",20:00,23:30,09/06/2024,09/06/2024 20:00,09/06/2024 23:30
+941,941,Startup Workshop #941,Festival,"Durham, United Kingdom",17:30,18:00,06/12/2024,06/12/2024 17:30,06/12/2024 18:00
+942,942,Shakespeare Play #942,Networking Event,"Durham, United Kingdom",17:15,17:30,01/10/2024,01/10/2024 17:15,01/10/2024 17:30
+943,943,Sports Day #943,Conference,"Durham, United Kingdom",17:45,19:15,13/10/2024,13/10/2024 17:45,13/10/2024 19:15
+944,944,Sports Day #944,Conference,"Durham, United Kingdom",17:30,17:45,15/06/2024,15/06/2024 17:30,15/06/2024 17:45
+945,945,Cultural Festival #945,Play,"Durham, United Kingdom",13:00,14:15,08/12/2024,08/12/2024 13:00,08/12/2024 14:15
+946,946,Sports Day #946,Exhibition,"Durham, United Kingdom",20:15,21:15,24/08/2024,24/08/2024 20:15,24/08/2024 21:15
+947,947,Film Night #947,Conference,"Durham, United Kingdom",19:30,20:15,17/10/2024,17/10/2024 19:30,17/10/2024 20:15
+948,948,Music Festival #948,Ball,"Durham, United Kingdom",16:15,16:30,11/07/2024,11/07/2024 16:15,11/07/2024 16:30
+949,949,Startup Workshop #949,Concert,"Durham, United Kingdom",23:00,23:59,09/11/2024,09/11/2024 23:00,09/11/2024 23:59
+950,950,New Year Party #950,Sports Event,"Durham, United Kingdom",19:30,19:45,17/10/2024,17/10/2024 19:30,17/10/2024 19:45
+951,951,Science Seminar #951,Lecture,"Durham, United Kingdom",17:45,19:00,13/06/2024,13/06/2024 17:45,13/06/2024 19:00
+952,952,Food Fair #952,Fair,"Durham, United Kingdom",09:15,12:00,03/07/2024,03/07/2024 09:15,03/07/2024 12:00
+953,953,Science Seminar #953,Charity Event,"Durham, United Kingdom",16:00,16:00,30/07/2024,30/07/2024 16:00,30/07/2024 16:00
+954,954,Networking Evening #954,Concert,"Durham, United Kingdom",22:15,23:00,08/12/2024,08/12/2024 22:15,08/12/2024 23:00
+955,955,New Year Party #955,Fair,"Durham, United Kingdom",16:00,16:00,04/09/2024,04/09/2024 16:00,04/09/2024 16:00
+956,956,Science Seminar #956,Workshop,"Durham, United Kingdom",22:30,23:59,18/11/2024,18/11/2024 22:30,18/11/2024 23:59
+957,957,Film Night #957,Seminar,"Durham, United Kingdom",21:15,23:00,28/09/2024,28/09/2024 21:15,28/09/2024 23:00
+958,958,Art Exhibition #958,Movie Screening,"Durham, United Kingdom",18:15,20:45,20/09/2024,20/09/2024 18:15,20/09/2024 20:45
+959,959,Cultural Festival #959,Seminar,"Durham, United Kingdom",20:15,21:30,08/06/2024,08/06/2024 20:15,08/06/2024 21:30
+960,960,Science Seminar #960,Ball,"Durham, United Kingdom",19:00,19:15,26/09/2024,26/09/2024 19:00,26/09/2024 19:15
+961,961,Networking Evening #961,Workshop,"Durham, United Kingdom",21:30,21:30,24/07/2024,24/07/2024 21:30,24/07/2024 21:30
+962,962,New Year Party #962,Charity Event,"Durham, United Kingdom",10:30,12:15,21/07/2024,21/07/2024 10:30,21/07/2024 12:15
+963,963,New Year Party #963,Party,"Durham, United Kingdom",19:30,19:45,15/07/2024,15/07/2024 19:30,15/07/2024 19:45
+964,964,Charity Run #964,Lecture,"Durham, United Kingdom",17:00,17:15,09/12/2024,09/12/2024 17:00,09/12/2024 17:15
+965,965,Science Seminar #965,Workshop,"Durham, United Kingdom",19:30,20:30,20/09/2024,20/09/2024 19:30,20/09/2024 20:30
+966,966,Film Night #966,Play,"Durham, United Kingdom",21:00,21:15,11/09/2024,11/09/2024 21:00,11/09/2024 21:15
+967,967,Charity Run #967,Ball,"Durham, United Kingdom",17:30,21:30,14/09/2024,14/09/2024 17:30,14/09/2024 21:30
+968,968,Art Exhibition #968,Play,"Durham, United Kingdom",17:45,20:15,05/07/2024,05/07/2024 17:45,05/07/2024 20:15
+969,969,Music Festival #969,Movie Screening,"Durham, United Kingdom",22:15,23:59,19/07/2024,19/07/2024 22:15,19/07/2024 23:59
+970,970,Winter Gala #970,Party,"Durham, United Kingdom",20:00,20:00,18/07/2024,18/07/2024 20:00,18/07/2024 20:00
+971,971,Music Festival #971,Lecture,"Durham, United Kingdom",17:00,17:00,28/07/2024,28/07/2024 17:00,28/07/2024 17:00
+972,972,Charity Run #972,Lecture,"Durham, United Kingdom",18:45,19:45,04/07/2024,04/07/2024 18:45,04/07/2024 19:45
+973,973,Science Seminar #973,Festival,"Durham, United Kingdom",11:30,11:30,31/10/2024,31/10/2024 11:30,31/10/2024 11:30
+974,974,Science Seminar #974,Fair,"Durham, United Kingdom",17:30,17:30,05/08/2024,05/08/2024 17:30,05/08/2024 17:30
+975,975,Winter Gala #975,Concert,"Durham, United Kingdom",23:00,23:00,02/08/2024,02/08/2024 23:00,02/08/2024 23:00
+976,976,Art Exhibition #976,Lecture,"Durham, United Kingdom",20:00,20:30,23/10/2024,23/10/2024 20:00,23/10/2024 20:30
+977,977,Science Seminar #977,Exhibition,"Durham, United Kingdom",18:30,19:15,19/10/2024,19/10/2024 18:30,19/10/2024 19:15
+978,978,Music Festival #978,Concert,"Durham, United Kingdom",22:00,22:00,18/06/2024,18/06/2024 22:00,18/06/2024 22:00
+979,979,Sports Day #979,Fair,"Durham, United Kingdom",21:00,21:15,10/06/2024,10/06/2024 21:00,10/06/2024 21:15
+980,980,New Year Party #980,Fair,"Durham, United Kingdom",18:45,20:45,12/06/2024,12/06/2024 18:45,12/06/2024 20:45
+981,981,Cultural Festival #981,Charity Event,"Durham, United Kingdom",10:30,14:30,16/09/2024,16/09/2024 10:30,16/09/2024 14:30
+982,982,Music Festival #982,Movie Screening,"Durham, United Kingdom",20:00,20:00,08/07/2024,08/07/2024 20:00,08/07/2024 20:00
+983,983,Charity Run #983,Workshop,"Durham, United Kingdom",18:45,19:45,14/07/2024,14/07/2024 18:45,14/07/2024 19:45
+984,984,Music Festival #984,Lecture,"Durham, United Kingdom",22:15,22:30,07/12/2024,07/12/2024 22:15,07/12/2024 22:30
+985,985,Shakespeare Play #985,Sports Event,"Durham, United Kingdom",21:30,22:15,21/08/2024,21/08/2024 21:30,21/08/2024 22:15
+986,986,Charity Run #986,Charity Event,"Durham, United Kingdom",16:45,17:30,07/08/2024,07/08/2024 16:45,07/08/2024 17:30
+987,987,Charity Run #987,Play,"Durham, United Kingdom",22:30,22:30,03/08/2024,03/08/2024 22:30,03/08/2024 22:30
+988,988,Shakespeare Play #988,Festival,"Durham, United Kingdom",20:00,00:00,25/10/2024,25/10/2024 20:00,26/10/2024 00:00
+989,989,Shakespeare Play #989,Concert,"Durham, United Kingdom",10:45,13:00,22/06/2024,22/06/2024 10:45,22/06/2024 13:00
+990,990,Shakespeare Play #990,Party,"Durham, United Kingdom",17:45,19:00,05/07/2024,05/07/2024 17:45,05/07/2024 19:00
+991,991,Art Exhibition #991,Conference,"Durham, United Kingdom",12:45,14:30,13/10/2024,13/10/2024 12:45,13/10/2024 14:30
+992,992,Cultural Festival #992,Play,"Durham, United Kingdom",22:30,00:00,19/10/2024,19/10/2024 22:30,20/10/2024 00:00
+993,993,Art Exhibition #993,Fair,"Durham, United Kingdom",15:30,15:30,28/06/2024,28/06/2024 15:30,28/06/2024 15:30
+994,994,Winter Gala #994,Networking Event,"Durham, United Kingdom",13:30,17:30,28/08/2024,28/08/2024 13:30,28/08/2024 17:30
+995,995,Startup Workshop #995,Sports Event,"Durham, United Kingdom",18:30,20:45,08/09/2024,08/09/2024 18:30,08/09/2024 20:45
+996,996,Music Festival #996,Lecture,"Durham, United Kingdom",12:30,12:30,06/12/2024,06/12/2024 12:30,06/12/2024 12:30
+997,997,Science Seminar #997,Sports Event,"Durham, United Kingdom",21:15,21:30,09/11/2024,09/11/2024 21:15,09/11/2024 21:30
+998,998,Networking Evening #998,Lecture,"Durham, United Kingdom",16:15,18:15,18/11/2024,18/11/2024 16:15,18/11/2024 18:15
+999,999,Winter Gala #999,Ball,"Durham, United Kingdom",21:15,23:45,20/10/2024,20/10/2024 21:15,20/10/2024 23:45
+1000,1000,Art Exhibition #1000,Sports Event,"Durham, United Kingdom",19:15,20:00,25/07/2024,25/07/2024 19:15,25/07/2024 20:00
