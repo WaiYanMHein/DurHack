@@ -1,0 +1,9 @@
+# Ignore the MergeAll file
+MergeAll.csv
+
+# Other files and directories to ignore
+*.log
+*.tmp
+__pycache__/
+*.pyc
+.DS_Store
