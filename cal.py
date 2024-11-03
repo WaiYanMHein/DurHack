@@ -191,5 +191,10 @@ class cal:
 
         return combined_data
 
-    if __name__ == "__main__":
-        Gain_data()
+
+if __name__ == "__main__":
+    # Example usage of Gain_data
+    start_date = "2024-11-02"
+    end_date = "2024-11-05"
+    result = cal.Gain_data(start_date, end_date)
+    print(result)
