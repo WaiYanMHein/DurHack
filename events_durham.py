@@ -1,5 +1,7 @@
 import csv
 import random
+import numpy as np
+random
 from datetime import datetime, timedelta
 
 # Parameters
