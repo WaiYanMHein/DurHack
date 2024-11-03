@@ -1,6 +1,7 @@
 import csv
 import random
 from datetime import datetime, timedelta
+import numpy as np
 
 # Parameters
 num_events = 1000
@@ -49,9 +50,9 @@ for event_id in range(1, num_events + 1):
         'location': random.choice(locations),
         'start_time': start_datetime.strftime('%H:%M'),
         'end_time': end_datetime.strftime('%H:%M'),
-        'date': date.strftime('%d/%m/%Y'),
-        'start_datetime': start_datetime.strftime('%d/%m/%Y %H:%M'),
-        'end_datetime': end_datetime.strftime('%d/%m/%Y %H:%M'),
+        'date': date.strftime('%Y-%m-%d'),
+        'start_datetime': start_datetime.strftime('%Y-%m-%d %H:%M'),
+        'end_datetime': end_datetime.strftime('%Y-%m-%d %H:%M'),
     }
     events.append(event)
 
@@ -75,7 +76,7 @@ max_rating = 5
 cutoff_date = datetime(2024, 11, 2)
 
 # Filter events before cutoff date
-past_events = [event for event in events if datetime.strptime(event['date'], '%d/%m/%Y') < cutoff_date]
+past_events = [event for event in events if datetime.strptime(event['date'], '%Y-%m-%d') < cutoff_date]
 
 users_past = []
 
@@ -116,7 +117,7 @@ with open('users_past_durham.csv', 'w', newline='', encoding='utf-8') as csvfile
 ################################################################
 #users_durham_future
 # Filter events after cutoff date
-future_events = [event for event in events if datetime.strptime(event['date'], '%d/%m/%Y') >= cutoff_date]
+future_events = [event for event in events if datetime.strptime(event['date'], '%Y-%m-%d') >= cutoff_date]
 
 users_going = []
 
