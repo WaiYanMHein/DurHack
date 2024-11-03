@@ -1,34 +1,37 @@
 Unnamed: 0,event_id,name,type,location,start_time,end_time,date,start_datetime,end_datetime
-13,14,Science Fair,Concert,Houston,12:45:00,17:45:00,2024-11-03,2024-11-03 12:45:00,2024-11-03 12:45:00
-647,648,Book Launch,Concert,Boston,10:00:00,12:00:00,2024-11-14,2024-11-14 10:00:00,2024-11-14 10:00:00
-704,705,Music Concert,Launch,Chicago,11:30:00,12:30:00,2024-11-20,2024-11-20 11:30:00,2024-11-20 11:30:00
-106,107,Film Screening,Screening,Austin,16:30:00,20:30:00,2024-11-24,2024-11-24 16:30:00,2024-11-24 16:30:00
-468,469,Tech Talk,Exhibition,Houston,13:30:00,18:30:00,2024-12-01,2024-12-01 13:30:00,2024-12-01 13:30:00
-574,575,Book Launch,Workshop,Austin,10:15:00,13:15:00,2024-12-20,2024-12-20 10:15:00,2024-12-20 10:15:00
-782,783,Comedy Night,Concert,Seattle,12:30:00,15:30:00,2024-12-23,2024-12-23 12:30:00,2024-12-23 12:30:00
-81,82,Comedy Night,Exhibition,Houston,12:45:00,13:45:00,2025-01-11,2025-01-11 12:45:00,2025-01-11 12:45:00
-458,459,Comedy Night,Concert,Denver,09:30:00,14:30:00,2025-01-31,2025-01-31 09:30:00,2025-01-31 09:30:00
-943,944,Tech Talk,Workshop,Seattle,11:45:00,13:45:00,2025-02-03,2025-02-03 11:45:00,2025-02-03 11:45:00
-427,428,Art Exhibition,Festival,Los Angeles,09:00:00,11:00:00,2025-02-09,2025-02-09 09:00:00,2025-02-09 09:00:00
-40,41,Book Launch,Launch,Boston,18:00:00,23:00:00,2025-02-17,2025-02-17 18:00:00,2025-02-17 18:00:00
-438,439,Art Exhibition,Exhibition,Denver,09:15:00,12:15:00,2025-02-20,2025-02-20 09:15:00,2025-02-20 09:15:00
-520,521,Food Festival,Exhibition,Chicago,17:45:00,20:45:00,2025-04-19,2025-04-19 17:45:00,2025-04-19 17:45:00
-201,202,Food Festival,Class,Miami,11:00:00,15:00:00,2025-05-23,2025-05-23 11:00:00,2025-05-23 11:00:00
-27,28,Film Screening,Concert,Los Angeles,14:30:00,18:30:00,2025-06-07,2025-06-07 14:30:00,2025-06-07 14:30:00
-301,302,Yoga Class,Concert,Chicago,18:30:00,19:30:00,2025-06-07,2025-06-07 18:30:00,2025-06-07 18:30:00
-432,433,Comedy Night,Screening,Houston,18:15:00,19:15:00,2025-06-09,2025-06-09 18:15:00,2025-06-09 18:15:00
-434,435,Yoga Class,Class,Seattle,09:30:00,10:30:00,2025-06-26,2025-06-26 09:30:00,2025-06-26 09:30:00
-854,855,Music Concert,Class,Seattle,13:00:00,16:00:00,2025-07-26,2025-07-26 13:00:00,2025-07-26 13:00:00
-31,32,Music Concert,Conference,Boston,09:30:00,14:30:00,2025-08-27,2025-08-27 09:30:00,2025-08-27 09:30:00
-741,742,Film Screening,Screening,Austin,10:45:00,11:45:00,2025-09-22,2025-09-22 10:45:00,2025-09-22 10:45:00
-702,703,Comedy Night,Launch,Boston,15:15:00,18:15:00,2025-10-11,2025-10-11 15:15:00,2025-10-11 15:15:00
-639,640,Book Launch,Festival,Seattle,13:00:00,14:00:00,2025-10-12,2025-10-12 13:00:00,2025-10-12 13:00:00
-775,776,Yoga Class,Concert,Boston,18:00:00,22:00:00,2025-11-06,2025-11-06 18:00:00,2025-11-06 18:00:00
-36,37,Book Launch,Fair,Chicago,08:15:00,13:15:00,2025-11-15,2025-11-15 08:15:00,2025-11-15 08:15:00
-679,680,Film Screening,Fair,Austin,08:30:00,09:30:00,2025-11-15,2025-11-15 08:30:00,2025-11-15 08:30:00
-307,308,Coding Workshop,Screening,Chicago,11:15:00,16:15:00,2025-11-21,2025-11-21 11:15:00,2025-11-21 11:15:00
-991,992,Book Launch,Concert,San Francisco,14:45:00,19:45:00,2025-12-05,2025-12-05 14:45:00,2025-12-05 14:45:00
-306,307,Music Concert,Exhibition,Boston,13:30:00,18:30:00,2025-12-07,2025-12-07 13:30:00,2025-12-07 13:30:00
-326,327,Tech Talk,Fair,Chicago,18:00:00,22:00:00,2025-12-17,2025-12-17 18:00:00,2025-12-17 18:00:00
-691,692,Yoga Class,Class,Seattle,14:15:00,17:15:00,2025-12-19,2025-12-19 14:15:00,2025-12-19 14:15:00
-536,537,Film Screening,Launch,Los Angeles,09:00:00,12:00:00,2025-12-22,2025-12-22 09:00:00,2025-12-22 09:00:00
+651,651,Networking Evening #651,Festival,"Durham, United Kingdom",18:15,22:00,2024-06-10,2024-06-10 18:15,2024-06-10 18:15:00
+42,42,Charity Run #42,Networking Event,"Durham, United Kingdom",23:15,23:15,2024-06-14,2024-06-14 23:15,2024-06-14 23:15:00
+10,10,Music Festival #10,Concert,"Durham, United Kingdom",15:15,15:30,2024-07-01,2024-07-01 15:15,2024-07-01 15:15:00
+406,406,Tech Conference #406,Play,"Durham, United Kingdom",13:30,14:30,2024-07-05,2024-07-05 13:30,2024-07-05 13:30:00
+206,206,New Year Party #206,Exhibition,"Durham, United Kingdom",22:30,23:59,2024-07-15,2024-07-15 22:30,2024-07-15 22:30:00
+41,41,Winter Gala #41,Workshop,"Durham, United Kingdom",18:30,18:45,2024-07-18,2024-07-18 18:30,2024-07-18 18:30:00
+286,286,New Year Party #286,Festival,"Durham, United Kingdom",16:45,18:45,2024-07-19,2024-07-19 16:45,2024-07-19 16:45:00
+110,110,Art Exhibition #110,Party,"Durham, United Kingdom",12:00,14:30,2024-07-22,2024-07-22 12:00,2024-07-22 12:00:00
+19,19,Cultural Festival #19,Concert,"Durham, United Kingdom",22:15,22:15,2024-07-28,2024-07-28 22:15,2024-07-28 22:15:00
+281,281,Cultural Festival #281,Movie Screening,"Durham, United Kingdom",19:15,20:00,2024-07-30,2024-07-30 19:15,2024-07-30 19:15:00
+496,496,Music Festival #496,Lecture,"Durham, United Kingdom",15:30,16:15,2024-08-07,2024-08-07 15:30,2024-08-07 15:30:00
+386,386,Shakespeare Play #386,Fair,"Durham, United Kingdom",17:00,17:15,2024-08-08,2024-08-08 17:00,2024-08-08 17:00:00
+648,648,Music Festival #648,Party,"Durham, United Kingdom",14:15,15:15,2024-08-20,2024-08-20 14:15,2024-08-20 14:15:00
+494,494,Startup Workshop #494,Movie Screening,"Durham, United Kingdom",14:45,18:45,2024-08-21,2024-08-21 14:45,2024-08-21 14:45:00
+11,11,Cultural Festival #11,Networking Event,"Durham, United Kingdom",19:00,23:00,2024-09-05,2024-09-05 19:00,2024-09-05 19:00:00
+440,440,Networking Evening #440,Fair,"Durham, United Kingdom",16:15,18:00,2024-09-07,2024-09-07 16:15,2024-09-07 16:15:00
+108,108,Film Night #108,Lecture,"Durham, United Kingdom",13:00,16:00,2024-09-09,2024-09-09 13:00,2024-09-09 13:00:00
+848,848,Cultural Festival #848,Fair,"Durham, United Kingdom",14:45,15:15,2024-09-10,2024-09-10 14:45,2024-09-10 14:45:00
+439,439,Networking Evening #439,Workshop,"Durham, United Kingdom",14:00,15:15,2024-09-13,2024-09-13 14:00,2024-09-13 14:00:00
+8,8,Music Festival #8,Sports Event,"Durham, United Kingdom",15:45,16:00,2024-09-18,2024-09-18 15:45,2024-09-18 15:45:00
+831,831,Music Festival #831,Fair,"Durham, United Kingdom",10:30,11:00,2024-09-21,2024-09-21 10:30,2024-09-21 10:30:00
+314,314,Cultural Festival #314,Party,"Durham, United Kingdom",21:00,23:30,2024-10-12,2024-10-12 21:00,2024-10-12 21:00:00
+938,938,Historical Lecture #938,Sports Event,"Durham, United Kingdom",19:15,19:30,2024-10-14,2024-10-14 19:15,2024-10-14 19:15:00
+374,374,Cultural Festival #374,Sports Event,"Durham, United Kingdom",17:45,19:15,2024-10-20,2024-10-20 17:45,2024-10-20 17:45:00
+559,559,Sports Day #559,Festival,"Durham, United Kingdom",12:30,13:15,2024-10-27,2024-10-27 12:30,2024-10-27 12:30:00
+599,599,Networking Evening #599,Fair,"Durham, United Kingdom",13:15,16:45,2024-11-02,2024-11-02 13:15,2024-11-02 13:15:00
+611,611,Food Fair #611,Ball,"Durham, United Kingdom",16:45,16:45,2024-11-03,2024-11-03 16:45,2024-11-03 16:45:00
+139,139,Science Seminar #139,Charity Event,"Durham, United Kingdom",17:30,17:45,2024-11-05,2024-11-05 17:30,2024-11-05 17:30:00
+575,575,Music Festival #575,Sports Event,"Durham, United Kingdom",23:00,23:59,2024-11-09,2024-11-09 23:00,2024-11-09 23:00:00
+627,627,Food Fair #627,Seminar,"Durham, United Kingdom",19:00,23:00,2024-11-14,2024-11-14 19:00,2024-11-14 19:00:00
+731,731,Winter Gala #731,Festival,"Durham, United Kingdom",13:00,13:00,2024-11-16,2024-11-16 13:00,2024-11-16 13:00:00
+617,617,Networking Evening #617,Party,"Durham, United Kingdom",18:45,19:30,2024-11-19,2024-11-19 18:45,2024-11-19 18:45:00
+982,982,Charity Run #982,Concert,"Durham, United Kingdom",16:30,19:15,2024-11-21,2024-11-21 16:30,2024-11-21 16:30:00
+992,992,Historical Lecture #992,Concert,"Durham, United Kingdom",18:45,20:45,2024-11-24,2024-11-24 18:45,2024-11-24 18:45:00
+663,663,Music Festival #663,Lecture,"Durham, United Kingdom",16:30,16:30,2024-11-25,2024-11-25 16:30,2024-11-25 16:30:00
+741,741,New Year Party #741,Networking Event,"Durham, United Kingdom",22:00,23:59,2024-12-06,2024-12-06 22:00,2024-12-06 22:00:00

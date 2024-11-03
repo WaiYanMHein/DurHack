@@ -10,7 +10,7 @@ from datetime import datetime
 ## Read in dataset
 df_events_past = pd.read_csv("correct_csvs/events_past.csv")
 df_ratings_past = pd.read_csv("correct_csvs/ratings_past.csv")
-df_events_future = pd.read_csv("correct_csvs/events_future.csv")
+df_events_future = pd.read_csv("correct_csvs/events_durham.csv")
 df_going_future = pd.read_csv("correct_csvs/going_future.csv")
 
 
